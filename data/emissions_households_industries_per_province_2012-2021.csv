@@ -1,0 +1,1628 @@
+Physical flow account for greenhouse gas emissions c 1 2 3 4 5 6 7 8 9 10 11,,,,,,,,,,,
+Frequency: Annual,,,,,,,,,,,
+Table: 38-10-0097-01 (formerly CANSIM 153-0114),,,,,,,,,,,
+Release date: 2023-12-20,,,,,,,,,,,
+"Geography: Canada, Province or territory",,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Geography,Sector,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+Newfoundland and Labrador,,Kilotonnes,,,,,,,,,
+,"Total, industries and households","9,074","9,167","10,195","10,833","11,063","10,843","10,552","10,483","8,420","7,694"
+,"Total, industries","6,711","6,914","7,674","8,423","8,614","8,115","8,005","8,022","6,224","5,590"
+,Crop and animal production  [BS11A00],157,111,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,108,98,100,92,100,107,118,118
+,Cannabis production (licensed)  [BS111CL],..,..,0s,0s,0s,0s,0s,0s,0s,0s
+,Cannabis production (unlicensed)  [BS111CU],..,..,1,1,1,0s,0s,1,1,1
+,Forestry and logging  [BS11300],129,99,116,168,144,93,126,90,50,59
+,"Fishing, hunting and trapping  [BS11400]",233,186,196,280,235,237,257,233,151,145
+,Support activities for agriculture and forestry  [BS11500],17,12,21,62,66,17,30,27,8,12
+,Oil and gas extraction  [BS21100],"1,155","1,367","1,515","1,312","1,466","1,521","1,970","1,787","1,573","1,357"
+,Coal mining  [BS21210],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Metal ore mining  [BS21220],"1,110","1,200","1,190","1,427",936,927,737,845,821,979
+,Non-metallic mineral mining and quarrying  [BS21230],9,8,12,14,14,2,4,35,39,19
+,Support activities for mining and oil and gas extraction  [BS21300],186,154,187,189,321,202,305,429,284,209
+,"Electric power generation, transmission and distribution  [BS22110]",770,868,"1,207","1,340","1,524","1,530","1,128","1,140",952,647
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Residential building construction  [BS23A00],27,15,17,20,27,20,27,23,43,44
+,Non-residential building construction  [BS23B00],29,14,16,19,23,11,16,16,9,9
+,Transportation engineering construction  [BS23C10],17,23,18,24,19,24,33,30,12,12
+,Oil and gas engineering construction  [BS23C20],87,107,181,176,191,127,152,167,64,66
+,Electric power engineering construction  [BS23C30],17,26,43,102,176,159,91,74,39,39
+,Communication engineering construction  [BS23C40],1,3,3,2,9,10,15,9,9,9
+,Other engineering construction  [BS23C50],67,22,15,15,26,34,56,44,45,48
+,Repair construction  [BS23D00],18,10,15,16,22,22,34,27,19,19
+,Other activities of the construction industry  [BS23E00],6,4,5,6,6,6,8,7,5,5
+,Animal food manufacturing  [BS31110],3,3,4,4,4,3,3,4,3,4
+,Sugar and confectionery product manufacturing  [BS31130],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Dairy product manufacturing  [BS31150],5,6,5,4,6,5,1,1,1,1
+,Meat product manufacturing  [BS31160],2,4,5,5,5,4,4,4,4,3
+,Seafood product preparation and packaging  [BS31170],35,25,24,31,54,24,25,34,35,32
+,Miscellaneous food manufacturing  [BS311A0],1,1,1,1,1,1,1,1,1,1
+,Soft drink and ice manufacturing  [BS31211],3,2,2,1,1,1,1,2,2,1
+,Breweries  [BS31212],15,13,15,21,14,13,14,6,9,8
+,Wineries and distilleries  [BS3121A],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Textile and textile product mills  [BS31A00],0s,0s,0s,1,0s,0s,0s,0s,0s,0s
+,Clothing and leather and allied product manufacturing  [BS31B00],0s,0s,1,6,1,0s,0s,1,1,0s
+,Wood product manufacturing  [BS32100] 12,11,12,12,14,15,16,15,16,16,16
+,"Pulp, paper and paperboard mills  [BS32210] 12",81,109,84,81,159,205,147,18,134,130
+,Converted paper product manufacturing  [BS32220],0s,0s,0s,1,0s,0s,0s,0s,0s,0s
+,Printing and related support activities  [BS32300],1,1,1,1,1,1,1,1,1,0s
+,Petroleum and coal product manufacturing  [BS32400],984,935,901,"1,068","1,158",948,920,"1,040",213,48
+,Basic chemical manufacturing  [BS32510],0s,1,0s,0s,0s,5,1,2,3,2
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Pharmaceutical and medicine manufacturing  [BS32540],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,1,1,1,1,5,4,3,11,7,6
+,Plastic product manufacturing  [BS32610],1,1,7,10,1,0s,0s,0s,0s,0s
+,Rubber product manufacturing  [BS32620],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],1,1,1,1,1,1,0s,0s,0s,0s
+,Cement and concrete product manufacturing  [BS32730],8,7,3,4,14,11,27,32,62,60
+,Primary metal manufacturing  [BS33100],0s,1,1,89,38,54,45,40,17,15
+,Fabricated metal product manufacturing  [BS33200],7,8,6,7,6,3,3,3,3,2
+,Machinery manufacturing  [BS33300],2,2,2,8,1,2,2,2,2,2
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],0s,0s,0s,0s,0s,0s,0s,1,0s,0s
+,Electrical  equipment and component manufacturing  [BS335A0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],1,2,2,1,0s,1,1,1,1,1
+,Motor vehicle body and trailer manufacturing  [BS33620],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle parts manufacturing  [BS33630],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],0s,0s,0s,1,0s,0s,0s,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Ship and boat building  [BS33660],0s,2,4,4,1,1,4,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Furniture and related product manufacturing  [BS33700],1,2,1,1,2,1,1,1,1,1
+,Miscellaneous manufacturing  [BS33900],2,3,2,2,1,1,2,1,1,1
+,Wholesale trade  [BS41000],48,50,47,52,43,51,48,45,32,32
+,Retail trade  [BS4A000],100,94,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,100,120,101,103,107,101,81,78
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,0s,0s,0s
+,Cannabis stores (unlicensed)  [BS453BU],..,..,0s,0s,0s,0s,0s,0s,0s,0s
+,Air transportation  [BS48100],206,205,229,224,233,236,212,225,208,208
+,Rail transportation  [BS48200],39,39,34,33,32,34,34,45,42,40
+,Water transportation  [BS48300],373,218,209,244,186,205,236,248,170,153
+,Truck transportation  [BS48400],137,131,137,131,133,137,112,91,77,85
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",32,31,34,32,41,46,34,34,29,29
+,Pipeline transportation  [BS48600],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Postal service and couriers and messengers  [BS49A00],29,20,19,28,31,27,35,34,29,32
+,Warehousing and storage  [BS49300],1,1,1,1,1,1,1,2,1,1
+,Motion picture and sound recording industries  [BS51200],1,1,1,0s,0s,0s,0s,0s,0s,0s
+,Radio and television broadcasting  [BS51510],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",18,13,15,16,91,97,126,90,50,46
+,Depository credit intermediation and monetary authorities  [BS52B00],9,9,10,10,10,9,6,7,6,5
+,Insurance carriers  [BS52410],3,2,2,2,2,2,1,1,0s,0s
+,Lessors of real estate  [BS53110],66,121,130,106,99,66,41,49,43,40
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],9,16,29,41,39,35,33,32,28,29
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",39,46,51,45,40,36,23,23,17,17
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",11,7,9,10,8,9,9,9,6,6
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",2,1,1,1,1,1,1,0s,0s,0s
+,"Advertising, public relations and related services  [BS54180]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Administrative and support services  [BS56100],22,13,14,17,15,16,15,14,13,14
+,Waste management and remediation services  [BS56200],21,17,7,11,9,10,11,11,9,8
+,Educational services  [BS61000],1,2,2,1,1,1,1,1,1,1
+,Health care and social assistance  [BS62000],39,40,45,43,46,47,35,33,30,30
+,"Arts, entertainment and recreation  [BS71000]",1,2,2,2,2,2,1,1,1,1
+,Accommodation and food services  [BS72000],25,29,33,37,33,36,32,36,24,23
+,Repair and maintenance  [BS81100],39,38,45,52,53,53,51,44,49,48
+,Personal services and private households  [BS81A00],7,8,9,9,9,10,6,7,6,6
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],0,0,0,0,0,0,0,0,0,0
+,Non-profit social assistance  [NP62400],1,1,0s,1,0s,1,0s,0s,1,1
+,"Non-profit arts, entertainment and recreation  [NP71000]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Religious organizations  [NP81310],2,6,7,7,7,5,5,6,5,5
+,Miscellaneous non-profit institutions serving households  [NPA0000],10,8,9,11,10,11,8,8,9,9
+,Educational services (except universities)  [GS611B0],16,44,46,53,55,50,30,37,53,50
+,Universities  [GS61130],24,27,30,30,30,30,21,24,17,17
+,Hospitals  [GS62200],34,134,146,129,136,122,81,91,101,93
+,Nursing and residential care facilities  [GS62300],1,2,3,3,3,4,2,3,3,3
+,Other federal government services  [GS91100],50,29,113,131,179,150,209,212,194,223
+,Other provincial and territorial government services  [GS91200],15,59,71,79,68,57,58,66,56,51
+,Other municipal government services  [GS91300],70,73,79,72,68,59,50,56,51,48
+,Other aboriginal government services  [GS91400],1,1,1,1,1,14,13,18,20,18
+,"Total, households","2,364","2,253","2,522","2,409","2,449","2,728","2,547","2,461","2,195","2,104"
+,Households: Motor fuels and lubricants,"1,742","1,711","1,926","1,897","1,809","1,900","1,671","1,628","1,422","1,439"
+,Households: Electricity and other fuels,622,542,596,512,640,829,876,832,773,665
+Prince Edward Island,"Total, industries and households","1,909","1,597","1,573","1,513","1,615","1,667","1,658","1,692","1,648","1,661"
+,"Total, industries",923,744,787,794,830,816,837,853,899,913
+,Crop and animal production  [BS11A00],345,294,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,317,308,350,339,356,359,362,384
+,Cannabis production (licensed)  [BS111CL],..,..,0s,0s,0s,0s,1,3,10,14
+,Cannabis production (unlicensed)  [BS111CU],..,..,0s,0s,0s,0s,0s,0s,0s,0s
+,Forestry and logging  [BS11300],11,9,9,11,12,16,12,11,11,6
+,"Fishing, hunting and trapping  [BS11400]",35,27,28,55,59,69,70,80,69,67
+,Support activities for agriculture and forestry  [BS11500],2,3,4,4,4,4,5,4,3,3
+,Oil and gas extraction  [BS21100],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Coal mining  [BS21210],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Metal ore mining  [BS21220],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-metallic mineral mining and quarrying  [BS21230],1,1,1,1,1,1,1,1,0s,1
+,Support activities for mining and oil and gas extraction  [BS21300],1,1,1,1,1,0s,1,0s,0s,0s
+,"Electric power generation, transmission and distribution  [BS22110]",11,4,4,14,4,8,4,2,2,3
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",0s,0s,0s,0s,16,3,8,8,6,6
+,Residential building construction  [BS23A00],5,4,4,6,7,8,9,11,11,10
+,Non-residential building construction  [BS23B00],1,1,2,2,3,4,4,4,4,4
+,Transportation engineering construction  [BS23C10],6,0s,2,3,3,3,3,4,5,4
+,Oil and gas engineering construction  [BS23C20],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electric power engineering construction  [BS23C30],1,3,1,1,1,1,0s,0s,0s,0s
+,Communication engineering construction  [BS23C40],1,0s,1,1,1,1,2,1,1,1
+,Other engineering construction  [BS23C50],1,1,1,1,2,2,2,3,3,3
+,Repair construction  [BS23D00],4,2,3,5,5,4,5,4,5,5
+,Other activities of the construction industry  [BS23E00],3,3,3,4,4,3,3,3,4,4
+,Animal food manufacturing  [BS31110],0s,0s,0s,0s,0s,1,0s,0s,0s,0s
+,Sugar and confectionery product manufacturing  [BS31130],0s,0,0,0,0,0,0,0,0,0
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],164,108,77,52,55,60,36,53,115,108
+,Dairy product manufacturing  [BS31150],26,2,1,4,4,2,6,7,8,1
+,Meat product manufacturing  [BS31160],2,1,2,4,2,2,1,1,1,1
+,Seafood product preparation and packaging  [BS31170],7,3,6,10,15,7,8,8,7,7
+,Miscellaneous food manufacturing  [BS311A0],1,0s,0s,1,0s,0s,1,0s,0s,0s
+,Soft drink and ice manufacturing  [BS31211],1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Breweries  [BS31212],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Wineries and distilleries  [BS3121A],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0,0,0,0,0,0,0,0,0,0
+,Textile and textile product mills  [BS31A00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Clothing and leather and allied product manufacturing  [BS31B00],0s,0s,0s,0s,0s,0s,0s,1,0s,1
+,Wood product manufacturing  [BS32100] 12,1,1,34,2,2,1,2,1,1,1
+,"Pulp, paper and paperboard mills  [BS32210] 12",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Converted paper product manufacturing  [BS32220],1,1,1,6,5,5,6,1,1,1
+,Printing and related support activities  [BS32300],0s,0s,0s,0s,0s,1,0s,0s,0s,0s
+,Petroleum and coal product manufacturing  [BS32400],1,1,1,1,1,1,1,2,2,2
+,Basic chemical manufacturing  [BS32510],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",1,1,1,2,1,3,4,5,5,5
+,Pharmaceutical and medicine manufacturing  [BS32540],1,1,10,3,3,2,2,2,1,1
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Plastic product manufacturing  [BS32610],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Rubber product manufacturing  [BS32620],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],0s,0s,0s,0s,0s,0s,1,1,1,1
+,Cement and concrete product manufacturing  [BS32730],4,2,0s,1,5,3,3,4,4,4
+,Primary metal manufacturing  [BS33100],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fabricated metal product manufacturing  [BS33200],2,1,1,2,3,5,2,5,1,8
+,Machinery manufacturing  [BS33300],1,0s,1,1,2,1,1,1,1,1
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electrical  equipment and component manufacturing  [BS335A0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle body and trailer manufacturing  [BS33620],0s,0s,0s,0s,0s,0s,1,1,0s,0s
+,Motor vehicle parts manufacturing  [BS33630],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],1,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0s,0,0,0,0,0,0,0,0,0
+,Ship and boat building  [BS33660],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Furniture and related product manufacturing  [BS33700],0s,0s,0s,0s,0s,0s,0s,1,0s,0s
+,Miscellaneous manufacturing  [BS33900],1,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Wholesale trade  [BS41000],7,11,13,14,16,13,16,16,16,16
+,Retail trade  [BS4A000],22,22,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,22,23,25,22,26,25,26,26
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,0s,0,0
+,Cannabis stores (unlicensed)  [BS453BU],..,..,0s,0s,0s,0s,0s,0s,0s,0s
+,Air transportation  [BS48100],8,7,7,7,7,11,9,9,3,3
+,Rail transportation  [BS48200],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Water transportation  [BS48300],25,20,23,28,29,24,25,20,20,20
+,Truck transportation  [BS48400],88,82,92,98,74,81,83,76,74,81
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",4,3,4,3,8,6,5,5,4,4
+,Pipeline transportation  [BS48600],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Postal service and couriers and messengers  [BS49A00],2,2,1,1,1,1,1,1,1,1
+,Warehousing and storage  [BS49300],0s,0s,0s,0s,0s,0s,0s,0s,1,1
+,Motion picture and sound recording industries  [BS51200],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Radio and television broadcasting  [BS51510],0s,0s,0s,0,0s,0s,0s,0,0,0
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",2,2,2,1,9,8,5,3,2,2
+,Depository credit intermediation and monetary authorities  [BS52B00],2,1,1,1,1,1,1,1,1,1
+,Insurance carriers  [BS52410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Lessors of real estate  [BS53110],30,33,24,28,11,15,19,19,22,20
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],2,2,1,2,2,2,2,2,1,2
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",19,18,14,13,7,8,10,9,6,6
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",1,1,0s,0s,0s,0s,0s,0s,0s,0s
+,"Advertising, public relations and related services  [BS54180]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Administrative and support services  [BS56100],4,3,3,4,3,3,3,3,4,4
+,Waste management and remediation services  [BS56200],9,8,7,6,7,6,9,10,12,11
+,Educational services  [BS61000],1,1,1,1,0s,1,1,1,1,1
+,Health care and social assistance  [BS62000],7,8,5,5,4,4,5,5,5,5
+,"Arts, entertainment and recreation  [BS71000]",1,1,1,0s,0s,0s,0s,0s,0s,0s
+,Accommodation and food services  [BS72000],10,9,9,11,12,11,14,14,14,13
+,Repair and maintenance  [BS81100],6,3,4,4,5,4,5,5,4,5
+,Personal services and private households  [BS81A00],1,1,1,1,1,1,1,1,1,1
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],0,0,0,0,0,0,0,0,0,0
+,Non-profit social assistance  [NP62400],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Non-profit arts, entertainment and recreation  [NP71000]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Religious organizations  [NP81310],0s,1,0s,0s,0s,0s,0s,0s,1,1
+,Miscellaneous non-profit institutions serving households  [NPA0000],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Educational services (except universities)  [GS611B0],4,6,4,4,2,3,4,4,4,4
+,Universities  [GS61130],1,3,2,2,1,1,2,2,2,2
+,Hospitals  [GS62200],0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Nursing and residential care facilities  [GS62300],0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Other federal government services  [GS91100],5,4,15,12,11,12,14,15,10,10
+,Other provincial and territorial government services  [GS91200],6,5,4,8,8,7,6,5,7,7
+,Other municipal government services  [GS91300],9,6,6,6,6,5,6,6,6,6
+,Other aboriginal government services  [GS91400],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Total, households",987,854,787,720,785,851,821,839,749,749
+,Households: Motor fuels and lubricants,524,456,451,454,479,500,470,475,413,438
+,Households: Electricity and other fuels,462,397,335,266,306,351,351,364,336,310
+Nova Scotia,"Total, industries and households","20,453","19,116","17,802","17,777","16,575","17,095","17,582","16,762","14,381","14,203"
+,"Total, industries","15,328","14,334","13,357","12,802","11,928","12,323","12,665","11,984","10,267","10,130"
+,Crop and animal production  [BS11A00],607,559,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,455,444,436,475,472,437,461,456
+,Cannabis production (licensed)  [BS111CL],..,..,0s,0s,1,2,8,7,21,19
+,Cannabis production (unlicensed)  [BS111CU],..,..,3,3,3,4,3,2,2,2
+,Forestry and logging  [BS11300],115,186,177,165,159,169,164,132,77,75
+,"Fishing, hunting and trapping  [BS11400]",194,220,209,256,252,311,325,349,320,319
+,Support activities for agriculture and forestry  [BS11500],95,53,45,61,56,64,64,66,37,35
+,Oil and gas extraction  [BS21100],650,637,844,644,504,339,243,17,17,17
+,Coal mining  [BS21210],83,82,1,1,1,72,113,171,13,12
+,Metal ore mining  [BS21220],0s,0s,0s,0s,0s,2,10,12,12,6
+,Non-metallic mineral mining and quarrying  [BS21230],42,29,28,31,24,25,26,32,24,34
+,Support activities for mining and oil and gas extraction  [BS21300],110,69,31,33,35,63,41,50,51,46
+,"Electric power generation, transmission and distribution  [BS22110]","7,601","7,487","7,120","6,895","6,327","6,617","6,936","6,677","6,321","6,065"
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",3,4,3,4,4,4,7,8,5,4
+,Residential building construction  [BS23A00],25,24,22,36,46,43,54,52,57,68
+,Non-residential building construction  [BS23B00],9,8,7,8,9,7,9,8,6,8
+,Transportation engineering construction  [BS23C10],18,14,15,16,20,17,16,17,19,23
+,Oil and gas engineering construction  [BS23C20],2,2,1,1,1,0s,0s,0s,1,1
+,Electric power engineering construction  [BS23C30],6,3,4,4,12,17,6,5,3,4
+,Communication engineering construction  [BS23C40],1,2,2,2,4,5,7,4,6,7
+,Other engineering construction  [BS23C50],2,2,1,2,4,3,2,2,2,3
+,Repair construction  [BS23D00],18,11,11,16,21,20,25,20,18,22
+,Other activities of the construction industry  [BS23E00],17,14,14,17,19,16,19,18,15,17
+,Animal food manufacturing  [BS31110],7,8,8,5,3,5,7,9,4,4
+,Sugar and confectionery product manufacturing  [BS31130],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],11,15,23,6,5,4,4,5,6,8
+,Dairy product manufacturing  [BS31150],15,12,4,5,5,6,9,10,7,8
+,Meat product manufacturing  [BS31160],8,33,38,12,14,16,37,31,6,9
+,Seafood product preparation and packaging  [BS31170],39,80,85,50,44,38,42,47,30,34
+,Miscellaneous food manufacturing  [BS311A0],10,15,15,21,18,15,19,19,15,16
+,Soft drink and ice manufacturing  [BS31211],4,1,2,3,2,1,3,2,1,1
+,Breweries  [BS31212],4,3,2,4,5,6,8,11,7,9
+,Wineries and distilleries  [BS3121A],1,1,1,1,1,1,2,2,2,2
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0,0,0,0,0s,0s
+,Textile and textile product mills  [BS31A00],5,17,21,8,6,10,4,3,1,1
+,Clothing and leather and allied product manufacturing  [BS31B00],3,13,1,1,1,2,3,3,1,1
+,Wood product manufacturing  [BS32100] 12,142,128,167,161,176,187,146,144,128,142
+,"Pulp, paper and paperboard mills  [BS32210] 12","1,125",714,"1,094",935,927,929,918,819,1,1
+,Converted paper product manufacturing  [BS32220],13,13,13,19,17,18,15,14,15,16
+,Printing and related support activities  [BS32300],4,1,3,3,4,5,2,2,1,1
+,Petroleum and coal product manufacturing  [BS32400],971,836,31,9,8,7,11,7,6,6
+,Basic chemical manufacturing  [BS32510],14,17,22,1,4,3,3,7,28,32
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",1,4,2,1,3,4,5,4,5,5
+,Pharmaceutical and medicine manufacturing  [BS32540],2,2,7,4,2,5,2,3,4,5
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,5,3,2,2,1,1,2,2,2,1
+,Plastic product manufacturing  [BS32610],6,9,6,6,24,24,41,28,13,16
+,Rubber product manufacturing  [BS32620],99,32,48,55,40,44,80,71,32,39
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],11,5,7,12,6,9,11,8,7,8
+,Cement and concrete product manufacturing  [BS32730],326,281,286,291,295,235,233,188,190,244
+,Primary metal manufacturing  [BS33100],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fabricated metal product manufacturing  [BS33200],15,16,13,14,13,13,31,36,13,16
+,Machinery manufacturing  [BS33300],4,5,2,3,3,2,3,4,3,3
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],2,4,2,1,1,1,1,2,1,1
+,Electrical  equipment and component manufacturing  [BS335A0],1,1,1,0s,1,1,5,7,1,2
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],1,1,1,1,1,0s,0s,0s,1,1
+,Motor vehicle body and trailer manufacturing  [BS33620],0s,0s,0s,0s,0s,0s,1,0s,0s,0s
+,Motor vehicle parts manufacturing  [BS33630],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],8,8,4,5,10,11,6,7,14,17
+,Railroad rolling stock manufacturing  [BS33650],0s,0s,0s,0s,0,0,0,0,0s,0s
+,Ship and boat building  [BS33660],5,2,3,5,4,6,8,9,9,11
+,Other transportation equipment manufacturing  [BS33690],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Furniture and related product manufacturing  [BS33700],5,4,2,2,2,4,5,5,2,2
+,Miscellaneous manufacturing  [BS33900],3,5,3,3,3,3,7,7,3,3
+,Wholesale trade  [BS41000],113,115,104,112,111,118,122,113,110,110
+,Retail trade  [BS4A000],206,228,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,219,226,241,284,307,299,252,252
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,1,2,2
+,Cannabis stores (unlicensed)  [BS453BU],..,..,1,1,1,1,1,1,1,1
+,Air transportation  [BS48100],381,382,349,247,247,236,247,264,144,144
+,Rail transportation  [BS48200],28,29,29,30,31,32,31,25,21,22
+,Water transportation  [BS48300],395,363,315,258,234,254,281,302,268,262
+,Truck transportation  [BS48400],357,348,404,397,279,285,285,266,248,269
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",72,85,81,93,95,102,83,85,82,82
+,Pipeline transportation  [BS48600],6,6,10,8,2,2,2,2,2,2
+,Postal service and couriers and messengers  [BS49A00],44,40,30,43,43,36,36,34,46,47
+,Warehousing and storage  [BS49300],5,5,4,4,4,4,5,5,5,5
+,Motion picture and sound recording industries  [BS51200],6,4,4,5,5,7,6,6,7,7
+,Radio and television broadcasting  [BS51510],1,1,1,1,1,1,0s,0s,1,1
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",16,14,15,22,45,51,33,21,12,12
+,Depository credit intermediation and monetary authorities  [BS52B00],11,7,5,6,5,4,4,4,3,3
+,Insurance carriers  [BS52410],5,3,2,3,2,2,2,2,1,1
+,Lessors of real estate  [BS53110],120,78,65,78,53,39,26,28,36,38
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],70,45,27,32,34,31,32,27,24,25
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",103,68,54,69,54,49,45,46,71,73
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",12,13,11,14,16,15,15,15,11,11
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",12,12,11,12,17,12,13,13,10,10
+,"Advertising, public relations and related services  [BS54180]",1,1,2,2,2,2,2,2,1,1
+,Administrative and support services  [BS56100],49,35,32,52,52,57,55,48,43,45
+,Waste management and remediation services  [BS56200],57,41,20,39,40,50,60,54,54,53
+,Educational services  [BS61000],1,1,1,2,2,2,2,1,2,2
+,Health care and social assistance  [BS62000],77,65,60,63,60,55,49,44,48,51
+,"Arts, entertainment and recreation  [BS71000]",2,2,2,3,2,1,1,1,1,1
+,Accommodation and food services  [BS72000],69,59,52,59,51,55,57,56,54,53
+,Repair and maintenance  [BS81100],46,37,35,42,42,49,58,57,66,68
+,Personal services and private households  [BS81A00],14,11,10,14,12,12,10,9,9,9
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],1,1,1,1,1,1,0s,0s,1,1
+,Non-profit social assistance  [NP62400],2,2,1,1,1,1,1,1,2,2
+,"Non-profit arts, entertainment and recreation  [NP71000]",1,1,1,1,1,1,1,1,1,1
+,Religious organizations  [NP81310],6,7,6,7,5,3,3,3,5,5
+,Miscellaneous non-profit institutions serving households  [NPA0000],23,20,18,26,18,15,13,14,16,17
+,Educational services (except universities)  [GS611B0],38,48,47,57,35,26,21,21,24,26
+,Universities  [GS61130],34,29,25,34,33,33,37,34,26,28
+,Hospitals  [GS62200],25,26,21,28,18,14,11,11,9,10
+,Nursing and residential care facilities  [GS62300],4,4,4,5,3,3,2,2,3,3
+,Other federal government services  [GS91100],263,232,220,264,289,299,300,287,231,198
+,Other provincial and territorial government services  [GS91200],45,54,36,34,40,69,66,62,123,123
+,Other municipal government services  [GS91300],136,112,102,115,106,106,106,105,132,133
+,Other aboriginal government services  [GS91400],4,3,3,3,4,8,11,8,11,11
+,"Total, households","5,125","4,782","4,445","4,975","4,648","4,772","4,918","4,777","4,114","4,073"
+,Households: Motor fuels and lubricants,"2,619","2,333","2,159","2,545","2,563","2,690","2,765","2,749","2,219","2,320"
+,Households: Electricity and other fuels,"2,506","2,448","2,286","2,429","2,085","2,083","2,153","2,028","1,895","1,753"
+New Brunswick,"Total, industries and households","19,657","17,956","16,698","18,238","19,209","18,119","17,973","17,014","15,665","16,139"
+,"Total, industries","15,096","13,868","12,567","13,489","14,825","14,386","14,436","13,768","12,910","13,527"
+,Crop and animal production  [BS11A00],703,667,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,566,490,550,506,506,474,472,493
+,Cannabis production (licensed)  [BS111CL],..,..,0s,0s,0s,0s,2,28,36,37
+,Cannabis production (unlicensed)  [BS111CU],..,..,4,4,4,3,2,1,1,1
+,Forestry and logging  [BS11300],442,420,397,471,442,459,379,287,244,259
+,"Fishing, hunting and trapping  [BS11400]",81,52,67,92,115,100,104,132,178,159
+,Support activities for agriculture and forestry  [BS11500],20,6,11,10,9,11,8,7,6,7
+,Oil and gas extraction  [BS21100],188,207,178,190,194,217,181,202,192,201
+,Coal mining  [BS21210],1,1,1,0s,0s,0s,0s,0s,0s,0s
+,Metal ore mining  [BS21220],68,19,0s,10,17,10,10,7,16,10
+,Non-metallic mineral mining and quarrying  [BS21230],79,67,71,82,27,25,27,30,29,27
+,Support activities for mining and oil and gas extraction  [BS21300],203,93,84,79,64,40,38,40,18,25
+,"Electric power generation, transmission and distribution  [BS22110]","4,010","4,130","3,625","4,136","4,464","3,767","4,155","3,768","3,186","3,956"
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",7,4,4,5,6,4,3,4,4,5
+,Residential building construction  [BS23A00],16,16,15,16,10,9,11,11,11,14
+,Non-residential building construction  [BS23B00],5,8,7,7,4,4,5,5,4,5
+,Transportation engineering construction  [BS23C10],48,18,23,33,27,22,26,14,17,24
+,Oil and gas engineering construction  [BS23C20],3,2,3,1,1,1,1,1,1,1
+,Electric power engineering construction  [BS23C30],13,7,9,8,7,7,8,10,7,9
+,Communication engineering construction  [BS23C40],1,3,4,5,7,5,6,4,4,6
+,Other engineering construction  [BS23C50],16,11,6,5,5,5,9,7,7,9
+,Repair construction  [BS23D00],18,19,22,34,24,21,23,22,20,25
+,Other activities of the construction industry  [BS23E00],4,4,4,6,4,3,3,3,3,3
+,Animal food manufacturing  [BS31110],4,3,3,5,8,9,7,5,5,4
+,Sugar and confectionery product manufacturing  [BS31130],3,3,2,2,2,3,2,2,2,3
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],99,98,64,77,38,56,51,70,13,13
+,Dairy product manufacturing  [BS31150],9,7,3,5,13,10,6,8,7,7
+,Meat product manufacturing  [BS31160],6,4,8,16,17,17,7,17,17,16
+,Seafood product preparation and packaging  [BS31170],50,47,44,34,39,34,41,31,23,21
+,Miscellaneous food manufacturing  [BS311A0],10,13,15,13,11,7,8,8,8,8
+,Soft drink and ice manufacturing  [BS31211],8,7,11,10,11,9,8,4,4,4
+,Breweries  [BS31212],21,18,17,19,34,21,15,20,30,28
+,Wineries and distilleries  [BS3121A],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Textile and textile product mills  [BS31A00],2,1,1,1,2,2,2,1,1,1
+,Clothing and leather and allied product manufacturing  [BS31B00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Wood product manufacturing  [BS32100] 12,305,289,206,282,326,584,773,642,662,454
+,"Pulp, paper and paperboard mills  [BS32210] 12","2,828","2,827","2,364","2,636","3,406","3,487","3,623","3,353","3,365","3,518"
+,Converted paper product manufacturing  [BS32220],6,5,3,9,4,4,5,8,8,8
+,Printing and related support activities  [BS32300],2,1,1,1,1,1,1,1,1,1
+,Petroleum and coal product manufacturing  [BS32400],"2,706","2,582","2,518","2,380","2,848","3,008","2,378","2,802","2,799","2,667"
+,Basic chemical manufacturing  [BS32510],3,5,4,9,5,9,10,18,27,22
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",4,7,10,9,15,15,14,14,25,22
+,Pharmaceutical and medicine manufacturing  [BS32540],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,2,1,1,0s,1,1,1,1,1,0s
+,Plastic product manufacturing  [BS32610],9,8,16,9,8,8,13,12,15,15
+,Rubber product manufacturing  [BS32620],2,2,2,1,1,1,1,1,1,1
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],36,21,19,33,116,140,148,158,143,149
+,Cement and concrete product manufacturing  [BS32730],21,22,3,3,10,10,26,13,21,23
+,Primary metal manufacturing  [BS33100],166,172,74,164,142,199,206,31,1,0s
+,Fabricated metal product manufacturing  [BS33200],22,23,24,18,19,13,17,18,21,21
+,Machinery manufacturing  [BS33300],6,7,6,3,3,4,3,6,7,7
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Electrical  equipment and component manufacturing  [BS335A0],1,1,1,1,0s,0s,0s,0s,0s,0s
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],2,2,2,1,0s,1,1,1,1,1
+,Motor vehicle body and trailer manufacturing  [BS33620],2,2,1,1,2,1,2,1,1,1
+,Motor vehicle parts manufacturing  [BS33630],1,1,1,0s,0s,0s,0s,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],1,0s,1,1,1,1,0s,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Ship and boat building  [BS33660],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],1,1,1,0s,0s,1,1,2,1,1
+,Furniture and related product manufacturing  [BS33700],4,5,3,4,3,3,3,3,3,2
+,Miscellaneous manufacturing  [BS33900],7,19,4,4,3,4,2,3,3,4
+,Wholesale trade  [BS41000],101,112,168,174,109,83,97,96,78,78
+,Retail trade  [BS4A000],143,104,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,158,160,98,76,90,88,81,76
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,1,1,1
+,Cannabis stores (unlicensed)  [BS453BU],..,..,1,1,1,0s,0s,0s,0s,0s
+,Air transportation  [BS48100],84,79,78,88,88,140,157,168,53,53
+,Rail transportation  [BS48200],85,88,88,94,91,98,93,91,80,100
+,Water transportation  [BS48300],533,116,89,179,218,116,139,100,144,121
+,Truck transportation  [BS48400],822,798,719,607,467,464,392,341,207,227
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",46,36,38,34,25,19,21,23,13,14
+,Pipeline transportation  [BS48600],11,7,8,6,19,16,16,7,7,7
+,Postal service and couriers and messengers  [BS49A00],41,28,20,33,27,16,24,21,24,28
+,Warehousing and storage  [BS49300],3,2,2,2,3,2,2,2,2,2
+,Motion picture and sound recording industries  [BS51200],2,2,5,3,1,1,1,1,5,5
+,Radio and television broadcasting  [BS51510],1,0s,0s,1,0s,0s,0s,0s,0s,0s
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",20,12,14,11,18,14,10,7,6,6
+,Depository credit intermediation and monetary authorities  [BS52B00],10,5,7,6,5,3,4,4,3,3
+,Insurance carriers  [BS52410],3,1,1,2,1,1,1,1,1,1
+,Lessors of real estate  [BS53110],47,36,49,51,37,26,30,34,26,24
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],29,11,15,15,15,11,13,11,8,8
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",50,32,28,29,31,26,29,28,33,32
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",14,9,13,12,7,5,5,6,4,4
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",12,6,12,12,5,4,4,5,3,2
+,"Advertising, public relations and related services  [BS54180]",0s,0s,0s,1,0s,0s,0s,0s,0s,0s
+,Administrative and support services  [BS56100],40,23,28,42,33,26,28,26,22,23
+,Waste management and remediation services  [BS56200],48,23,13,13,15,10,13,12,13,11
+,Educational services  [BS61000],2,1,1,1,1,1,1,1,0s,0s
+,Health care and social assistance  [BS62000],52,37,31,31,36,31,34,27,27,27
+,"Arts, entertainment and recreation  [BS71000]",5,3,2,2,2,2,2,2,1,1
+,Accommodation and food services  [BS72000],67,29,38,36,35,24,32,30,28,25
+,Repair and maintenance  [BS81100],54,31,41,42,32,26,32,29,33,31
+,Personal services and private households  [BS81A00],15,7,7,8,7,6,6,6,6,6
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-profit social assistance  [NP62400],1,1,0s,0s,1,1,0s,1,1,1
+,"Non-profit arts, entertainment and recreation  [NP71000]",1,1,1,1,1,1,1,0s,0s,0s
+,Religious organizations  [NP81310],5,4,3,4,4,2,4,4,4,4
+,Miscellaneous non-profit institutions serving households  [NPA0000],4,3,2,3,4,3,3,2,3,3
+,Educational services (except universities)  [GS611B0],12,2,2,2,2,2,2,2,2,2
+,Universities  [GS61130],16,14,12,13,14,14,16,16,15,15
+,Hospitals  [GS62200],7,7,7,7,8,9,12,12,12,11
+,Nursing and residential care facilities  [GS62300],4,3,3,4,3,3,4,4,4,4
+,Other federal government services  [GS91100],195,85,173,132,105,80,69,73,75,64
+,Other provincial and territorial government services  [GS91200],97,74,68,116,95,84,94,94,131,126
+,Other municipal government services  [GS91300],137,76,83,75,84,58,68,66,72,67
+,Other aboriginal government services  [GS91400],3,2,4,4,2,4,6,8,11,11
+,"Total, households","4,561","4,087","4,131","4,748","4,384","3,733","3,537","3,246","2,755","2,612"
+,Households: Motor fuels and lubricants,"2,484","2,087","1,926","2,247","2,503","2,297","2,255","2,230","1,833","1,787"
+,Households: Electricity and other fuels,"2,077","2,000","2,205","2,501","1,881","1,436","1,282","1,017",922,826
+Quebec,"Total, industries and households","89,602","89,319","87,815","90,656","88,846","90,941","91,681","92,898","81,363","84,473"
+,"Total, industries","63,414","62,316","61,144","64,093","62,838","64,729","65,459","66,491","59,845","62,140"
+,Crop and animal production  [BS11A00],"9,596","9,526",..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,"9,315","9,618","9,644","9,177","9,883","9,602","9,688","9,386"
+,Cannabis production (licensed)  [BS111CL],..,..,1,1,1,3,5,57,65,64
+,Cannabis production (unlicensed)  [BS111CU],..,..,60,53,56,49,44,36,23,21
+,Forestry and logging  [BS11300],"1,436","1,605","1,535","1,823","1,705","1,773","1,638","1,423","1,218","1,308"
+,"Fishing, hunting and trapping  [BS11400]",51,57,46,60,63,92,73,102,98,109
+,Support activities for agriculture and forestry  [BS11500],272,241,238,275,293,281,300,308,262,289
+,Oil and gas extraction  [BS21100],322,339,329,368,355,385,459,471,402,353
+,Coal mining  [BS21210],3,3,3,1,1,1,1,1,2,2
+,Metal ore mining  [BS21220],"2,206","2,123","1,714","1,627","1,665","1,681","2,032","1,903","1,662","1,749"
+,Non-metallic mineral mining and quarrying  [BS21230],121,107,98,22,33,124,78,561,"1,561","1,831"
+,Support activities for mining and oil and gas extraction  [BS21300],375,338,529,473,439,679,594,562,608,721
+,"Electric power generation, transmission and distribution  [BS22110]",358,241,249,208,236,242,245,239,297,256
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",38,32,28,42,38,42,34,37,34,36
+,Residential building construction  [BS23A00],388,370,396,345,395,472,501,536,585,648
+,Non-residential building construction  [BS23B00],96,80,82,99,106,112,121,138,117,132
+,Transportation engineering construction  [BS23C10],307,230,138,144,182,242,260,261,224,258
+,Oil and gas engineering construction  [BS23C20],19,10,13,7,8,9,11,13,15,17
+,Electric power engineering construction  [BS23C30],146,181,146,104,122,139,101,108,85,99
+,Communication engineering construction  [BS23C40],16,28,77,72,75,81,71,55,45,52
+,Other engineering construction  [BS23C50],296,270,174,257,214,264,292,251,252,285
+,Repair construction  [BS23D00],198,122,141,142,177,199,202,224,201,227
+,Other activities of the construction industry  [BS23E00],37,44,41,38,33,35,39,37,29,30
+,Animal food manufacturing  [BS31110],62,79,174,80,106,75,102,84,76,70
+,Sugar and confectionery product manufacturing  [BS31130],91,95,138,282,148,258,122,113,117,108
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],68,63,66,52,58,57,61,78,94,86
+,Dairy product manufacturing  [BS31150],169,285,159,148,154,156,141,187,187,207
+,Meat product manufacturing  [BS31160],177,204,167,194,199,239,239,255,231,262
+,Seafood product preparation and packaging  [BS31170],16,7,5,7,7,8,5,5,3,4
+,Miscellaneous food manufacturing  [BS311A0],569,693,450,456,496,445,501,423,356,408
+,Soft drink and ice manufacturing  [BS31211],40,31,34,37,44,42,35,32,22,25
+,Breweries  [BS31212],113,139,130,125,94,85,86,93,105,119
+,Wineries and distilleries  [BS3121A],20,68,49,34,49,53,56,62,74,84
+,Tobacco manufacturing  [BS31220],10,11,17,21,18,18,9,12,10,11
+,Textile and textile product mills  [BS31A00],89,140,93,49,64,54,53,68,65,74
+,Clothing and leather and allied product manufacturing  [BS31B00],30,40,16,21,17,19,18,17,13,14
+,Wood product manufacturing  [BS32100] 12,"2,191","1,680","1,502","2,797","2,435","2,053","2,035","2,290","1,903","2,216"
+,"Pulp, paper and paperboard mills  [BS32210] 12","6,406","6,805","6,982","7,286","7,513","7,306","7,629","7,452","6,460","6,057"
+,Converted paper product manufacturing  [BS32220],245,221,181,222,159,171,182,178,241,238
+,Printing and related support activities  [BS32300],59,59,64,29,47,48,33,41,27,30
+,Petroleum and coal product manufacturing  [BS32400],"2,428","2,247","2,266","2,417","2,150","1,938","2,334","2,225","2,227","2,227"
+,Basic chemical manufacturing  [BS32510],701,702,"1,414","1,325",516,681,741,774,821,811
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",65,45,50,48,51,40,33,31,26,27
+,Pharmaceutical and medicine manufacturing  [BS32540],54,44,42,55,61,90,79,64,53,48
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,77,93,94,120,121,143,182,160,134,132
+,Plastic product manufacturing  [BS32610],170,279,154,182,183,189,150,170,153,174
+,Rubber product manufacturing  [BS32620],64,60,66,62,74,97,74,79,59,67
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],"1,065",935,985,781,745,772,554,558,478,706
+,Cement and concrete product manufacturing  [BS32730],"2,417","2,207","2,127","2,198","2,312","2,948","2,861","3,615","3,196","3,520"
+,Primary metal manufacturing  [BS33100],"7,292","7,642","8,194","8,429","8,377","8,522","7,744","7,822","7,376","7,659"
+,Fabricated metal product manufacturing  [BS33200],368,355,286,251,265,248,282,343,301,369
+,Machinery manufacturing  [BS33300],109,107,91,80,98,112,93,112,93,105
+,Computer and peripheral equipment manufacturing  [BS33410],1,1,1,1,1,1,1,1,1,1
+,Electronic product manufacturing  [BS334B0],30,26,29,25,32,26,24,28,24,27
+,Electrical  equipment and component manufacturing  [BS335A0],86,76,55,34,36,33,25,30,23,26
+,Household appliance manufacturing  [BS33520],10,13,2,1,1,1,1,2,3,4
+,Motor vehicle manufacturing  [BS33610],24,27,40,54,21,10,10,21,12,14
+,Motor vehicle body and trailer manufacturing  [BS33620],16,17,16,13,21,12,14,23,17,19
+,Motor vehicle parts manufacturing  [BS33630],14,29,22,17,29,19,26,25,18,21
+,Aerospace product and parts manufacturing  [BS33640],97,161,212,226,236,222,189,218,124,136
+,Railroad rolling stock manufacturing  [BS33650],2,2,1,2,1,2,4,2,2,2
+,Ship and boat building  [BS33660],5,5,4,8,10,8,8,12,12,13
+,Other transportation equipment manufacturing  [BS33690],13,34,30,23,24,27,14,19,20,23
+,Furniture and related product manufacturing  [BS33700],107,123,75,99,111,101,81,99,72,81
+,Miscellaneous manufacturing  [BS33900],52,71,55,55,65,44,73,83,85,95
+,Wholesale trade  [BS41000],"1,872","1,940","1,686","1,771","1,765","1,839","1,764","1,785","1,488","1,617"
+,Retail trade  [BS4A000],"1,231","1,310",..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,"1,249","1,391","1,412","1,498","1,434","1,470","1,255","1,337"
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,6,9,9
+,Cannabis stores (unlicensed)  [BS453BU],..,..,12,11,14,12,9,9,6,7
+,Air transportation  [BS48100],"3,109","3,026","3,315","3,209","3,245","4,052","4,241","4,395","1,775","1,773"
+,Rail transportation  [BS48200],344,324,333,318,301,308,410,416,411,348
+,Water transportation  [BS48300],695,676,564,574,648,616,735,669,452,473
+,Truck transportation  [BS48400],"4,583","4,256","4,203","4,140","3,648","3,923","4,113","3,758","3,758","4,079"
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",856,830,789,783,891,774,989,"1,136",904,892
+,Pipeline transportation  [BS48600],204,272,356,328,87,89,105,110,107,113
+,Postal service and couriers and messengers  [BS49A00],485,473,322,401,362,346,400,386,418,443
+,Warehousing and storage  [BS49300],14,15,13,13,14,16,19,21,19,21
+,Motion picture and sound recording industries  [BS51200],97,83,66,127,121,132,137,147,102,105
+,Radio and television broadcasting  [BS51510],7,4,3,3,6,7,4,3,2,2
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",153,132,123,134,448,453,347,334,200,221
+,Depository credit intermediation and monetary authorities  [BS52B00],256,272,227,264,250,237,217,235,215,221
+,Insurance carriers  [BS52410],43,30,27,30,29,28,26,31,27,29
+,Lessors of real estate  [BS53110],"1,016",935,862,914,921,906,891,864,800,818
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],314,276,239,277,310,312,296,300,236,253
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",597,537,493,534,547,559,553,588,594,629
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",135,130,102,137,135,131,121,129,118,124
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",126,119,94,131,137,134,112,109,95,98
+,"Advertising, public relations and related services  [BS54180]",28,26,26,27,30,32,30,30,20,21
+,Administrative and support services  [BS56100],446,366,365,446,469,507,504,499,428,458
+,Waste management and remediation services  [BS56200],515,474,262,316,361,432,365,419,294,333
+,Educational services  [BS61000],51,57,52,59,62,62,68,73,68,71
+,Health care and social assistance  [BS62000],128,131,131,114,114,120,118,117,95,99
+,"Arts, entertainment and recreation  [BS71000]",51,59,59,61,54,58,57,64,35,37
+,Accommodation and food services  [BS72000],345,348,344,379,377,413,403,435,220,242
+,Repair and maintenance  [BS81100],526,341,369,414,400,403,426,466,371,399
+,Personal services and private households  [BS81A00],118,135,130,150,141,162,152,157,129,135
+,Professional and similar organisations  [BS81300],6,6,4,5,5,5,5,5,5,5
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],48,42,34,38,56,54,49,54,46,47
+,Non-profit social assistance  [NP62400],97,87,43,44,47,50,45,41,54,56
+,"Non-profit arts, entertainment and recreation  [NP71000]",38,42,33,38,30,34,30,29,21,22
+,Religious organizations  [NP81310],108,118,91,91,111,47,57,64,46,47
+,Miscellaneous non-profit institutions serving households  [NPA0000],190,146,115,137,173,185,159,162,154,161
+,Educational services (except universities)  [GS611B0],324,339,331,338,329,369,333,267,209,214
+,Universities  [GS61130],369,384,357,396,410,498,488,465,414,435
+,Hospitals  [GS62200],158,159,174,208,202,224,200,172,181,184
+,Nursing and residential care facilities  [GS62300],18,29,28,32,28,31,31,33,30,30
+,Other federal government services  [GS91100],437,374,275,233,220,263,303,304,321,327
+,Other provincial and territorial government services  [GS91200],239,143,128,182,188,171,129,138,161,181
+,Other municipal government services  [GS91300],"1,104",975,802,737,724,695,611,639,646,707
+,Other aboriginal government services  [GS91400],32,27,27,31,28,92,87,125,116,124
+,"Total, households","26,188","27,003","26,670","26,563","26,008","26,212","26,222","26,407","21,518","22,334"
+,Households: Motor fuels and lubricants,"17,018","17,263","16,652","16,608","16,380","17,208","17,218","17,701","13,802","14,925"
+,Households: Electricity and other fuels,"9,170","9,740","10,019","9,955","9,627","9,004","9,004","8,706","7,717","7,409"
+Ontario,"Total, industries and households","172,690","173,224","169,899","169,450","166,827","164,825","170,603","170,955","148,305","152,076"
+,"Total, industries","125,724","121,618","119,361","119,088","117,601","114,356","118,072","119,159","106,794","111,017"
+,Crop and animal production  [BS11A00],"12,033","12,520",..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,"11,705","11,896","12,218","12,155","12,284","11,586","12,295","12,339"
+,Cannabis production (licensed)  [BS111CL],..,..,2,2,4,5,1,790,656,727
+,Cannabis production (unlicensed)  [BS111CU],..,..,41,48,45,39,45,34,18,21
+,Forestry and logging  [BS11300],757,824,800,"1,154","1,090","1,153","1,047",903,776,787
+,"Fishing, hunting and trapping  [BS11400]",9,11,11,9,8,14,16,15,14,15
+,Support activities for agriculture and forestry  [BS11500],78,75,40,60,67,74,72,74,62,68
+,Oil and gas extraction  [BS21100],"1,980","1,972","2,050","2,047","2,071","2,034","2,170","2,214","2,025","2,086"
+,Coal mining  [BS21210],14,13,13,8,7,17,21,22,20,21
+,Metal ore mining  [BS21220],358,516,623,717,577,850,817,859,786,652
+,Non-metallic mineral mining and quarrying  [BS21230],334,281,265,329,333,372,370,314,347,354
+,Support activities for mining and oil and gas extraction  [BS21300],585,614,533,403,596,446,447,439,362,587
+,"Electric power generation, transmission and distribution  [BS22110]","14,533","10,582","6,549","6,914","6,109","3,087","4,691","4,353","4,048","4,280"
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",315,415,430,558,506,611,751,865,"1,073","1,079"
+,Residential building construction  [BS23A00],616,582,529,711,801,884,821,814,766,771
+,Non-residential building construction  [BS23B00],209,174,151,234,231,279,269,265,176,176
+,Transportation engineering construction  [BS23C10],461,519,410,636,618,769,712,642,488,485
+,Oil and gas engineering construction  [BS23C20],83,89,88,126,120,129,109,125,101,103
+,Electric power engineering construction  [BS23C30],154,210,226,335,285,242,364,364,239,237
+,Communication engineering construction  [BS23C40],80,54,165,213,289,286,284,250,166,165
+,Other engineering construction  [BS23C50],323,281,234,368,407,374,386,377,372,371
+,Repair construction  [BS23D00],214,125,98,143,155,183,200,216,175,176
+,Other activities of the construction industry  [BS23E00],108,121,115,149,140,154,155,154,102,103
+,Animal food manufacturing  [BS31110],85,87,70,103,103,88,92,91,109,108
+,Sugar and confectionery product manufacturing  [BS31130],114,108,96,35,92,91,196,228,186,236
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],313,224,164,180,178,232,253,195,192,198
+,Dairy product manufacturing  [BS31150],152,162,124,168,121,155,186,209,209,217
+,Meat product manufacturing  [BS31160],328,280,322,311,358,351,354,395,393,405
+,Seafood product preparation and packaging  [BS31170],7,3,3,4,5,7,7,6,5,5
+,Miscellaneous food manufacturing  [BS311A0],760,869,764,943,738,823,871,901,830,828
+,Soft drink and ice manufacturing  [BS31211],63,68,50,58,66,81,63,50,51,55
+,Breweries  [BS31212],72,117,180,198,200,284,168,162,160,160
+,Wineries and distilleries  [BS3121A],158,153,173,143,117,129,149,82,85,87
+,Tobacco manufacturing  [BS31220],5,7,6,11,17,17,12,12,12,12
+,Textile and textile product mills  [BS31A00],67,85,63,85,65,70,83,72,72,75
+,Clothing and leather and allied product manufacturing  [BS31B00],15,13,14,16,24,11,19,21,17,17
+,Wood product manufacturing  [BS32100] 12,"1,617","1,675","2,871","1,835",941,"1,934","1,777","1,682","1,594","1,533"
+,"Pulp, paper and paperboard mills  [BS32210] 12","3,790","6,068","5,425","5,658","5,073","5,212","4,873","4,551","4,500","4,562"
+,Converted paper product manufacturing  [BS32220],193,277,341,169,219,269,284,282,261,338
+,Printing and related support activities  [BS32300],119,112,105,150,171,163,180,150,126,131
+,Petroleum and coal product manufacturing  [BS32400],"8,421","7,654","7,744","7,368","7,399","5,005","5,603","6,287","5,600","6,197"
+,Basic chemical manufacturing  [BS32510],"4,824","4,680","4,316","5,025","4,825","3,625","4,112","4,236","4,321","4,326"
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",768,"1,120","1,140",950,"1,179","1,112",387,399,387,389
+,Pharmaceutical and medicine manufacturing  [BS32540],151,121,176,163,326,176,166,177,184,185
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,661,575,543,661,591,666,705,664,605,712
+,Plastic product manufacturing  [BS32610],309,342,378,361,338,425,310,333,321,333
+,Rubber product manufacturing  [BS32620],66,64,78,83,76,79,70,69,57,59
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],"1,670","1,344","1,233","1,381","1,261","1,348","1,189","1,225","1,166","1,216"
+,Cement and concrete product manufacturing  [BS32730],"4,852","4,492","4,685","4,246","4,249","4,621","4,457","4,504","4,559","4,694"
+,Primary metal manufacturing  [BS33100],"15,576","13,461","14,548","13,823","14,874","14,128","14,730","13,989","11,993","13,326"
+,Fabricated metal product manufacturing  [BS33200],762,884,700,640,774,816,855,722,734,762
+,Machinery manufacturing  [BS33300],291,316,308,277,257,331,324,342,304,315
+,Computer and peripheral equipment manufacturing  [BS33410],9,5,11,7,3,4,5,6,6,6
+,Electronic product manufacturing  [BS334B0],61,69,49,66,82,61,57,64,56,59
+,Electrical  equipment and component manufacturing  [BS335A0],75,75,71,74,74,71,65,62,56,58
+,Household appliance manufacturing  [BS33520],17,11,10,11,12,12,12,10,15,16
+,Motor vehicle manufacturing  [BS33610],556,570,582,557,521,585,657,671,496,439
+,Motor vehicle body and trailer manufacturing  [BS33620],33,48,33,31,17,15,22,24,20,21
+,Motor vehicle parts manufacturing  [BS33630],317,306,309,339,364,379,345,318,269,278
+,Aerospace product and parts manufacturing  [BS33640],67,72,61,78,77,90,90,101,85,88
+,Railroad rolling stock manufacturing  [BS33650],13,7,8,19,22,14,15,15,14,15
+,Ship and boat building  [BS33660],5,5,5,4,4,5,4,4,3,4
+,Other transportation equipment manufacturing  [BS33690],9,11,12,12,13,20,16,20,17,17
+,Furniture and related product manufacturing  [BS33700],195,157,128,154,173,178,174,167,144,149
+,Miscellaneous manufacturing  [BS33900],102,100,98,130,131,134,132,144,144,150
+,Wholesale trade  [BS41000],"3,721","4,094","3,975","3,583","3,445","3,633","3,753","4,115","3,973","4,147"
+,Retail trade  [BS4A000],"2,133","2,479",..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,"2,662","2,503","2,416","2,607","2,830","3,185","3,113","3,178"
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,2,5,10,10
+,Cannabis stores (unlicensed)  [BS453BU],..,..,6,5,6,6,6,6,6,7
+,Air transportation  [BS48100],"5,354","5,215","5,786","6,074","6,091","7,824","8,324","8,573","3,244","3,242"
+,Rail transportation  [BS48200],"1,602","1,535","1,703","1,596","1,416","1,527","1,459","1,419","1,287","1,247"
+,Water transportation  [BS48300],"1,093","1,334","1,301","1,377","1,299","1,353","1,284","1,528","1,072","1,307"
+,Truck transportation  [BS48400],"8,671","8,182","8,124","8,153","7,532","7,572","7,952","7,454","6,650","7,190"
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]","2,023","2,138","2,121","2,061","2,099","1,910","1,775","1,808","1,652","1,616"
+,Pipeline transportation  [BS48600],859,"1,091","1,532","1,559","1,327",933,"1,024",965,817,888
+,Postal service and couriers and messengers  [BS49A00],967,864,818,951,"1,079",977,636,745,815,805
+,Warehousing and storage  [BS49300],32,35,30,36,40,39,24,35,46,47
+,Motion picture and sound recording industries  [BS51200],209,169,173,215,219,241,246,292,226,224
+,Radio and television broadcasting  [BS51510],16,11,11,11,26,22,10,11,11,11
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",289,288,293,245,251,287,274,284,218,231
+,Depository credit intermediation and monetary authorities  [BS52B00],520,536,492,421,413,348,368,385,376,375
+,Insurance carriers  [BS52410],109,85,88,85,91,79,71,66,37,38
+,Lessors of real estate  [BS53110],"2,428","2,357","2,325","2,163","2,372","2,362","2,918","2,901","2,819","2,785"
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],625,615,584,616,676,646,681,726,656,683
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]","1,602","1,610","1,714","1,655","1,635","1,567","1,477","1,600","1,673","1,688"
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",276,275,288,353,330,337,347,379,380,384
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",299,339,357,416,393,366,325,364,354,352
+,"Advertising, public relations and related services  [BS54180]",82,88,124,120,108,108,108,110,88,89
+,Administrative and support services  [BS56100],"1,005",907,953,"1,109","1,096","1,066","1,116","1,189","1,103","1,121"
+,Waste management and remediation services  [BS56200],557,542,270,160,175,197,255,295,272,307
+,Educational services  [BS61000],84,78,75,87,97,110,83,101,89,87
+,Health care and social assistance  [BS62000],"1,234","1,274","1,452","1,254","1,236","1,220","1,175","1,156",972,972
+,"Arts, entertainment and recreation  [BS71000]",102,107,110,105,100,115,105,121,73,73
+,Accommodation and food services  [BS72000],463,487,532,494,476,538,536,595,456,485
+,Repair and maintenance  [BS81100],752,697,822,797,755,843,886,949,827,856
+,Personal services and private households  [BS81A00],230,210,229,246,223,220,201,227,197,196
+,Professional and similar organisations  [BS81300],9,8,5,6,7,6,6,5,4,5
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],140,133,123,110,155,147,153,166,167,164
+,Non-profit social assistance  [NP62400],104,103,173,158,168,185,179,187,228,230
+,"Non-profit arts, entertainment and recreation  [NP71000]",58,61,60,47,35,40,40,55,45,45
+,Religious organizations  [NP81310],429,448,382,301,358,139,161,196,187,184
+,Miscellaneous non-profit institutions serving households  [NPA0000],549,452,384,417,491,546,506,551,541,540
+,Educational services (except universities)  [GS611B0],850,984,"1,194","1,200","1,276","1,293","1,383","1,510","1,312","1,301"
+,Universities  [GS61130],871,950,991,"1,030","1,076","1,089","1,015","1,058",937,944
+,Hospitals  [GS62200],458,451,504,445,487,502,495,511,552,546
+,Nursing and residential care facilities  [GS62300],45,45,50,49,46,45,38,44,51,50
+,Other federal government services  [GS91100],821,522,382,374,373,452,353,408,416,412
+,Other provincial and territorial government services  [GS91200],101,102,103,90,89,84,152,111,104,108
+,Other municipal government services  [GS91300],"3,003","2,909","2,951","2,793","2,780","2,735","3,140","3,349","3,203","3,358"
+,Other aboriginal government services  [GS91400],36,35,36,31,27,59,98,106,108,114
+,"Total, households","46,966","51,606","50,538","50,362","49,226","50,469","52,531","51,797","41,511","41,059"
+,Households: Motor fuels and lubricants,"27,207","29,145","27,958","27,807","28,567","29,271","30,157","31,298","22,808","23,132"
+,Households: Electricity and other fuels,"19,759","22,461","22,580","22,556","20,659","21,198","22,374","20,498","18,703","17,927"
+Manitoba,"Total, industries and households","20,427","20,935","21,088","20,650","21,044","21,505","22,365","22,232","20,674","20,226"
+,"Total, industries","16,202","16,447","16,582","16,571","16,839","17,276","17,666","17,498","16,525","16,050"
+,Crop and animal production  [BS11A00],"6,908","7,195",..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,"6,939","7,197","7,279","7,498","7,712","7,589","7,886","7,416"
+,Cannabis production (licensed)  [BS111CL],..,..,0s,0s,0s,0s,0s,1,2,2
+,Cannabis production (unlicensed)  [BS111CU],..,..,5,5,4,3,2,2,1,1
+,Forestry and logging  [BS11300],52,56,56,63,57,64,62,54,50,46
+,"Fishing, hunting and trapping  [BS11400]",12,10,7,6,9,12,11,11,8,7
+,Support activities for agriculture and forestry  [BS11500],12,13,12,11,15,20,23,19,21,17
+,Oil and gas extraction  [BS21100],712,731,731,701,651,641,652,678,594,587
+,Coal mining  [BS21210],1,1,1,0s,0s,1,1,1,1,1
+,Metal ore mining  [BS21220],88,89,97,88,85,108,107,54,75,53
+,Non-metallic mineral mining and quarrying  [BS21230],16,15,15,16,19,16,16,14,19,17
+,Support activities for mining and oil and gas extraction  [BS21300],69,49,39,33,16,60,92,140,133,169
+,"Electric power generation, transmission and distribution  [BS22110]",114,122,128,127,70,71,43,41,42,57
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",24,19,18,18,32,28,35,31,23,22
+,Residential building construction  [BS23A00],104,124,117,88,96,99,109,123,119,111
+,Non-residential building construction  [BS23B00],40,42,40,33,38,33,31,37,33,29
+,Transportation engineering construction  [BS23C10],85,64,45,55,69,73,81,79,66,54
+,Oil and gas engineering construction  [BS23C20],64,55,69,43,38,35,50,56,28,23
+,Electric power engineering construction  [BS23C30],53,76,123,121,175,171,146,120,93,81
+,Communication engineering construction  [BS23C40],6,2,9,14,10,11,12,10,21,18
+,Other engineering construction  [BS23C50],103,48,33,30,33,32,41,41,43,37
+,Repair construction  [BS23D00],32,33,41,38,40,41,42,50,54,47
+,Other activities of the construction industry  [BS23E00],20,27,26,26,22,20,24,25,23,22
+,Animal food manufacturing  [BS31110],22,9,47,20,33,29,35,53,30,67
+,Sugar and confectionery product manufacturing  [BS31130],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],95,68,58,116,96,144,39,40,36,36
+,Dairy product manufacturing  [BS31150],11,18,6,14,16,9,23,24,25,22
+,Meat product manufacturing  [BS31160],69,46,61,122,170,223,106,93,121,123
+,Seafood product preparation and packaging  [BS31170],2,3,1,1,1,2,0s,0s,0s,0s
+,Miscellaneous food manufacturing  [BS311A0],116,110,137,111,126,104,179,144,192,139
+,Soft drink and ice manufacturing  [BS31211],21,8,8,10,14,12,8,5,3,3
+,Breweries  [BS31212],1,0s,0s,0s,0s,1,1,1,2,2
+,Wineries and distilleries  [BS3121A],12,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Textile and textile product mills  [BS31A00],3,3,2,2,2,4,4,4,3,3
+,Clothing and leather and allied product manufacturing  [BS31B00],6,5,4,7,8,14,5,6,3,3
+,Wood product manufacturing  [BS32100] 12,184,174,293,205,261,150,181,177,188,228
+,"Pulp, paper and paperboard mills  [BS32210] 12",489,523,626,486,510,483,506,560,487,505
+,Converted paper product manufacturing  [BS32220],9,14,21,16,17,17,17,16,16,16
+,Printing and related support activities  [BS32300],15,11,20,20,16,29,18,21,18,18
+,Petroleum and coal product manufacturing  [BS32400],4,6,3,2,4,6,36,32,31,28
+,Basic chemical manufacturing  [BS32510],102,118,98,97,98,103,102,106,106,108
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",656,797,646,748,834,694,682,674,654,638
+,Pharmaceutical and medicine manufacturing  [BS32540],23,14,14,14,13,15,17,15,14,13
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,6,10,8,5,7,7,7,8,7,5
+,Plastic product manufacturing  [BS32610],54,46,25,53,60,44,31,36,30,30
+,Rubber product manufacturing  [BS32620],2,1,1,1,1,2,2,2,2,2
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],148,133,129,149,114,127,110,108,109,110
+,Cement and concrete product manufacturing  [BS32730],22,22,12,13,28,37,40,51,50,36
+,Primary metal manufacturing  [BS33100],103,102,103,83,79,90,85,66,91,95
+,Fabricated metal product manufacturing  [BS33200],53,35,35,53,56,71,55,63,56,54
+,Machinery manufacturing  [BS33300],78,64,74,84,85,111,73,81,65,63
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],1,1,1,2,3,2,1,1,1,1
+,Electrical  equipment and component manufacturing  [BS335A0],5,4,5,9,3,6,5,6,5,5
+,Household appliance manufacturing  [BS33520],2,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],15,22,22,37,50,38,23,25,16,15
+,Motor vehicle body and trailer manufacturing  [BS33620],21,13,7,11,15,21,6,5,3,3
+,Motor vehicle parts manufacturing  [BS33630],3,2,3,3,2,3,2,2,2,2
+,Aerospace product and parts manufacturing  [BS33640],17,14,21,26,28,47,23,33,20,20
+,Railroad rolling stock manufacturing  [BS33650],1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Ship and boat building  [BS33660],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],1,1,1,2,1,1,1,1,1,1
+,Furniture and related product manufacturing  [BS33700],65,56,23,76,82,53,32,26,20,19
+,Miscellaneous manufacturing  [BS33900],18,13,11,16,16,23,19,19,20,19
+,Wholesale trade  [BS41000],269,268,282,211,266,318,331,292,254,231
+,Retail trade  [BS4A000],188,205,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,206,171,201,233,253,257,214,199
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,1,2,2
+,Cannabis stores (unlicensed)  [BS453BU],..,..,1,1,1,2,1,1,1,1
+,Air transportation  [BS48100],790,784,769,789,826,828,818,813,258,266
+,Rail transportation  [BS48200],477,473,497,477,421,457,487,467,429,418
+,Water transportation  [BS48300],26,17,18,10,20,16,18,15,10,8
+,Truck transportation  [BS48400],"1,251","1,184","1,284","1,231",992,"1,014","1,109","1,062","1,000","1,081"
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",162,118,118,117,121,125,125,126,102,99
+,Pipeline transportation  [BS48600],33,129,276,321,261,176,327,286,215,314
+,Postal service and couriers and messengers  [BS49A00],75,56,41,41,46,64,91,96,121,120
+,Warehousing and storage  [BS49300],11,11,7,6,9,12,12,13,13,11
+,Motion picture and sound recording industries  [BS51200],4,4,4,3,4,5,7,7,3,3
+,Radio and television broadcasting  [BS51510],2,1,1,1,1,2,1,1,1,1
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",36,33,31,23,170,206,102,130,84,71
+,Depository credit intermediation and monetary authorities  [BS52B00],18,18,17,15,16,14,15,15,13,13
+,Insurance carriers  [BS52410],11,8,8,9,9,9,9,10,5,5
+,Lessors of real estate  [BS53110],593,802,836,801,765,792,899,898,823,790
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],51,37,36,35,45,48,52,51,39,38
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",151,147,148,133,135,137,146,147,127,126
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",15,16,16,18,19,18,21,20,17,17
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",15,21,18,18,19,18,18,19,17,16
+,"Advertising, public relations and related services  [BS54180]",2,3,3,3,3,3,3,3,2,2
+,Administrative and support services  [BS56100],84,71,74,88,99,114,118,117,103,104
+,Waste management and remediation services  [BS56200],46,29,27,15,32,41,48,49,42,35
+,Educational services  [BS61000],6,6,5,4,4,4,5,5,5,4
+,Health care and social assistance  [BS62000],100,110,113,102,100,101,110,100,86,82
+,"Arts, entertainment and recreation  [BS71000]",11,10,10,10,10,10,11,10,6,6
+,Accommodation and food services  [BS72000],61,50,53,44,56,69,71,76,66,57
+,Repair and maintenance  [BS81100],91,70,87,78,71,72,78,82,71,69
+,Personal services and private households  [BS81A00],22,19,17,18,18,19,21,19,16,15
+,Professional and similar organisations  [BS81300],1,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],16,14,14,11,17,17,18,19,17,17
+,Non-profit social assistance  [NP62400],11,12,6,6,6,8,7,8,9,9
+,"Non-profit arts, entertainment and recreation  [NP71000]",13,14,12,8,8,9,9,10,7,7
+,Religious organizations  [NP81310],16,19,17,12,15,10,11,12,10,10
+,Miscellaneous non-profit institutions serving households  [NPA0000],20,17,15,17,21,22,21,21,20,20
+,Educational services (except universities)  [GS611B0],31,34,39,39,40,38,41,39,33,32
+,Universities  [GS61130],67,84,81,77,74,87,86,84,62,62
+,Hospitals  [GS62200],22,39,41,38,39,41,41,39,39,35
+,Nursing and residential care facilities  [GS62300],5,6,6,6,6,6,7,8,9,7
+,Other federal government services  [GS91100],114,67,56,51,55,97,78,73,63,64
+,Other provincial and territorial government services  [GS91200],159,84,106,98,95,104,100,116,133,135
+,Other municipal government services  [GS91300],142,103,90,72,100,118,121,120,112,102
+,Other aboriginal government services  [GS91400],17,15,15,13,12,37,53,79,104,97
+,"Total, households","4,225","4,488","4,506","4,079","4,205","4,228","4,699","4,733","4,149","4,176"
+,Households: Motor fuels and lubricants,"3,034","3,089","3,101","2,890","2,963","2,896","3,225","3,246","2,746","2,861"
+,Households: Electricity and other fuels,"1,191","1,400","1,405","1,189","1,242","1,332","1,474","1,488","1,404","1,315"
+Saskatchewan,"Total, industries and households","72,646","74,912","76,792","78,797","73,907","77,437","78,743","75,606","66,252","69,101"
+,"Total, industries","66,633","68,396","70,661","72,702","67,816","71,088","72,229","68,986","60,513","63,318"
+,Crop and animal production  [BS11A00],"13,777","14,881",..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,"15,039","15,614","14,842","16,006","16,330","16,075","16,018","15,864"
+,Cannabis production (licensed)  [BS111CL],..,..,0s,0s,0s,0s,2,13,5,5
+,Cannabis production (unlicensed)  [BS111CU],..,..,20,13,11,9,9,6,3,3
+,Forestry and logging  [BS11300],119,78,102,102,95,113,107,88,86,97
+,"Fishing, hunting and trapping  [BS11400]",4,5,5,7,7,8,8,8,7,8
+,Support activities for agriculture and forestry  [BS11500],16,15,6,11,12,11,15,15,15,16
+,Oil and gas extraction  [BS21100],"22,061","23,424","25,895","26,928","23,689","23,774","23,003","21,013","14,676","13,827"
+,Coal mining  [BS21210],62,55,48,31,29,50,55,50,64,324
+,Metal ore mining  [BS21220],131,139,168,164,140,126,57,27,25,40
+,Non-metallic mineral mining and quarrying  [BS21230],"1,509","1,209","1,179","1,221","1,290","1,718","2,450","2,022","2,202","2,828"
+,Support activities for mining and oil and gas extraction  [BS21300],427,305,329,421,304,474,543,593,493,410
+,"Electric power generation, transmission and distribution  [BS22110]","15,931","14,863","15,018","16,040","15,999","16,519","16,051","15,883","14,774","17,382"
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",221,254,268,293,325,344,380,355,304,292
+,Residential building construction  [BS23A00],59,61,55,60,56,58,56,48,67,69
+,Non-residential building construction  [BS23B00],21,26,28,39,41,36,40,33,32,33
+,Transportation engineering construction  [BS23C10],51,56,56,96,134,153,143,90,91,94
+,Oil and gas engineering construction  [BS23C20],183,186,203,197,228,301,298,282,201,203
+,Electric power engineering construction  [BS23C30],25,25,34,63,58,61,56,46,52,52
+,Communication engineering construction  [BS23C40],6,4,2,3,8,15,13,8,13,13
+,Other engineering construction  [BS23C50],206,272,244,261,270,160,122,190,180,183
+,Repair construction  [BS23D00],31,35,39,54,63,67,65,54,62,63
+,Other activities of the construction industry  [BS23E00],6,6,6,8,6,7,7,7,7,7
+,Animal food manufacturing  [BS31110],8,9,28,35,17,18,32,33,31,27
+,Sugar and confectionery product manufacturing  [BS31130],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],1,1,2,3,2,1,1,1,1,1
+,Dairy product manufacturing  [BS31150],10,5,1,1,1,1,1,0s,0s,1
+,Meat product manufacturing  [BS31160],48,36,29,37,46,61,51,60,43,52
+,Seafood product preparation and packaging  [BS31170],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous food manufacturing  [BS311A0],153,180,239,199,253,253,235,252,206,197
+,Soft drink and ice manufacturing  [BS31211],1,1,1,2,3,3,5,3,3,3
+,Breweries  [BS31212],3,1,1,2,2,2,6,7,5,5
+,Wineries and distilleries  [BS3121A],0s,0s,0s,1,1,1,1,2,2,3
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Textile and textile product mills  [BS31A00],2,2,3,2,1,3,2,3,2,2
+,Clothing and leather and allied product manufacturing  [BS31B00],1,1,1,1,1,1,1,0s,0s,0s
+,Wood product manufacturing  [BS32100] 12,196,951,492,396,392,619,335,311,367,312
+,"Pulp, paper and paperboard mills  [BS32210] 12",651,126,122,57,68,74,75,70,67,76
+,Converted paper product manufacturing  [BS32220],5,8,5,5,6,5,5,5,5,4
+,Printing and related support activities  [BS32300],7,7,9,8,8,10,6,6,4,5
+,Petroleum and coal product manufacturing  [BS32400],"1,264","1,251",882,848,928,940,"1,365","1,821","1,710","1,817"
+,Basic chemical manufacturing  [BS32510],234,242,291,294,296,307,218,224,223,253
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",213,261,272,321,278,259,732,697,666,648
+,Pharmaceutical and medicine manufacturing  [BS32540],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,10,21,10,22,21,24,44,37,34,31
+,Plastic product manufacturing  [BS32610],6,7,7,8,5,6,7,6,4,4
+,Rubber product manufacturing  [BS32620],2,3,5,5,4,4,5,8,5,6
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],11,13,11,21,12,13,12,14,8,12
+,Cement and concrete product manufacturing  [BS32730],33,42,171,47,76,119,80,103,107,108
+,Primary metal manufacturing  [BS33100],149,164,144,137,135,144,158,156,136,155
+,Fabricated metal product manufacturing  [BS33200],45,69,59,83,55,67,75,83,65,76
+,Machinery manufacturing  [BS33300],48,62,57,63,43,53,65,65,46,59
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],2,2,1,1,1,1,1,1,1,1
+,Electrical  equipment and component manufacturing  [BS335A0],6,3,6,4,3,4,4,5,3,5
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],7,8,7,6,4,4,4,4,5,7
+,Motor vehicle body and trailer manufacturing  [BS33620],10,13,8,7,6,9,11,10,5,7
+,Motor vehicle parts manufacturing  [BS33630],2,2,2,2,1,2,1,1,1,1
+,Aerospace product and parts manufacturing  [BS33640],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Ship and boat building  [BS33660],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],1,1,1,1,1,1,0s,1,1,1
+,Furniture and related product manufacturing  [BS33700],7,10,9,20,9,7,7,8,6,7
+,Miscellaneous manufacturing  [BS33900],12,12,9,14,11,14,15,13,11,14
+,Wholesale trade  [BS41000],710,857,787,476,442,513,548,482,457,462
+,Retail trade  [BS4A000],380,467,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,451,452,428,499,545,490,464,460
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,3,5,5
+,Cannabis stores (unlicensed)  [BS453BU],..,..,4,5,5,5,4,3,4,4
+,Air transportation  [BS48100],170,167,173,185,186,179,178,179,80,81
+,Rail transportation  [BS48200],709,706,731,721,687,745,832,822,730,687
+,Water transportation  [BS48300],2,2,2,1,1,1,1,1,1,1
+,Truck transportation  [BS48400],"1,186","1,125","1,169",973,793,808,894,812,647,702
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",82,83,79,82,79,82,85,88,68,68
+,Pipeline transportation  [BS48600],"2,343","2,479","2,686","2,400","1,598","1,688","1,879","1,830","1,476","1,785"
+,Postal service and couriers and messengers  [BS49A00],83,100,113,126,102,91,96,95,90,97
+,Warehousing and storage  [BS49300],55,70,62,50,53,52,60,62,66,67
+,Motion picture and sound recording industries  [BS51200],7,4,4,3,3,3,4,3,2,2
+,Radio and television broadcasting  [BS51510],3,1,1,1,2,2,2,1,1,1
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",41,48,48,90,166,220,264,287,321,324
+,Depository credit intermediation and monetary authorities  [BS52B00],51,55,49,43,45,44,51,42,42,40
+,Insurance carriers  [BS52410],14,11,10,11,10,8,8,8,3,3
+,Lessors of real estate  [BS53110],555,567,552,511,564,608,656,459,498,462
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],39,47,45,53,52,60,61,63,60,60
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",204,195,196,180,176,164,175,144,117,114
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",57,57,50,51,50,44,41,37,35,35
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",27,35,36,27,26,25,28,20,19,18
+,"Advertising, public relations and related services  [BS54180]",2,3,3,3,3,2,3,2,2,2
+,Administrative and support services  [BS56100],53,49,51,73,83,84,87,79,75,74
+,Waste management and remediation services  [BS56200],156,189,45,71,67,84,86,83,85,86
+,Educational services  [BS61000],5,5,5,4,4,4,5,4,5,4
+,Health care and social assistance  [BS62000],103,102,103,115,114,104,102,91,87,87
+,"Arts, entertainment and recreation  [BS71000]",12,12,11,11,11,10,10,9,6,6
+,Accommodation and food services  [BS72000],109,127,125,129,119,136,151,140,151,151
+,Repair and maintenance  [BS81100],131,118,120,143,153,154,172,178,163,163
+,Personal services and private households  [BS81A00],18,17,17,21,21,22,23,20,15,16
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],1,1,1,1,1,1,1,1,1,1
+,Non-profit social assistance  [NP62400],12,12,6,6,6,7,6,5,7,7
+,"Non-profit arts, entertainment and recreation  [NP71000]",18,17,13,10,13,15,14,10,7,7
+,Religious organizations  [NP81310],59,59,50,34,43,31,31,23,25,24
+,Miscellaneous non-profit institutions serving households  [NPA0000],64,54,43,49,59,62,62,51,57,54
+,Educational services (except universities)  [GS611B0],94,83,89,80,73,77,81,62,63,63
+,Universities  [GS61130],94,98,101,100,108,112,120,105,97,95
+,Hospitals  [GS62200],94,91,99,72,68,72,85,60,69,64
+,Nursing and residential care facilities  [GS62300],8,9,10,8,7,7,8,6,7,7
+,Other federal government services  [GS91100],79,83,101,79,75,74,69,67,73,75
+,Other provincial and territorial government services  [GS91200],294,97,99,280,287,282,323,264,207,198
+,Other municipal government services  [GS91300],481,650,655,650,697,698,795,652,675,646
+,Other aboriginal government services  [GS91400],38,32,35,39,42,168,212,222,297,295
+,"Total, households","6,013","6,516","6,131","6,095","6,091","6,349","6,514","6,620","5,739","5,783"
+,Households: Motor fuels and lubricants,"4,188","4,553","4,170","4,300","4,315","4,402","4,357","4,368","3,706","3,774"
+,Households: Electricity and other fuels,"1,825","1,962","1,961","1,795","1,776","1,946","2,157","2,251","2,033","2,009"
+Alberta,"Total, industries and households","276,762","285,303","290,011","287,853","270,302","278,551","282,438","282,957","261,640","265,270"
+,"Total, industries","258,124","265,387","269,970","269,099","251,288","258,619","261,764","262,314","243,757","247,818"
+,Crop and animal production  [BS11A00],"19,362","19,889",..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,"20,323","20,239","20,215","19,966","20,389","20,386","20,486","20,366"
+,Cannabis production (licensed)  [BS111CL],..,..,3,4,0s,0s,3,77,103,108
+,Cannabis production (unlicensed)  [BS111CU],..,..,37,37,31,30,27,20,11,11
+,Forestry and logging  [BS11300],589,671,589,773,703,709,689,627,654,653
+,"Fishing, hunting and trapping  [BS11400]",3,2,2,2,1,2,5,2,2,2
+,Support activities for agriculture and forestry  [BS11500],104,68,80,115,124,116,121,127,133,136
+,Oil and gas extraction  [BS21100],"124,506","128,443","131,198","132,844","123,852","128,822","136,217","136,430","131,157","135,849"
+,Coal mining  [BS21210],714,617,464,442,519,393,426,568,403,364
+,Metal ore mining  [BS21220],5,4,5,3,3,5,10,6,5,5
+,Non-metallic mineral mining and quarrying  [BS21230],166,196,283,234,234,153,205,244,316,169
+,Support activities for mining and oil and gas extraction  [BS21300],"5,210","4,342","5,103","4,962","3,786","4,056","4,770","4,215","2,840","2,930"
+,"Electric power generation, transmission and distribution  [BS22110]","47,094","48,242","49,208","51,580","45,769","46,549","36,370","36,223","32,031","27,994"
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]","1,213","1,297","1,244","1,381","1,302","1,321","1,396","1,440","1,273","1,353"
+,Residential building construction  [BS23A00],112,110,118,107,99,129,127,130,119,116
+,Non-residential building construction  [BS23B00],49,42,46,55,63,63,67,73,48,48
+,Transportation engineering construction  [BS23C10],168,137,120,130,138,172,174,162,131,125
+,Oil and gas engineering construction  [BS23C20],619,591,658,526,592,755,550,680,433,425
+,Electric power engineering construction  [BS23C30],42,58,62,32,40,66,56,76,55,53
+,Communication engineering construction  [BS23C40],7,6,6,9,13,26,20,20,18,18
+,Other engineering construction  [BS23C50],71,81,66,101,119,125,107,112,70,73
+,Repair construction  [BS23D00],88,94,116,129,133,152,145,171,131,130
+,Other activities of the construction industry  [BS23E00],262,284,284,303,342,375,391,412,347,366
+,Animal food manufacturing  [BS31110],41,48,95,47,40,33,40,85,101,99
+,Sugar and confectionery product manufacturing  [BS31130],83,108,127,85,104,199,12,76,50,81
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],35,30,16,16,8,17,26,16,27,25
+,Dairy product manufacturing  [BS31150],29,28,27,21,22,20,34,38,38,36
+,Meat product manufacturing  [BS31160],344,197,200,205,270,191,216,197,192,180
+,Seafood product preparation and packaging  [BS31170],1,1,1,0s,0s,1,1,1,0s,0s
+,Miscellaneous food manufacturing  [BS311A0],185,289,360,374,336,363,366,463,394,395
+,Soft drink and ice manufacturing  [BS31211],33,35,58,52,53,45,45,32,24,25
+,Breweries  [BS31212],90,54,50,76,101,63,67,73,78,73
+,Wineries and distilleries  [BS3121A],36,57,41,53,78,45,61,42,35,16
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Textile and textile product mills  [BS31A00],5,5,5,6,3,5,5,5,4,4
+,Clothing and leather and allied product manufacturing  [BS31B00],4,4,4,4,4,4,5,6,5,5
+,Wood product manufacturing  [BS32100] 12,"1,172","1,689","1,797","1,024","1,248","2,402","2,030","2,066","2,266","2,948"
+,"Pulp, paper and paperboard mills  [BS32210] 12","6,819","7,834","7,848","6,818","4,483","4,151","6,583","6,491","6,299","6,148"
+,Converted paper product manufacturing  [BS32220],9,20,22,23,19,24,21,20,19,18
+,Printing and related support activities  [BS32300],34,87,39,37,33,38,41,28,23,22
+,Petroleum and coal product manufacturing  [BS32400],"6,620","7,195","7,055","6,615","6,917","7,603","7,292","7,762","6,217","6,984"
+,Basic chemical manufacturing  [BS32510],"7,312","6,537","5,333","5,406","5,606","5,946","6,793","6,727","6,560","6,714"
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]","4,444","4,513","4,210","4,633","4,609","4,068","4,009","4,283","4,273","4,325"
+,Pharmaceutical and medicine manufacturing  [BS32540],2,4,4,6,5,5,6,7,8,8
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,"1,329","1,474","2,342","2,168","1,987","1,257",711,155,573,532
+,Plastic product manufacturing  [BS32610],46,82,83,69,119,64,67,83,76,74
+,Rubber product manufacturing  [BS32620],12,17,13,21,19,30,11,14,12,12
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],220,251,337,338,323,229,221,219,222,220
+,Cement and concrete product manufacturing  [BS32730],"1,670","1,597","1,540","1,539","1,567","1,683","2,037","2,024","1,625","2,102"
+,Primary metal manufacturing  [BS33100],420,429,368,433,93,87,139,119,105,89
+,Fabricated metal product manufacturing  [BS33200],339,465,396,387,371,254,253,270,261,257
+,Machinery manufacturing  [BS33300],263,296,305,285,219,204,258,243,191,183
+,Computer and peripheral equipment manufacturing  [BS33410],1,1,1,1,2,1,2,1,1,1
+,Electronic product manufacturing  [BS334B0],12,12,14,11,19,14,14,15,15,14
+,Electrical  equipment and component manufacturing  [BS335A0],20,17,16,14,14,13,17,14,10,9
+,Household appliance manufacturing  [BS33520],1,1,1,2,0s,1,1,1,1,0s
+,Motor vehicle manufacturing  [BS33610],20,18,18,12,8,17,38,17,14,11
+,Motor vehicle body and trailer manufacturing  [BS33620],13,22,20,14,12,15,13,14,10,9
+,Motor vehicle parts manufacturing  [BS33630],7,8,6,7,4,5,9,5,4,3
+,Aerospace product and parts manufacturing  [BS33640],3,6,7,4,5,4,4,4,4,3
+,Railroad rolling stock manufacturing  [BS33650],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Ship and boat building  [BS33660],1,1,1,1,1,1,2,1,1,1
+,Other transportation equipment manufacturing  [BS33690],3,3,3,2,2,4,6,2,2,2
+,Furniture and related product manufacturing  [BS33700],39,42,46,44,42,33,39,33,29,29
+,Miscellaneous manufacturing  [BS33900],45,63,53,53,44,39,53,44,33,31
+,Wholesale trade  [BS41000],"2,925","3,450","3,322","2,489","2,140","2,486","2,612","2,564","2,167","2,304"
+,Retail trade  [BS4A000],"1,306","1,489",..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,"1,635","1,313","1,168","1,303","1,572","1,588","1,319","1,423"
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,10,19,21
+,Cannabis stores (unlicensed)  [BS453BU],..,..,7,5,5,5,4,3,4,4
+,Air transportation  [BS48100],"3,170","3,074","3,251","3,248","3,448","3,310","3,544","3,604","1,507","1,509"
+,Rail transportation  [BS48200],877,865,901,862,848,933,963,936,906,833
+,Water transportation  [BS48300],4,4,4,3,2,3,6,3,2,2
+,Truck transportation  [BS48400],"4,104","3,980","4,277","3,222","2,774","2,697","2,933","3,020","2,562","2,771"
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",695,647,619,555,589,472,525,595,405,392
+,Pipeline transportation  [BS48600],"3,004","3,565","3,303","3,527","4,200","4,522","5,087","5,308","5,150","5,704"
+,Postal service and couriers and messengers  [BS49A00],277,276,221,290,261,234,234,242,264,269
+,Warehousing and storage  [BS49300],17,16,14,13,13,14,14,17,19,20
+,Motion picture and sound recording industries  [BS51200],25,21,21,23,21,21,27,32,14,15
+,Radio and television broadcasting  [BS51510],6,5,4,5,10,8,4,4,4,4
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",123,118,124,110,165,190,210,190,140,149
+,Depository credit intermediation and monetary authorities  [BS52B00],256,261,241,205,208,189,266,245,202,222
+,Insurance carriers  [BS52410],26,21,22,21,19,19,22,22,16,17
+,Lessors of real estate  [BS53110],"1,171","1,308","1,135",736,755,809,523,443,466,512
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],"1,150","1,184","1,507","1,310",999,"1,136","1,192","1,253","1,021","1,086"
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",605,572,626,575,596,582,623,605,502,536
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",361,361,365,306,277,288,263,285,264,281
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",136,156,158,180,163,165,211,218,183,201
+,"Advertising, public relations and related services  [BS54180]",10,14,16,17,17,16,20,21,14,15
+,Administrative and support services  [BS56100],386,323,383,434,461,447,484,488,405,427
+,Waste management and remediation services  [BS56200],522,471,405,525,407,472,495,500,406,435
+,Educational services  [BS61000],57,49,39,44,42,45,71,79,59,65
+,Health care and social assistance  [BS62000],149,152,171,161,176,184,232,233,201,216
+,"Arts, entertainment and recreation  [BS71000]",24,22,25,28,26,26,27,29,18,19
+,Accommodation and food services  [BS72000],242,258,279,238,203,227,245,266,233,249
+,Repair and maintenance  [BS81100],623,561,634,547,496,514,551,584,466,490
+,Personal services and private households  [BS81A00],68,65,87,107,106,108,97,112,91,96
+,Professional and similar organisations  [BS81300],2,2,2,2,3,2,2,2,2,2
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],292,257,228,288,405,413,577,633,507,558
+,Non-profit social assistance  [NP62400],17,17,9,8,10,12,13,15,17,18
+,"Non-profit arts, entertainment and recreation  [NP71000]",86,86,67,59,69,93,107,124,80,88
+,Religious organizations  [NP81310],160,176,142,117,176,90,120,140,122,132
+,Miscellaneous non-profit institutions serving households  [NPA0000],346,294,238,261,378,401,515,543,436,476
+,Educational services (except universities)  [GS611B0],570,532,498,430,463,495,558,569,454,494
+,Universities  [GS61130],264,259,280,278,294,330,372,387,316,343
+,Hospitals  [GS62200],126,151,133,130,163,181,230,203,175,193
+,Nursing and residential care facilities  [GS62300],12,14,14,12,13,13,14,15,15,16
+,Other federal government services  [GS91100],236,275,290,196,403,412,410,405,423,475
+,Other provincial and territorial government services  [GS91200],385,86,86,91,121,133,205,195,190,206
+,Other municipal government services  [GS91300],"1,117","1,198","1,268","1,172","1,283","1,341","1,607","1,527","1,226","1,335"
+,Other aboriginal government services  [GS91400],47,41,43,46,47,117,162,161,199,215
+,"Total, households","18,638","19,916","20,041","18,754","19,014","19,932","20,673","20,643","17,883","17,452"
+,Households: Motor fuels and lubricants,"9,948","11,184","11,411","10,480","10,337","10,835","11,280","11,484","8,931","8,987"
+,Households: Electricity and other fuels,"8,689","8,732","8,630","8,274","8,678","9,097","9,393","9,159","8,952","8,465"
+British Columbia,"Total, industries and households","78,678","79,717","80,416","81,233","81,333","82,643","83,426","81,491","72,540","75,003"
+,"Total, industries","65,827","66,406","67,350","67,998","67,409","67,915","68,789","66,869","59,295","61,410"
+,Crop and animal production  [BS11A00],"2,973","3,115",..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,"3,141","3,396","3,714","3,733","3,985","3,668","3,644","3,603"
+,Cannabis production (licensed)  [BS111CL],..,..,1,1,2,2,19,208,183,173
+,Cannabis production (unlicensed)  [BS111CU],..,..,29,43,37,29,20,10,5,5
+,Forestry and logging  [BS11300],"3,011","3,185","2,936","3,316","2,929","3,272","3,235","2,420","1,865","1,907"
+,"Fishing, hunting and trapping  [BS11400]",54,51,78,89,88,101,135,123,124,149
+,Support activities for agriculture and forestry  [BS11500],151,153,177,256,263,297,324,284,264,280
+,Oil and gas extraction  [BS21100],"12,192","12,568","12,570","11,916","10,952","10,827","11,047","10,247","10,516","9,924"
+,Coal mining  [BS21210],"1,886","2,137","1,780","1,865","2,553","2,696","3,038","3,384","3,035","3,013"
+,Metal ore mining  [BS21220],430,459,571,575,553,606,621,628,534,537
+,Non-metallic mineral mining and quarrying  [BS21230],75,70,68,67,72,66,126,73,133,121
+,Support activities for mining and oil and gas extraction  [BS21300],384,314,311,450,395,439,369,315,413,397
+,"Electric power generation, transmission and distribution  [BS22110]","1,347","1,529","1,497","1,447","1,659","1,573","1,509","1,427","1,261","1,687"
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",71,79,74,78,77,77,83,90,96,87
+,Residential building construction  [BS23A00],184,207,219,254,352,357,399,349,301,331
+,Non-residential building construction  [BS23B00],54,54,66,69,64,62,70,74,43,48
+,Transportation engineering construction  [BS23C10],129,132,103,137,173,155,166,135,125,138
+,Oil and gas engineering construction  [BS23C20],32,35,39,38,54,77,61,111,131,150
+,Electric power engineering construction  [BS23C30],132,122,119,154,195,158,188,191,142,161
+,Communication engineering construction  [BS23C40],22,13,13,27,38,36,34,27,16,18
+,Other engineering construction  [BS23C50],183,106,77,61,96,77,98,139,104,114
+,Repair construction  [BS23D00],81,53,68,70,82,80,82,78,66,72
+,Other activities of the construction industry  [BS23E00],70,67,69,90,107,98,101,94,75,79
+,Animal food manufacturing  [BS31110],23,26,28,22,27,26,65,68,74,38
+,Sugar and confectionery product manufacturing  [BS31130],60,48,64,61,51,56,37,20,57,57
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],19,16,15,23,18,24,13,14,18,17
+,Dairy product manufacturing  [BS31150],25,16,13,14,42,28,25,26,28,26
+,Meat product manufacturing  [BS31160],66,90,103,115,79,96,69,99,140,136
+,Seafood product preparation and packaging  [BS31170],7,5,11,15,13,22,13,11,8,9
+,Miscellaneous food manufacturing  [BS311A0],66,92,112,91,90,72,88,91,106,108
+,Soft drink and ice manufacturing  [BS31211],19,18,19,27,30,27,29,23,16,18
+,Breweries  [BS31212],44,51,66,64,36,38,40,37,60,54
+,Wineries and distilleries  [BS3121A],7,10,25,18,18,19,18,17,22,22
+,Tobacco manufacturing  [BS31220],0s,0s,0s,0s,0s,0s,0s,1,1,1
+,Textile and textile product mills  [BS31A00],5,6,3,6,6,6,7,11,9,9
+,Clothing and leather and allied product manufacturing  [BS31B00],3,4,4,5,8,5,4,5,6,6
+,Wood product manufacturing  [BS32100] 12,"3,436","3,981","3,511","3,395","3,115","3,278","3,451","3,162","2,743","2,730"
+,"Pulp, paper and paperboard mills  [BS32210] 12","16,964","16,137","18,009","18,354","17,120","16,564","16,537","16,723","14,596","15,834"
+,Converted paper product manufacturing  [BS32220],13,47,26,37,28,31,11,18,17,18
+,Printing and related support activities  [BS32300],18,18,29,19,33,34,26,27,17,16
+,Petroleum and coal product manufacturing  [BS32400],625,558,591,600,676,797,474,550,452,533
+,Basic chemical manufacturing  [BS32510],56,47,38,37,57,81,80,121,153,166
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",15,9,10,9,18,22,15,8,10,12
+,Pharmaceutical and medicine manufacturing  [BS32540],3,3,6,19,16,3,4,5,5,4
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,24,29,25,28,45,41,36,41,39,38
+,Plastic product manufacturing  [BS32610],31,56,47,53,66,63,55,61,46,44
+,Rubber product manufacturing  [BS32620],10,14,19,17,21,12,10,11,11,10
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],276,247,265,295,185,188,167,158,159,165
+,Cement and concrete product manufacturing  [BS32730],"1,502","1,475","1,777","1,963","2,167","2,261","2,376","1,751","1,305","1,324"
+,Primary metal manufacturing  [BS33100],824,800,732,652,"1,165","1,189","1,147","1,144","1,040",905
+,Fabricated metal product manufacturing  [BS33200],82,102,105,141,148,119,122,154,138,140
+,Machinery manufacturing  [BS33300],58,66,47,56,67,61,49,53,43,41
+,Computer and peripheral equipment manufacturing  [BS33410],2,2,2,2,3,1,0s,1,0s,0s
+,Electronic product manufacturing  [BS334B0],6,10,7,21,21,6,6,7,6,6
+,Electrical  equipment and component manufacturing  [BS335A0],13,16,13,16,21,14,18,21,17,16
+,Household appliance manufacturing  [BS33520],1,1,1,1,1,1,0s,1,1,1
+,Motor vehicle manufacturing  [BS33610],12,14,14,11,11,8,3,8,8,7
+,Motor vehicle body and trailer manufacturing  [BS33620],6,8,9,13,15,11,11,7,6,5
+,Motor vehicle parts manufacturing  [BS33630],12,17,11,13,14,11,33,35,19,17
+,Aerospace product and parts manufacturing  [BS33640],5,9,9,5,7,9,5,5,3,3
+,Railroad rolling stock manufacturing  [BS33650],0s,2,0s,1,1,0s,1,1,1,0s
+,Ship and boat building  [BS33660],5,7,7,9,8,15,9,9,9,8
+,Other transportation equipment manufacturing  [BS33690],2,3,3,3,3,2,1,2,2,2
+,Furniture and related product manufacturing  [BS33700],22,36,34,36,50,35,36,38,31,30
+,Miscellaneous manufacturing  [BS33900],24,33,24,33,49,31,33,29,28,27
+,Wholesale trade  [BS41000],607,688,688,640,716,693,736,747,665,767
+,Retail trade  [BS4A000],723,874,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,887,866,925,939,931,974,978,"1,098"
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,3,7,8
+,Cannabis stores (unlicensed)  [BS453BU],..,..,7,7,8,7,6,5,6,8
+,Air transportation  [BS48100],"3,839","4,049","4,184","4,359","4,522","4,451","4,514","4,553","1,919","1,919"
+,Rail transportation  [BS48200],"1,457","1,443","1,428","1,391","1,341","1,419","1,590","1,696","1,686","1,662"
+,Water transportation  [BS48300],"2,559","2,259","2,035","1,814",860,883,590,565,468,577
+,Truck transportation  [BS48400],"2,430","2,304","2,310","2,041","2,069","2,184","2,327","2,164","1,912","2,074"
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",593,524,489,483,558,582,623,701,480,502
+,Pipeline transportation  [BS48600],874,"1,118","1,099","1,365","1,435","1,481","1,406","1,437","1,381","1,366"
+,Postal service and couriers and messengers  [BS49A00],208,210,186,258,295,298,373,380,349,402
+,Warehousing and storage  [BS49300],69,78,75,80,93,91,78,87,103,123
+,Motion picture and sound recording industries  [BS51200],39,43,49,62,86,118,96,110,65,69
+,Radio and television broadcasting  [BS51510],4,3,3,3,5,4,3,2,2,2
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",84,95,92,80,117,120,152,158,150,179
+,Depository credit intermediation and monetary authorities  [BS52B00],116,140,132,105,118,116,95,84,126,135
+,Insurance carriers  [BS52410],18,12,14,12,11,10,8,9,4,4
+,Lessors of real estate  [BS53110],631,421,473,540,560,589,731,631,530,555
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],222,215,216,204,238,242,246,259,225,251
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",423,387,432,398,455,447,351,322,366,389
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",124,142,144,144,160,143,136,173,178,196
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",81,103,97,92,105,94,77,99,87,91
+,"Advertising, public relations and related services  [BS54180]",10,11,13,13,15,13,12,12,11,11
+,Administrative and support services  [BS56100],200,174,190,201,235,245,253,258,251,270
+,Waste management and remediation services  [BS56200],301,300,108,119,144,134,168,179,182,227
+,Educational services  [BS61000],19,22,18,20,22,28,24,24,32,33
+,Health care and social assistance  [BS62000],184,175,191,160,169,169,159,137,158,166
+,"Arts, entertainment and recreation  [BS71000]",34,33,34,30,34,35,33,34,23,24
+,Accommodation and food services  [BS72000],176,208,238,245,275,288,306,352,288,340
+,Repair and maintenance  [BS81100],239,195,209,192,218,210,219,227,203,225
+,Personal services and private households  [BS81A00],39,38,43,45,48,51,50,52,40,44
+,Professional and similar organisations  [BS81300],1,1,1,1,1,1,1,1,1,1
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],60,58,46,39,49,51,41,44,60,63
+,Non-profit social assistance  [NP62400],33,33,16,15,17,19,14,15,25,26
+,"Non-profit arts, entertainment and recreation  [NP71000]",38,39,31,39,39,52,41,32,46,49
+,Religious organizations  [NP81310],133,128,88,65,76,41,35,39,44,46
+,Miscellaneous non-profit institutions serving households  [NPA0000],157,143,112,98,115,134,104,106,142,150
+,Educational services (except universities)  [GS611B0],40,34,37,32,32,35,31,28,31,32
+,Universities  [GS61130],356,366,373,309,347,396,381,373,431,451
+,Hospitals  [GS62200],107,184,180,165,211,231,235,214,231,253
+,Nursing and residential care facilities  [GS62300],18,18,17,14,12,15,12,10,15,16
+,Other federal government services  [GS91100],107,120,90,144,172,213,214,230,204,249
+,Other provincial and territorial government services  [GS91200],113,22,22,52,78,71,68,107,69,75
+,Other municipal government services  [GS91300],482,393,383,337,396,392,395,415,448,517
+,Other aboriginal government services  [GS91400],29,28,26,23,24,58,83,168,150,172
+,"Total, households","12,851","13,311","13,066","13,236","13,924","14,728","14,637","14,622","13,245","13,592"
+,Households: Motor fuels and lubricants,"8,084","8,641","8,632","8,997","9,472","9,684","9,869","9,670","8,234","8,462"
+,Households: Electricity and other fuels,"4,767","4,670","4,434","4,238","4,452","5,045","4,768","4,952","5,011","5,130"
+Yukon,"Total, industries and households",709,632,488,520,521,551,618,659,567,620
+,"Total, industries",560,484,361,391,393,412,471,499,427,494
+,Crop and animal production  [BS11A00],5,3,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,2,4,4,4,3,6,8,8
+,Cannabis production (licensed)  [BS111CL],..,..,0,0,0,0,0,0,0,0
+,Cannabis production (unlicensed)  [BS111CU],..,..,0,0,0,0,0,0,0,0
+,Forestry and logging  [BS11300],6,2,2,2,2,3,3,3,3,4
+,"Fishing, hunting and trapping  [BS11400]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Support activities for agriculture and forestry  [BS11500],1,1,1,1,1,0s,0s,1,1,1
+,Oil and gas extraction  [BS21100],56,20,8,1,0s,0s,0s,0s,0s,0s
+,Coal mining  [BS21210],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Metal ore mining  [BS21220],90,90,73,52,69,89,112,27,32,39
+,Non-metallic mineral mining and quarrying  [BS21230],2,3,2,1,1,2,2,2,3,4
+,Support activities for mining and oil and gas extraction  [BS21300],36,34,10,40,17,28,42,131,97,135
+,"Electric power generation, transmission and distribution  [BS22110]",18,17,17,18,19,24,33,48,54,42
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",0s,0s,0,0,0,0,1,1,1,1
+,Residential building construction  [BS23A00],2,1,1,1,2,2,1,2,2,2
+,Non-residential building construction  [BS23B00],0s,0s,0s,1,1,1,1,1,1,1
+,Transportation engineering construction  [BS23C10],3,3,2,1,1,2,1,2,2,3
+,Oil and gas engineering construction  [BS23C20],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electric power engineering construction  [BS23C30],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Communication engineering construction  [BS23C40],0s,0s,0s,0s,1,0s,0s,0s,0s,0s
+,Other engineering construction  [BS23C50],2,1,1,1,1,1,4,3,1,1
+,Repair construction  [BS23D00],1,1,1,1,2,2,2,2,2,2
+,Other activities of the construction industry  [BS23E00],2,2,2,2,3,2,3,3,3,3
+,Animal food manufacturing  [BS31110],0s,0s,0s,0,0,0,0,0s,0s,0s
+,Sugar and confectionery product manufacturing  [BS31130],0s,0s,0,0,0,0,0,0,0,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Dairy product manufacturing  [BS31150],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Meat product manufacturing  [BS31160],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Seafood product preparation and packaging  [BS31170],0s,0s,0s,0,0,0,0s,0s,0s,0s
+,Miscellaneous food manufacturing  [BS311A0],1,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Soft drink and ice manufacturing  [BS31211],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Breweries  [BS31212],0s,0,0s,0s,0s,0s,0s,0,0,0
+,Wineries and distilleries  [BS3121A],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0,0,0,0,0,0,0,0,0,0
+,Textile and textile product mills  [BS31A00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Clothing and leather and allied product manufacturing  [BS31B00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Wood product manufacturing  [BS32100] 12,1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Pulp, paper and paperboard mills  [BS32210] 12",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Converted paper product manufacturing  [BS32220],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Printing and related support activities  [BS32300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Petroleum and coal product manufacturing  [BS32400],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Basic chemical manufacturing  [BS32510],0s,0s,0s,0s,0,0s,0s,1,5,5
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",0s,0s,0s,0,0,0,0,0s,0s,0s
+,Pharmaceutical and medicine manufacturing  [BS32540],0,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,0s,0s,0s,1,1,1,1,1,1,1
+,Plastic product manufacturing  [BS32610],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Rubber product manufacturing  [BS32620],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Cement and concrete product manufacturing  [BS32730],1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Primary metal manufacturing  [BS33100],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fabricated metal product manufacturing  [BS33200],1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Machinery manufacturing  [BS33300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electrical  equipment and component manufacturing  [BS335A0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0,0,0,0,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Motor vehicle body and trailer manufacturing  [BS33620],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Motor vehicle parts manufacturing  [BS33630],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0,0,0,0,0,0,0,0,0,0
+,Ship and boat building  [BS33660],0s,0s,0s,0,0,0,0,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Furniture and related product manufacturing  [BS33700],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous manufacturing  [BS33900],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Wholesale trade  [BS41000],8,5,6,5,6,6,7,6,3,4
+,Retail trade  [BS4A000],23,15,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,12,13,13,11,12,12,9,10
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,0s,0s,0s
+,Cannabis stores (unlicensed)  [BS453BU],..,..,0s,0s,0s,0s,0s,0,0,0
+,Air transportation  [BS48100],69,67,62,65,68,70,65,66,44,45
+,Rail transportation  [BS48200],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Water transportation  [BS48300],0s,0s,0s,0s,0,0s,0s,0s,0s,0s
+,Truck transportation  [BS48400],13,12,13,12,15,12,14,14,15,16
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",5,6,5,5,5,4,4,6,4,4
+,Pipeline transportation  [BS48600],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Postal service and couriers and messengers  [BS49A00],2,2,1,1,2,1,1,2,2,2
+,Warehousing and storage  [BS49300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motion picture and sound recording industries  [BS51200],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Radio and television broadcasting  [BS51510],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",6,4,6,7,1,1,0s,0s,0s,0s
+,Depository credit intermediation and monetary authorities  [BS52B00],6,3,2,3,3,2,2,2,1,2
+,Insurance carriers  [BS52410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Lessors of real estate  [BS53110],18,13,7,11,11,9,9,8,9,11
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],9,5,4,5,5,4,5,6,4,4
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",12,10,6,6,7,6,6,6,4,4
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",1,1,1,1,1,0s,0s,1,0s,1
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",1,1,0s,0s,0s,0s,0s,0s,0s,0s
+,"Advertising, public relations and related services  [BS54180]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Administrative and support services  [BS56100],1,1,1,1,1,1,1,2,2,1
+,Waste management and remediation services  [BS56200],12,5,4,4,3,3,3,3,2,3
+,Educational services  [BS61000],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Health care and social assistance  [BS62000],7,6,6,6,8,7,7,7,7,6
+,"Arts, entertainment and recreation  [BS71000]",1,1,1,1,1,0s,0s,1,0s,0s
+,Accommodation and food services  [BS72000],22,16,13,16,15,13,14,16,12,15
+,Repair and maintenance  [BS81100],2,1,1,1,1,1,1,2,2,2
+,Personal services and private households  [BS81A00],1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],0s,0s,0s,0,0,0,0,0s,0,0s
+,Non-profit social assistance  [NP62400],1,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Non-profit arts, entertainment and recreation  [NP71000]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Religious organizations  [NP81310],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous non-profit institutions serving households  [NPA0000],2,2,2,2,3,2,2,3,3,3
+,Educational services (except universities)  [GS611B0],7,4,4,4,4,4,5,4,1,1
+,Universities  [GS61130],0s,0s,0s,0s,0s,0s,0s,0s,2,2
+,Hospitals  [GS62200],5,4,2,2,2,2,3,2,2,2
+,Nursing and residential care facilities  [GS62300],0,0s,0s,0,0s,0s,0s,0s,0,0s
+,Other federal government services  [GS91100],8,5,3,5,6,6,7,7,5,5
+,Other provincial and territorial government services  [GS91200],68,99,64,72,69,61,59,59,49,67
+,Other municipal government services  [GS91300],19,12,10,11,12,8,12,22,20,23
+,Other aboriginal government services  [GS91400],3,2,2,2,3,12,16,5,6,6
+,"Total, households",149,148,127,130,129,139,147,160,140,125
+,Households: Motor fuels and lubricants,112,107,108,116,116,127,141,153,126,113
+,Households: Electricity and other fuels,37,41,19,13,13,12,6,7,14,12
+Northwest Territories,"Total, industries and households","2,054","2,020","2,075","2,083","1,791","1,992","1,971","1,919","1,544","1,675"
+,"Total, industries","1,896","1,868","1,897","1,904","1,638","1,859","1,830","1,772","1,416","1,550"
+,Crop and animal production  [BS11A00],51,12,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,1,1,1,1,1,2,1,55
+,Cannabis production (licensed)  [BS111CL],..,..,0,0,0,0,0,0,0,0
+,Cannabis production (unlicensed)  [BS111CU],..,..,0,0,0,0,0,0,0,0
+,Forestry and logging  [BS11300],0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,"Fishing, hunting and trapping  [BS11400]",0s,0s,0s,0s,0s,6,4,3,2,2
+,Support activities for agriculture and forestry  [BS11500],3,3,5,4,6,10,5,6,5,5
+,Oil and gas extraction  [BS21100],114,74,58,55,78,25,40,147,97,105
+,Coal mining  [BS21210],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Metal ore mining  [BS21220],39,43,46,36,0s,0s,0s,0s,0s,0s
+,Non-metallic mineral mining and quarrying  [BS21230],463,502,531,522,422,509,556,507,418,478
+,Support activities for mining and oil and gas extraction  [BS21300],131,118,107,132,140,177,183,133,80,78
+,"Electric power generation, transmission and distribution  [BS22110]",63,64,83,119,69,62,68,60,62,58
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",6,3,4,1,0s,0s,0s,1,1,1
+,Residential building construction  [BS23A00],1,1,1,1,3,2,1,1,2,2
+,Non-residential building construction  [BS23B00],1,1,0s,0s,2,2,2,2,1,1
+,Transportation engineering construction  [BS23C10],3,2,2,1,3,3,3,4,6,6
+,Oil and gas engineering construction  [BS23C20],1,1,0s,0s,0s,0s,1,0s,0s,0s
+,Electric power engineering construction  [BS23C30],0s,1,0s,0s,2,0s,1,1,2,2
+,Communication engineering construction  [BS23C40],0s,0s,0s,1,3,2,0s,0s,0s,0s
+,Other engineering construction  [BS23C50],7,5,6,7,18,9,6,4,2,2
+,Repair construction  [BS23D00],2,2,2,3,4,3,1,2,2,2
+,Other activities of the construction industry  [BS23E00],12,13,10,13,20,21,19,21,18,19
+,Animal food manufacturing  [BS31110],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Sugar and confectionery product manufacturing  [BS31130],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Dairy product manufacturing  [BS31150],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Meat product manufacturing  [BS31160],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Seafood product preparation and packaging  [BS31170],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous food manufacturing  [BS311A0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Soft drink and ice manufacturing  [BS31211],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Breweries  [BS31212],0,0s,0s,0s,0s,0s,0s,0s,0,0s
+,Wineries and distilleries  [BS3121A],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Textile and textile product mills  [BS31A00],1,1,0s,1,0s,0s,0s,0s,0s,0s
+,Clothing and leather and allied product manufacturing  [BS31B00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Wood product manufacturing  [BS32100] 12,1,1,1,1,1,2,0s,1,1,1
+,"Pulp, paper and paperboard mills  [BS32210] 12",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Converted paper product manufacturing  [BS32220],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Printing and related support activities  [BS32300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Petroleum and coal product manufacturing  [BS32400],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Basic chemical manufacturing  [BS32510],0s,0s,0s,0s,0s,0s,3,4,7,7
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Pharmaceutical and medicine manufacturing  [BS32540],0,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,4,4,2,5,14,23,18,31,23,24
+,Plastic product manufacturing  [BS32610],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Rubber product manufacturing  [BS32620],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Cement and concrete product manufacturing  [BS32730],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Primary metal manufacturing  [BS33100],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Fabricated metal product manufacturing  [BS33200],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Machinery manufacturing  [BS33300],0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Computer and peripheral equipment manufacturing  [BS33410],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electrical  equipment and component manufacturing  [BS335A0],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Household appliance manufacturing  [BS33520],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle body and trailer manufacturing  [BS33620],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Motor vehicle parts manufacturing  [BS33630],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0,0,0,0,0,0,0,0,0,0
+,Ship and boat building  [BS33660],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Furniture and related product manufacturing  [BS33700],0s,0s,0s,0s,0s,0s,1,1,0s,0s
+,Miscellaneous manufacturing  [BS33900],0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,Wholesale trade  [BS41000],35,32,22,22,19,38,35,21,9,9
+,Retail trade  [BS4A000],42,46,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,48,45,25,54,55,38,28,29
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0s,0,0,0
+,Cannabis stores (unlicensed)  [BS453BU],..,..,0s,0s,0s,0s,0s,0,0,0
+,Air transportation  [BS48100],347,370,361,318,328,310,268,274,200,200
+,Rail transportation  [BS48200],1,1,1,1,1,0s,0s,0s,0s,0s
+,Water transportation  [BS48300],143,140,148,188,173,24,22,14,4,4
+,Truck transportation  [BS48400],40,39,28,23,16,17,18,15,14,15
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",12,11,11,12,9,11,33,29,21,21
+,Pipeline transportation  [BS48600],4,4,5,2,2,1,4,17,11,11
+,Postal service and couriers and messengers  [BS49A00],5,5,4,4,6,7,14,21,9,10
+,Warehousing and storage  [BS49300],1,1,1,1,1,1,1,0s,0s,0s
+,Motion picture and sound recording industries  [BS51200],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Radio and television broadcasting  [BS51510],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",8,7,10,4,9,18,10,5,2,2
+,Depository credit intermediation and monetary authorities  [BS52B00],9,7,6,11,1,1,1,0s,0s,0s
+,Insurance carriers  [BS52410],0s,0s,0s,1,0s,0s,0s,0s,0s,0s
+,Lessors of real estate  [BS53110],1,1,1,6,7,12,12,11,11,11
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],13,5,2,3,2,5,4,3,3,3
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",5,5,5,6,3,3,3,4,2,2
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",3,3,3,2,1,1,1,2,1,1
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",7,4,7,12,1,1,1,1,0s,0s
+,"Advertising, public relations and related services  [BS54180]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Administrative and support services  [BS56100],5,4,4,4,2,3,3,3,2,2
+,Waste management and remediation services  [BS56200],10,10,8,10,11,28,26,21,16,17
+,Educational services  [BS61000],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Health care and social assistance  [BS62000],7,8,6,6,6,8,6,7,5,5
+,"Arts, entertainment and recreation  [BS71000]",1,1,1,0s,0s,0s,0s,0s,0s,0s
+,Accommodation and food services  [BS72000],20,36,34,28,30,57,58,48,31,32
+,Repair and maintenance  [BS81100],4,4,4,5,4,6,6,4,3,3
+,Personal services and private households  [BS81A00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-profit social assistance  [NP62400],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Non-profit arts, entertainment and recreation  [NP71000]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Religious organizations  [NP81310],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Miscellaneous non-profit institutions serving households  [NPA0000],2,2,2,2,3,4,3,3,3,3
+,Educational services (except universities)  [GS611B0],74,12,13,18,3,3,3,5,4,4
+,Universities  [GS61130],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Hospitals  [GS62200],6,6,5,12,9,15,17,15,17,18
+,Nursing and residential care facilities  [GS62300],0s,0s,0s,0s,0s,0s,0s,1,1,1
+,Other federal government services  [GS91100],20,16,60,25,14,32,28,33,19,21
+,Other provincial and territorial government services  [GS91200],114,187,183,164,126,220,176,148,161,166
+,Other municipal government services  [GS91300],29,29,29,33,38,63,58,48,50,51
+,Other aboriginal government services  [GS91400],22,18,21,29,2,55,50,51,59,60
+,"Total, households",158,152,178,179,153,133,140,146,128,124
+,Households: Motor fuels and lubricants,71,66,76,81,81,73,74,78,67,67
+,Households: Electricity and other fuels,87,86,102,98,72,61,66,69,60,57
+Nunavut,"Total, industries and households",516,648,668,652,685,707,762,944,850,738
+,"Total, industries",488,614,605,559,622,651,716,904,817,702
+,Crop and animal production  [BS11A00],0,0,..,..,..,..,..,..,..,..
+,Crop and animal production (except cannabis)  [BS11B00],..,..,0,0,0,0,0,0s,0s,0s
+,Cannabis production (licensed)  [BS111CL],..,..,0,0,0,0,0,0,0,0
+,Cannabis production (unlicensed)  [BS111CU],..,..,0,0,0,0,0,0,0,0
+,Forestry and logging  [BS11300],0,0,0,0,0,0,0,0s,0s,0s
+,"Fishing, hunting and trapping  [BS11400]",0s,0s,0s,0s,0s,1,0s,1,1,1
+,Support activities for agriculture and forestry  [BS11500],0,0,0,0,0,0,0,0s,0s,0s
+,Oil and gas extraction  [BS21100],0,0,0,0,0,0,0,0s,0s,0s
+,Coal mining  [BS21210],0,0,0,0,0,0,0,0s,0s,0s
+,Metal ore mining  [BS21220],202,203,195,204,297,305,353,548,508,383
+,Non-metallic mineral mining and quarrying  [BS21230],0,0,0,0,0,0,0,0s,0s,0s
+,Support activities for mining and oil and gas extraction  [BS21300],55,122,34,43,26,30,26,22,15,15
+,"Electric power generation, transmission and distribution  [BS22110]",74,69,118,114,135,137,164,162,150,156
+,"Natural gas distribution, water, sewage and other systems  [BS221A0]",0s,0,0,0,0,0,0,0,0,0s
+,Residential building construction  [BS23A00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Non-residential building construction  [BS23B00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Transportation engineering construction  [BS23C10],0s,0s,0s,0s,0s,1,0s,0s,0s,0s
+,Oil and gas engineering construction  [BS23C20],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Electric power engineering construction  [BS23C30],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Communication engineering construction  [BS23C40],0s,0,0s,0s,0s,0s,0s,0s,0s,0s
+,Other engineering construction  [BS23C50],2,7,6,4,4,6,11,7,3,4
+,Repair construction  [BS23D00],1,1,0s,1,2,1,1,1,1,1
+,Other activities of the construction industry  [BS23E00],0s,0s,0s,0s,1,0s,0s,1,0s,1
+,Animal food manufacturing  [BS31110],0,0,0,0,0,0,0,0s,0s,0s
+,Sugar and confectionery product manufacturing  [BS31130],0,0,0,0,0,0,0,0s,0s,0s
+,Fruit and vegetable preserving and specialty food manufacturing  [BS31140],0,0,0,0,0,0,0,0s,0s,0s
+,Dairy product manufacturing  [BS31150],0,0,0,0,0,0,0,0s,0s,0s
+,Meat product manufacturing  [BS31160],0,0,0,0,0,0,0,0s,0s,0s
+,Seafood product preparation and packaging  [BS31170],2,7,2,2,1,1,1,1,0s,0s
+,Miscellaneous food manufacturing  [BS311A0],0,0,0,0,0,0,0,0s,0s,0s
+,Soft drink and ice manufacturing  [BS31211],0,0,0,0,0,0,0,0s,0s,0s
+,Breweries  [BS31212],0,0,0,0,0,0,0s,0,0,0
+,Wineries and distilleries  [BS3121A],0,0,0,0,0,0,0,0s,0s,0s
+,Tobacco manufacturing  [BS31220],0,0,0,0,0,0,0,0,0,0
+,Textile and textile product mills  [BS31A00],0s,0,0s,0,0,0,0,0s,0s,0s
+,Clothing and leather and allied product manufacturing  [BS31B00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Wood product manufacturing  [BS32100] 12,0,0,0,0,0,0,0,0s,0s,0s
+,"Pulp, paper and paperboard mills  [BS32210] 12",0,0,0,0,0,0,0,0s,0s,0s
+,Converted paper product manufacturing  [BS32220],0,0,0,0,0,0,0,0s,0s,0s
+,Printing and related support activities  [BS32300],0s,0s,0s,0,0,0,0,0s,0s,0s
+,Petroleum and coal product manufacturing  [BS32400],0,0,0,0,0,0,0,0s,0s,0s
+,Basic chemical manufacturing  [BS32510],0,0,0,0,0,0,0,0s,0s,0s
+,"Pesticide, fertilizer and other agricultural chemical manufacturing  [BS32530]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Pharmaceutical and medicine manufacturing  [BS32540],0,0,0,0,0,0,0,0,0,0
+,Miscellaneous chemical product manufacturing  [BS325C0] 13,1,0s,0s,1,1,1,1,1,1,1
+,Plastic product manufacturing  [BS32610],0,0,0,0,0,0,0,0s,0s,0s
+,Rubber product manufacturing  [BS32620],0,0,0,0,0,0,0,0s,0s,0s
+,Non-metallic mineral product manufacturing (except cement and concrete products)  [BS327A0],0,0,0,0,0,0,0,0s,0s,0s
+,Cement and concrete product manufacturing  [BS32730],0,0,0,0,0,0,0,0s,0s,0s
+,Primary metal manufacturing  [BS33100],0,0,0,0,0,0,0,0s,0s,0s
+,Fabricated metal product manufacturing  [BS33200],0,0,0,0,0,0,0,0s,0s,0s
+,Machinery manufacturing  [BS33300],0,0,0,0,0,0,0,0s,0s,0s
+,Computer and peripheral equipment manufacturing  [BS33410],0,0,0,0,0,0,0,0s,0s,0s
+,Electronic product manufacturing  [BS334B0],0,0,0,0,0,0,0,0s,0s,0s
+,Electrical  equipment and component manufacturing  [BS335A0],0,0,0,0,0,0,0,0s,0s,0s
+,Household appliance manufacturing  [BS33520],0,0,0,0,0,0,0,0s,0s,0s
+,Motor vehicle manufacturing  [BS33610],0,0,0,0,0,0,0,0s,0s,0s
+,Motor vehicle body and trailer manufacturing  [BS33620],0,0,0,0,0,0,0,0s,0s,0s
+,Motor vehicle parts manufacturing  [BS33630],0,0,0,0,0,0,0,0s,0s,0s
+,Aerospace product and parts manufacturing  [BS33640],0,0,0,0,0,0,0,0s,0s,0s
+,Railroad rolling stock manufacturing  [BS33650],0,0,0,0,0,0,0,0,0,0
+,Ship and boat building  [BS33660],0,0,0,0,0,0,0,0s,0s,0s
+,Other transportation equipment manufacturing  [BS33690],0,0,0,0,0,0,0,0s,0s,0s
+,Furniture and related product manufacturing  [BS33700],0,0,0s,0,0,0,0,0s,0s,0s
+,Miscellaneous manufacturing  [BS33900],0,0,0,0,0,0,0,0s,0s,0s
+,Wholesale trade  [BS41000],1,4,1,2,1,2,1,1,1,1
+,Retail trade  [BS4A000],8,22,..,..,..,..,..,..,..,..
+,Retail trade (except cannabis)  [BS4AA00],..,..,8,9,7,9,8,7,5,5
+,Cannabis stores (licensed)  [BS453BL],..,..,0,0,0,0,0,0,0,0
+,Cannabis stores (unlicensed)  [BS453BU],..,..,0s,0,0,0,0,0,0,0
+,Air transportation  [BS48100],68,65,64,66,72,91,97,100,91,91
+,Rail transportation  [BS48200],0,0,0,0,0,0,0,0s,0s,0s
+,Water transportation  [BS48300],1,2,0s,1,1,1,1,1,0s,0s
+,Truck transportation  [BS48400],3,3,3,2,3,3,2,3,3,3
+,"Transit, ground passenger and scenic and sightseeing transportation, taxi and limousine service and support activities for transportation  [BS48B00]",1,1,1,2,1,1,1,1,2,2
+,Pipeline transportation  [BS48600],0,0,0,0,0,0,0,0s,0s,0s
+,Postal service and couriers and messengers  [BS49A00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Warehousing and storage  [BS49300],0,0,0,0s,0s,0s,0s,0s,0s,0s
+,Motion picture and sound recording industries  [BS51200],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Radio and television broadcasting  [BS51510],0s,0,0,0,0,0,0,0,0,0s
+,"Publishing, pay/specialty services, telecommunications and other information services  [BS51B00]",1,1,1,0s,0s,0s,0s,0s,0s,0s
+,Depository credit intermediation and monetary authorities  [BS52B00],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Insurance carriers  [BS52410],0,0,0s,0,0s,0s,0s,0,0,0
+,Lessors of real estate  [BS53110],0s,0s,4,6,3,2,1,1,1,1
+,Owner-occupied dwellings  [BS5311A],0,0,0,0,0,0,0,0,0,0
+,Rental and leasing services and lessors of non-financial intangible assets (except copyrighted works)  [BS53B00],3,6,1,0s,1,1,1,1,1,1
+,"Other finance, insurance and real estate services and management of companies and enterprises  [BS5A000]",1,1,1,1,1,1,0s,0s,0s,0s
+,"Legal, accounting and architectural, engineering and related services  [BS541C0]",0s,1,0s,0s,0s,0s,0s,0s,0s,0s
+,"Computer systems design and other professional, scientific and technical services  [BS541D0]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Advertising, public relations and related services  [BS54180]",0,0,0,0,0s,0s,0s,0s,0s,0s
+,Administrative and support services  [BS56100],1,1,1,1,2,2,2,2,1,2
+,Waste management and remediation services  [BS56200],15,35,5,2,1,1,1,1,0s,0s
+,Educational services  [BS61000],0s,0s,1,1,1,1,0s,0s,0,0
+,Health care and social assistance  [BS62000],5,5,6,6,5,5,4,4,4,5
+,"Arts, entertainment and recreation  [BS71000]",0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Accommodation and food services  [BS72000],1,5,3,5,3,2,2,2,1,1
+,Repair and maintenance  [BS81100],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Personal services and private households  [BS81A00],0s,0,0s,1,0s,0s,0s,0s,0s,0s
+,Professional and similar organisations  [BS81300],0s,0s,0s,0s,0s,0s,0s,0,0,0
+,Repair and maintenance  [FC11000],0,0,0,0,0,0,0,0,0,0
+,Operating supplies  [FC12000],0,0,0,0,0,0,0,0,0,0
+,Office supplies  [FC13000],0,0,0,0,0,0,0,0,0,0
+,"Advertising, promotion, meals, entertainment, and travel  [FC20000]",0,0,0,0,0,0,0,0,0,0
+,Transportation margins  [FC30000],0,0,0,0,0,0,0,0,0,0
+,Non-profit education services  [NP61000],0s,0s,0s,0s,0s,0s,0s,0,0,0
+,Non-profit social assistance  [NP62400],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,"Non-profit arts, entertainment and recreation  [NP71000]",0,0,0,0s,0s,0s,0s,0,0,0
+,Religious organizations  [NP81310],0s,0s,0s,0s,0s,0s,0s,0s,0,0
+,Miscellaneous non-profit institutions serving households  [NPA0000],1,1,1,1,1,1,1,1,1,1
+,Educational services (except universities)  [GS611B0],2,1,3,4,3,3,3,3,2,2
+,Universities  [GS61130],0,0,0,0,0,0,0,0s,0s,0s
+,Hospitals  [GS62200],0s,0,0,0,0,0,0,0,0,0
+,Nursing and residential care facilities  [GS62300],0s,0s,0s,0s,0s,0s,0s,0s,0s,0s
+,Other federal government services  [GS91100],3,7,4,6,7,5,3,2,1,1
+,Other provincial and territorial government services  [GS91200],25,31,107,32,19,20,16,15,12,12
+,Other municipal government services  [GS91300],8,11,30,38,21,16,14,14,10,11
+,Other aboriginal government services  [GS91400],0,0,0,0,0,0,0,0,0,0
+,"Total, households",28,33,63,92,63,56,46,41,33,36
+,Households: Motor fuels and lubricants,17,21,22,24,28,27,22,22,20,22
+,Households: Electricity and other fuels,11,12,41,69,35,29,24,19,14,13
+,,,,,,,,,,,
+Symbol legend:,,,,,,,,,,,
+.., not available for a specific reference period,,,,,,,,,,
+0s,value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Table Corrections:,,,,,,,,,,,
+Date,Note,,,,,,,,,,
+,"On February 28, 2023, a correction was made to some balancing items (biomass, motor fuels, synthetic fluorinated gases and non-energy products from fuels and solvent use) for some provinces and territories (Newfoundland and Labrador, Nova Scotia, Quebec, Manitoba, Saskatchewan, Alberta, British Columbia, Yukon and Nunavut) for years 2009 to 2020.",,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,
+1,"Data source: Statistics Canada, Environment Accounts and Statistics Division.
+",,,,,,,,,,
+2,Carbon dioxide equivalent emissions are estimated using global warming potentials for methane and nitrous oxide of 25 and 298 respectively.,,,,,,,,,,
+3,Emission sources included in these estimates: combustion of fossil fuels and biomass; non-combustion uses of fossil fuels; industrial processes; agricultural soils; livestock manure and enteric fermentation.,,,,,,,,,,
+4,"The supply and use tables are built around three classification systems, namely the Input-Output Industry Classification (IOIC) for industries, the Supply and Use Product Classification (SUPC) for products (goods and services), and the Input-Output Final Demand Classification (IOFDC) for final demand categories. The Input-Output Industry Classification (IOIC) is based on the North American Industry Classification System (NAICS) and the Supply and Use Product Classification (SUPC) is based on the North American Products Classification System (NAPCS). The Input-Output Final Demand Classification is based on the Classification of Individual Consumption by Purpose (COICOP) for the personal expenditure categories and the North American Industry Classification (NAICS) for the gross fixed capital formation categories.  This table is published at the link 1961 level of the supply and use tables.",,,,,,,,,,
+5,"The alphanumeric codes appearing in square brackets beside each industry title represent the Input-Output Industry Classification (IOIC) codes. The IOIC identifies both institutional sectors and industries based on the North American Industry Classification System (NAICS). The first two characters of the IOIC alphanumeric codes represent the sector. IOIC codes beginning with a BS represent business sector industries, codes beginning with an NP represent Non-Profit Institutions Serving Household (NPISH) sector industries, and codes beginning with a GS represent government sector industries.",,,,,,,,,,
+6,This table replaces table 38-10-0111-01.,,,,,,,,,,
+7,Totals may not add due to rounding.,,,,,,,,,,
+8,"For more information on the concepts, sources and methods, please consult the <a href=https://www150.statcan.gc.ca/n1/pub/16-509-x/2016001/29-eng.htm"" rel=""external noopener noreferrer"" target=""_blank"">Greenhouse gas emissions account (opens new window)</a> Greenhouse gas emissions account</a> section of the Methodological guide: Canadian System of Environmental-Economic Accounting (<a href=""https://www150.statcan.gc.ca/n1/en/catalogue/16-509-X"" rel=""external noopener noreferrer"" target=""_blank"">16-509-X (opens new window))</a>.""",,,,,,,,,,
+9,"As of January 2019, in addition to national data, preliminary estimates for the greenhouse gas emissions account are available for each province and territory.",,,,,,,,,,
+10,Data for 2009 to 2020 were revised in December 2023.,,,,,,,,,,
+11,"As of reference year 2014, the classifications of the supply and use tables have been modified to include cannabis related industries.",,,,,,,,,,
+12,"Emissions from biomass (wood and spent pulping liquor), which are included in the greenhouse gas account estimates, represent a significant proportion of emissions in both the wood product manufacturing and pulp, paper and paperboard mills industries.",,,,,,,,,,
+13,"As of the December 2014 release of the physical flow accounts, industries BS32520 and BS325A0 have been merged into a single industry BS325C0 (Miscellaneous chemical product manufacturing).",,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+How to cite: Statistics Canada. Table 38-10-0097-01  Physical flow account for greenhouse gas emissions,,,,,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3810009701,,,,,,,,,,,
