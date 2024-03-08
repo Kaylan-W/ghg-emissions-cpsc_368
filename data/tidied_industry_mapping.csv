@@ -1,98 +1,98 @@
-IndustryCode,IndustryName,NAICS,IOIC
-3111,Animal food manufacturing,311,BS31110
-3113,Sugar and confectionery product manufacturing,311,BS31130
-3114,Fruit and vegetable preserving and specialty food manufacturing,311,BS31140
-3115,Dairy product manufacturing,311,BS31150
-3116,Meat product manufacturing,311,BS31160
-3117,Seafood product preparation and packaging,311,BS31170
-311A,Miscellaneous food manufacturing,311,BS311A0
-3112,Grain and oilseed milling,311,BS31120
-3118,Bakeries and tortilla manufacturing,311,BS31180
-3119,Other food manufacturing,311,BS31190
-31211,Soft drink and ice manufacturing,312,BS31211
-31212,Breweries,312,BS31212
-3121A,Wineries and distilleries,312,BS3121A
-3122,Tobacco manufacturing,312,BS31220
-31A,Textile and textile product mills,313,BS31A00
-31B,Clothing and leather and allied product manufacturing,315,BS31B00
-321,Wood product manufacturing,321,BS32100
-3211,Sawmills and wood preservation,321,BS32110
-3212,"Veneer, plywood and engineered wood product manufacturing",321,BS32120
-3219,Other wood product manufacturing,321,BS32190
-3221,"Pulp, paper and paperboard mills",322,BS32210
-3222,Converted paper product manufacturing,322,BS32220
-323,Printing and related support activities,323,BS32300
-324,Petroleum and coal product manufacturing,324,BS32400
-32411,Petroleum refineries,324,BS32411
-3241A,Petroleum and coal product manufacturing (except petroleum refineries),324,BS3241A
-3251,Basic chemical manufacturing,325,BS32510
-3253,"Pesticide, fertilizer and other agricultural chemical manufacturing",325,BS32530
-3254,Pharmaceutical and medicine manufacturing,325,BS32540
-325A,Miscellaneous chemical product manufacturing,325,BS325C0
-3255,"Paint, coating and adhesive manufacturing",325,BS32550
-3256,"Soap, cleaning compound and toilet preparation manufacturing",325,BS32560
-3259,Other chemical product manufacturing,325,BS32590
-325B,"Resin, synthetic rubber and fibres, and paint manufacturing",325,BS325B0
-3261,Plastic product manufacturing,326,BS32610
-3262,Rubber product manufacturing,326,BS32620
-3273,Cement and concrete product manufacturing,327,BS32730
-327A,Non-metallic mineral product manufacturing (except cement and concrete products),327,BS327A0
-331,Primary metal manufacturing,331,BS33100
-3311,Iron and steel mills and ferro-alloy manufacturing,331,BS33110
-3312,Steel product manufacturing from purchased steel,331,BS33120
-3313,Alumina and aluminum production and processing,331,BS33130
-3314,Non-ferrous metal (except aluminum) production and processing,331,BS33140
-3315,Foundries,331,BS33150
-332,Fabricated metal product manufacturing,332,BS33200
-3321,Forging and stamping,332,BS33210
-3323,Architectural and structural metals manufacturing,332,BS33230
-3324,"Boiler, tank and shipping container manufacturing",332,BS33240
-3325,Hardware manufacturing,332,BS33250
-3326,Spring and wire product manufacturing,332,BS33260
-3327,"Machine shops, turned product, and screw, nut and bolt manufacturing",332,BS33270
-3328,"Coating, engraving, cold and heat treating and allied activities",332,BS33280
-332A,"Cutlery, hand tools and other fabricated metal product manufacturing",332,BS332A0
-333,Machinery manufacturing,333,BS33300
-3331,"Agricultural, construction and mining machinery manufacturing",333,BS33310
-333A,"Industrial, commercial and service industry machinery manufacturing",333,BS333A0
-3332,Industrial machinery manufacturing,333,BS33320
-3333,Commercial and service industry machinery manufacturing,333,BS33330
-3334,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",333,BS33340
-3335,Metalworking machinery manufacturing,333,BS33350
-3336,"Engine, turbine and power transmission equipment manufacturing",333,BS33360
-3339,Other general-purpose machinery manufacturing,333,BS33390
-334B,Electronic product manufacturing  ,334,BS334B0
-3341,Computer and peripheral equipment manufacturing,334,BS33410
-3342,Communications equipment manufacturing,334,BS33420
-3344,Semiconductor and other electronic component manufacturing,334,BS33440
-334A,Other electronic product manufacturing,334,BS334A0
-335,"Electrical equipment, appliance and component manufacturing",335,BS33520
-3351,Electric lighting equipment manufacturing,335,BS33510
-3352,Household appliance manufacturing,335,BS33520
-3353,Electrical equipment manufacturing,335,BS33530
-3359,Other electrical equipment and component manufacturing,335,BS33590
-335A,Electrical equipment and component manufacturing,335,BS335A0
-3361,Motor vehicle manufacturing,336,BS33610
-33611,Automobile and light-duty motor vehicle manufacturing,336,BS33611
-33612,Heavy-duty truck manufacturing,336,BS33612
-3362,Motor vehicle body and trailer manufacturing,336,BS33620
-3363,Motor vehicle parts manufacturing,336,BS33630
-33631,Motor vehicle gasoline engine and engine parts manufacturing,336,BS33631
-33632,Motor vehicle electrical and electronic equipment manufacturing,336,BS33632
-33633,Motor vehicle steering and suspension components (except spring) manufacturing,336,BS33633
-33634,Motor vehicle brake system manufacturing,336,BS33634
-33635,Motor vehicle transmission and power train parts manufacturing,336,BS33635
-33636,Motor vehicle seating and interior trim manufacturing,336,BS33636
-33637,Motor vehicle metal stamping,336,BS33637
-33639,Other motor vehicle parts manufacturing,336,BS33639
-3364,Aerospace product and parts manufacturing,336,BS33640
-3365,Railroad rolling stock manufacturing,336,BS33650
-3366,Ship and boat building,336,BS33660
-3369,Other transportation equipment manufacturing,336,BS33690
-337,Furniture and related product manufacturing,337,BS33700
-3371,Household and institutional furniture and kitchen cabinet manufacturing,337,BS33710
-3372,Office furniture (including fixtures) manufacturing,337,BS33720
-3379,Other furniture-related product manufacturing,337,BS33790
-339,Miscellaneous manufacturingTable note1,339,BS33900
-3391,Medical equipment and supplies manufacturing,339,BS33910
-3399,Other miscellaneous manufacturingTable note1,339,BS33990
+IndustryCode,IndustryName,NAICS,IOIC,Durable
+3111,Animal food manufacturing,311,BS31110,0
+3113,Sugar and confectionery product manufacturing,311,BS31130,0
+3114,Fruit and vegetable preserving and specialty food manufacturing,311,BS31140,0
+3115,Dairy product manufacturing,311,BS31150,0
+3116,Meat product manufacturing,311,BS31160,0
+3117,Seafood product preparation and packaging,311,BS31170,0
+311A,Miscellaneous food manufacturing,311,BS311A0,0
+3112,Grain and oilseed milling,311,BS31120,0
+3118,Bakeries and tortilla manufacturing,311,BS31180,0
+3119,Other food manufacturing,311,BS31190,0
+31211,Soft drink and ice manufacturing,312,BS31211,0
+31212,Breweries,312,BS31212,0
+3121A,Wineries and distilleries,312,BS3121A,0
+3122,Tobacco manufacturing,312,BS31220,0
+31A,Textile and textile product mills,313,BS31A00,0
+31B,Clothing and leather and allied product manufacturing,315,BS31B00,0
+321,Wood product manufacturing,321,BS32100,1
+3211,Sawmills and wood preservation,321,BS32110,1
+3212,"Veneer, plywood and engineered wood product manufacturing",321,BS32120,1
+3219,Other wood product manufacturing,321,BS32190,1
+3221,"Pulp, paper and paperboard mills",322,BS32210,0
+3222,Converted paper product manufacturing,322,BS32220,0
+323,Printing and related support activities,323,BS32300,0
+324,Petroleum and coal product manufacturing,324,BS32400,0
+32411,Petroleum refineries,324,BS32411,0
+3241A,Petroleum and coal product manufacturing (except petroleum refineries),324,BS3241A,0
+3251,Basic chemical manufacturing,325,BS32510,0
+3253,"Pesticide, fertilizer and other agricultural chemical manufacturing",325,BS32530,0
+3254,Pharmaceutical and medicine manufacturing,325,BS32540,0
+325A,Miscellaneous chemical product manufacturing,325,BS325C0,0
+3255,"Paint, coating and adhesive manufacturing",325,BS32550,0
+3256,"Soap, cleaning compound and toilet preparation manufacturing",325,BS32560,0
+3259,Other chemical product manufacturing,325,BS32590,0
+325B,"Resin, synthetic rubber and fibres, and paint manufacturing",325,BS325B0,0
+3261,Plastic product manufacturing,326,BS32610,0
+3262,Rubber product manufacturing,326,BS32620,0
+3273,Cement and concrete product manufacturing,327,BS32730,1
+327A,Non-metallic mineral product manufacturing (except cement and concrete products),327,BS327A0,1
+331,Primary metal manufacturing,331,BS33100,1
+3311,Iron and steel mills and ferro-alloy manufacturing,331,BS33110,1
+3312,Steel product manufacturing from purchased steel,331,BS33120,1
+3313,Alumina and aluminum production and processing,331,BS33130,1
+3314,Non-ferrous metal (except aluminum) production and processing,331,BS33140,1
+3315,Foundries,331,BS33150,1
+332,Fabricated metal product manufacturing,332,BS33200,1
+3321,Forging and stamping,332,BS33210,1
+3323,Architectural and structural metals manufacturing,332,BS33230,1
+3324,"Boiler, tank and shipping container manufacturing",332,BS33240,1
+3325,Hardware manufacturing,332,BS33250,1
+3326,Spring and wire product manufacturing,332,BS33260,1
+3327,"Machine shops, turned product, and screw, nut and bolt manufacturing",332,BS33270,1
+3328,"Coating, engraving, cold and heat treating and allied activities",332,BS33280,1
+332A,"Cutlery, hand tools and other fabricated metal product manufacturing",332,BS332A0,1
+333,Machinery manufacturing,333,BS33300,1
+3331,"Agricultural, construction and mining machinery manufacturing",333,BS33310,1
+333A,"Industrial, commercial and service industry machinery manufacturing",333,BS333A0,1
+3332,Industrial machinery manufacturing,333,BS33320,1
+3333,Commercial and service industry machinery manufacturing,333,BS33330,1
+3334,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",333,BS33340,1
+3335,Metalworking machinery manufacturing,333,BS33350,1
+3336,"Engine, turbine and power transmission equipment manufacturing",333,BS33360,1
+3339,Other general-purpose machinery manufacturing,333,BS33390,1
+334B,Electronic product manufacturing  ,334,BS334B0,1
+3341,Computer and peripheral equipment manufacturing,334,BS33410,1
+3342,Communications equipment manufacturing,334,BS33420,1
+3344,Semiconductor and other electronic component manufacturing,334,BS33440,1
+334A,Other electronic product manufacturing,334,BS334A0,1
+335,"Electrical equipment, appliance and component manufacturing",335,BS33520,1
+3351,Electric lighting equipment manufacturing,335,BS33510,1
+3352,Household appliance manufacturing,335,BS33520,1
+3353,Electrical equipment manufacturing,335,BS33530,1
+3359,Other electrical equipment and component manufacturing,335,BS33590,1
+335A,Electrical equipment and component manufacturing,335,BS335A0,1
+3361,Motor vehicle manufacturing,336,BS33610,1
+33611,Automobile and light-duty motor vehicle manufacturing,336,BS33611,1
+33612,Heavy-duty truck manufacturing,336,BS33612,1
+3362,Motor vehicle body and trailer manufacturing,336,BS33620,1
+3363,Motor vehicle parts manufacturing,336,BS33630,1
+33631,Motor vehicle gasoline engine and engine parts manufacturing,336,BS33631,1
+33632,Motor vehicle electrical and electronic equipment manufacturing,336,BS33632,1
+33633,Motor vehicle steering and suspension components (except spring) manufacturing,336,BS33633,1
+33634,Motor vehicle brake system manufacturing,336,BS33634,1
+33635,Motor vehicle transmission and power train parts manufacturing,336,BS33635,1
+33636,Motor vehicle seating and interior trim manufacturing,336,BS33636,1
+33637,Motor vehicle metal stamping,336,BS33637,1
+33639,Other motor vehicle parts manufacturing,336,BS33639,1
+3364,Aerospace product and parts manufacturing,336,BS33640,1
+3365,Railroad rolling stock manufacturing,336,BS33650,1
+3366,Ship and boat building,336,BS33660,1
+3369,Other transportation equipment manufacturing,336,BS33690,1
+337,Furniture and related product manufacturing,337,BS33700,1
+3371,Household and institutional furniture and kitchen cabinet manufacturing,337,BS33710,1
+3372,Office furniture (including fixtures) manufacturing,337,BS33720,1
+3379,Other furniture-related product manufacturing,337,BS33790,1
+339,Miscellaneous manufacturingTable note1,339,BS33900,1
+3391,Medical equipment and supplies manufacturing,339,BS33910,1
+3399,Other miscellaneous manufacturingTable note1,339,BS33990,1
