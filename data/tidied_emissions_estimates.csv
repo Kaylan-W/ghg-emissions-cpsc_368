@@ -409,26 +409,26 @@
 "Canada","Clothing and leather and allied product manufacturing  ","BS31B00","2019",60
 "Canada","Clothing and leather and allied product manufacturing  ","BS31B00","2020",46
 "Canada","Clothing and leather and allied product manufacturing  ","BS31B00","2021",49
-"Canada","Wood product manufacturing  ","BS32100] 1","2012",9255
-"Canada","Wood product manufacturing  ","BS32100] 1","2013",10581
-"Canada","Wood product manufacturing  ","BS32100] 1","2014",10887
-"Canada","Wood product manufacturing  ","BS32100] 1","2015",10112
-"Canada","Wood product manufacturing  ","BS32100] 1","2016",8912
-"Canada","Wood product manufacturing  ","BS32100] 1","2017",11225
-"Canada","Wood product manufacturing  ","BS32100] 1","2018",10746
-"Canada","Wood product manufacturing  ","BS32100] 1","2019",10492
-"Canada","Wood product manufacturing  ","BS32100] 1","2020",9869
-"Canada","Wood product manufacturing  ","BS32100] 1","2021",10581
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2012",39153
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2013",41143
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2014",42554
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2015",42310
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2016",39261
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2017",38411
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2018",40892
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2019",40038
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2020",35908
-"Canada","Pulp, paper and paperboard mills  ","BS32210] 1","2021",36831
+"Canada","Wood product manufacturing  ","BS32100","2012",9255
+"Canada","Wood product manufacturing  ","BS32100","2013",10581
+"Canada","Wood product manufacturing  ","BS32100","2014",10887
+"Canada","Wood product manufacturing  ","BS32100","2015",10112
+"Canada","Wood product manufacturing  ","BS32100","2016",8912
+"Canada","Wood product manufacturing  ","BS32100","2017",11225
+"Canada","Wood product manufacturing  ","BS32100","2018",10746
+"Canada","Wood product manufacturing  ","BS32100","2019",10492
+"Canada","Wood product manufacturing  ","BS32100","2020",9869
+"Canada","Wood product manufacturing  ","BS32100","2021",10581
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2012",39153
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2013",41143
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2014",42554
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2015",42310
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2016",39261
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2017",38411
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2018",40892
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2019",40038
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2020",35908
+"Canada","Pulp, paper and paperboard mills  ","BS32210","2021",36831
 "Canada","Converted paper product manufacturing  ","BS32220","2012",495
 "Canada","Converted paper product manufacturing  ","BS32220","2013",605
 "Canada","Converted paper product manufacturing  ","BS32220","2014",613
@@ -489,16 +489,16 @@
 "Canada","Pharmaceutical and medicine manufacturing  ","BS32540","2019",274
 "Canada","Pharmaceutical and medicine manufacturing  ","BS32540","2020",271
 "Canada","Pharmaceutical and medicine manufacturing  ","BS32540","2021",264
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",2120
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",2212
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",3028
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",3015
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",2795
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",2168
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",1709
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",1112
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",1425
-"Canada","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",1483
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2012",2120
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2013",2212
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2014",3028
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2015",3015
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2016",2795
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2017",2168
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2018",1709
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2019",1112
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2020",1425
+"Canada","Miscellaneous chemical product manufacturing  ","BS325C0","2021",1483
 "Canada","Plastic product manufacturing  ","BS32610","2012",630
 "Canada","Plastic product manufacturing  ","BS32610","2013",830
 "Canada","Plastic product manufacturing  ","BS32610","2014",723
@@ -829,26 +829,26 @@
 "Newfoundland and Labrador","Clothing and leather and allied product manufacturing  ","BS31B00","2019",1
 "Newfoundland and Labrador","Clothing and leather and allied product manufacturing  ","BS31B00","2020",1
 "Newfoundland and Labrador","Clothing and leather and allied product manufacturing  ","BS31B00","2021",0
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2012",11
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2013",12
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2014",12
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2015",14
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2016",15
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2017",16
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2018",15
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2019",16
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2020",16
-"Newfoundland and Labrador","Wood product manufacturing  ","BS32100] 1","2021",16
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2012",81
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2013",109
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2014",84
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2015",81
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2016",159
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2017",205
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2018",147
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2019",18
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2020",134
-"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210] 1","2021",130
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2012",11
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2013",12
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2014",12
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2015",14
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2016",15
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2017",16
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2018",15
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2019",16
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2020",16
+"Newfoundland and Labrador","Wood product manufacturing  ","BS32100","2021",16
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2012",81
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2013",109
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2014",84
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2015",81
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2016",159
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2017",205
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2018",147
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2019",18
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2020",134
+"Newfoundland and Labrador","Pulp, paper and paperboard mills  ","BS32210","2021",130
 "Newfoundland and Labrador","Converted paper product manufacturing  ","BS32220","2012",0
 "Newfoundland and Labrador","Converted paper product manufacturing  ","BS32220","2013",0
 "Newfoundland and Labrador","Converted paper product manufacturing  ","BS32220","2014",0
@@ -909,16 +909,16 @@
 "Newfoundland and Labrador","Pharmaceutical and medicine manufacturing  ","BS32540","2019",0
 "Newfoundland and Labrador","Pharmaceutical and medicine manufacturing  ","BS32540","2020",0
 "Newfoundland and Labrador","Pharmaceutical and medicine manufacturing  ","BS32540","2021",0
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",1
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",1
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",1
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",1
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",5
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",4
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",3
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",11
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",7
-"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",6
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2012",1
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2013",1
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2014",1
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2015",1
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2016",5
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2017",4
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2018",3
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2019",11
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2020",7
+"Newfoundland and Labrador","Miscellaneous chemical product manufacturing  ","BS325C0","2021",6
 "Newfoundland and Labrador","Plastic product manufacturing  ","BS32610","2012",1
 "Newfoundland and Labrador","Plastic product manufacturing  ","BS32610","2013",1
 "Newfoundland and Labrador","Plastic product manufacturing  ","BS32610","2014",7
@@ -1249,26 +1249,26 @@
 "Prince Edward Island","Clothing and leather and allied product manufacturing  ","BS31B00","2019",1
 "Prince Edward Island","Clothing and leather and allied product manufacturing  ","BS31B00","2020",0
 "Prince Edward Island","Clothing and leather and allied product manufacturing  ","BS31B00","2021",1
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2012",1
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2013",1
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2014",34
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2015",2
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2016",2
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2017",1
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2018",2
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2019",1
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2020",1
-"Prince Edward Island","Wood product manufacturing  ","BS32100] 1","2021",1
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2012",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2013",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2014",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2015",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2016",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2017",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2018",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2019",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2020",0
-"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210] 1","2021",0
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2012",1
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2013",1
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2014",34
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2015",2
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2016",2
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2017",1
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2018",2
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2019",1
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2020",1
+"Prince Edward Island","Wood product manufacturing  ","BS32100","2021",1
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2012",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2013",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2014",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2015",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2016",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2017",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2018",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2019",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2020",0
+"Prince Edward Island","Pulp, paper and paperboard mills  ","BS32210","2021",0
 "Prince Edward Island","Converted paper product manufacturing  ","BS32220","2012",1
 "Prince Edward Island","Converted paper product manufacturing  ","BS32220","2013",1
 "Prince Edward Island","Converted paper product manufacturing  ","BS32220","2014",1
@@ -1329,16 +1329,16 @@
 "Prince Edward Island","Pharmaceutical and medicine manufacturing  ","BS32540","2019",2
 "Prince Edward Island","Pharmaceutical and medicine manufacturing  ","BS32540","2020",1
 "Prince Edward Island","Pharmaceutical and medicine manufacturing  ","BS32540","2021",1
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",0
-"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2012",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2013",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2014",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2015",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2016",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2017",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2018",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2019",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2020",0
+"Prince Edward Island","Miscellaneous chemical product manufacturing  ","BS325C0","2021",0
 "Prince Edward Island","Plastic product manufacturing  ","BS32610","2012",0
 "Prince Edward Island","Plastic product manufacturing  ","BS32610","2013",0
 "Prince Edward Island","Plastic product manufacturing  ","BS32610","2014",0
@@ -1669,26 +1669,26 @@
 "Nova Scotia","Clothing and leather and allied product manufacturing  ","BS31B00","2019",3
 "Nova Scotia","Clothing and leather and allied product manufacturing  ","BS31B00","2020",1
 "Nova Scotia","Clothing and leather and allied product manufacturing  ","BS31B00","2021",1
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2012",142
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2013",128
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2014",167
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2015",161
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2016",176
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2017",187
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2018",146
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2019",144
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2020",128
-"Nova Scotia","Wood product manufacturing  ","BS32100] 1","2021",142
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2012",1125
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2013",714
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2014",1094
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2015",935
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2016",927
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2017",929
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2018",918
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2019",819
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2020",1
-"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210] 1","2021",1
+"Nova Scotia","Wood product manufacturing  ","BS32100","2012",142
+"Nova Scotia","Wood product manufacturing  ","BS32100","2013",128
+"Nova Scotia","Wood product manufacturing  ","BS32100","2014",167
+"Nova Scotia","Wood product manufacturing  ","BS32100","2015",161
+"Nova Scotia","Wood product manufacturing  ","BS32100","2016",176
+"Nova Scotia","Wood product manufacturing  ","BS32100","2017",187
+"Nova Scotia","Wood product manufacturing  ","BS32100","2018",146
+"Nova Scotia","Wood product manufacturing  ","BS32100","2019",144
+"Nova Scotia","Wood product manufacturing  ","BS32100","2020",128
+"Nova Scotia","Wood product manufacturing  ","BS32100","2021",142
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2012",1125
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2013",714
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2014",1094
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2015",935
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2016",927
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2017",929
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2018",918
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2019",819
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2020",1
+"Nova Scotia","Pulp, paper and paperboard mills  ","BS32210","2021",1
 "Nova Scotia","Converted paper product manufacturing  ","BS32220","2012",13
 "Nova Scotia","Converted paper product manufacturing  ","BS32220","2013",13
 "Nova Scotia","Converted paper product manufacturing  ","BS32220","2014",13
@@ -1749,16 +1749,16 @@
 "Nova Scotia","Pharmaceutical and medicine manufacturing  ","BS32540","2019",3
 "Nova Scotia","Pharmaceutical and medicine manufacturing  ","BS32540","2020",4
 "Nova Scotia","Pharmaceutical and medicine manufacturing  ","BS32540","2021",5
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",5
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",3
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",2
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",2
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",1
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",1
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",2
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",2
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",2
-"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",1
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2012",5
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2013",3
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2014",2
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2015",2
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2016",1
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2017",1
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2018",2
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2019",2
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2020",2
+"Nova Scotia","Miscellaneous chemical product manufacturing  ","BS325C0","2021",1
 "Nova Scotia","Plastic product manufacturing  ","BS32610","2012",6
 "Nova Scotia","Plastic product manufacturing  ","BS32610","2013",9
 "Nova Scotia","Plastic product manufacturing  ","BS32610","2014",6
@@ -2089,26 +2089,26 @@
 "New Brunswick","Clothing and leather and allied product manufacturing  ","BS31B00","2019",0
 "New Brunswick","Clothing and leather and allied product manufacturing  ","BS31B00","2020",0
 "New Brunswick","Clothing and leather and allied product manufacturing  ","BS31B00","2021",0
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2012",305
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2013",289
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2014",206
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2015",282
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2016",326
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2017",584
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2018",773
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2019",642
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2020",662
-"New Brunswick","Wood product manufacturing  ","BS32100] 1","2021",454
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2012",2828
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2013",2827
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2014",2364
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2015",2636
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2016",3406
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2017",3487
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2018",3623
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2019",3353
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2020",3365
-"New Brunswick","Pulp, paper and paperboard mills  ","BS32210] 1","2021",3518
+"New Brunswick","Wood product manufacturing  ","BS32100","2012",305
+"New Brunswick","Wood product manufacturing  ","BS32100","2013",289
+"New Brunswick","Wood product manufacturing  ","BS32100","2014",206
+"New Brunswick","Wood product manufacturing  ","BS32100","2015",282
+"New Brunswick","Wood product manufacturing  ","BS32100","2016",326
+"New Brunswick","Wood product manufacturing  ","BS32100","2017",584
+"New Brunswick","Wood product manufacturing  ","BS32100","2018",773
+"New Brunswick","Wood product manufacturing  ","BS32100","2019",642
+"New Brunswick","Wood product manufacturing  ","BS32100","2020",662
+"New Brunswick","Wood product manufacturing  ","BS32100","2021",454
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2012",2828
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2013",2827
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2014",2364
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2015",2636
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2016",3406
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2017",3487
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2018",3623
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2019",3353
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2020",3365
+"New Brunswick","Pulp, paper and paperboard mills  ","BS32210","2021",3518
 "New Brunswick","Converted paper product manufacturing  ","BS32220","2012",6
 "New Brunswick","Converted paper product manufacturing  ","BS32220","2013",5
 "New Brunswick","Converted paper product manufacturing  ","BS32220","2014",3
@@ -2169,16 +2169,16 @@
 "New Brunswick","Pharmaceutical and medicine manufacturing  ","BS32540","2019",0
 "New Brunswick","Pharmaceutical and medicine manufacturing  ","BS32540","2020",0
 "New Brunswick","Pharmaceutical and medicine manufacturing  ","BS32540","2021",0
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",2
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",0
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",1
-"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",0
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2012",2
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2013",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2014",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2015",0
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2016",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2017",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2018",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2019",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2020",1
+"New Brunswick","Miscellaneous chemical product manufacturing  ","BS325C0","2021",0
 "New Brunswick","Plastic product manufacturing  ","BS32610","2012",9
 "New Brunswick","Plastic product manufacturing  ","BS32610","2013",8
 "New Brunswick","Plastic product manufacturing  ","BS32610","2014",16
@@ -2509,26 +2509,26 @@
 "Quebec","Clothing and leather and allied product manufacturing  ","BS31B00","2019",17
 "Quebec","Clothing and leather and allied product manufacturing  ","BS31B00","2020",13
 "Quebec","Clothing and leather and allied product manufacturing  ","BS31B00","2021",14
-"Quebec","Wood product manufacturing  ","BS32100] 1","2012",2191
-"Quebec","Wood product manufacturing  ","BS32100] 1","2013",1680
-"Quebec","Wood product manufacturing  ","BS32100] 1","2014",1502
-"Quebec","Wood product manufacturing  ","BS32100] 1","2015",2797
-"Quebec","Wood product manufacturing  ","BS32100] 1","2016",2435
-"Quebec","Wood product manufacturing  ","BS32100] 1","2017",2053
-"Quebec","Wood product manufacturing  ","BS32100] 1","2018",2035
-"Quebec","Wood product manufacturing  ","BS32100] 1","2019",2290
-"Quebec","Wood product manufacturing  ","BS32100] 1","2020",1903
-"Quebec","Wood product manufacturing  ","BS32100] 1","2021",2216
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2012",6406
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2013",6805
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2014",6982
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2015",7286
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2016",7513
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2017",7306
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2018",7629
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2019",7452
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2020",6460
-"Quebec","Pulp, paper and paperboard mills  ","BS32210] 1","2021",6057
+"Quebec","Wood product manufacturing  ","BS32100","2012",2191
+"Quebec","Wood product manufacturing  ","BS32100","2013",1680
+"Quebec","Wood product manufacturing  ","BS32100","2014",1502
+"Quebec","Wood product manufacturing  ","BS32100","2015",2797
+"Quebec","Wood product manufacturing  ","BS32100","2016",2435
+"Quebec","Wood product manufacturing  ","BS32100","2017",2053
+"Quebec","Wood product manufacturing  ","BS32100","2018",2035
+"Quebec","Wood product manufacturing  ","BS32100","2019",2290
+"Quebec","Wood product manufacturing  ","BS32100","2020",1903
+"Quebec","Wood product manufacturing  ","BS32100","2021",2216
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2012",6406
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2013",6805
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2014",6982
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2015",7286
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2016",7513
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2017",7306
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2018",7629
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2019",7452
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2020",6460
+"Quebec","Pulp, paper and paperboard mills  ","BS32210","2021",6057
 "Quebec","Converted paper product manufacturing  ","BS32220","2012",245
 "Quebec","Converted paper product manufacturing  ","BS32220","2013",221
 "Quebec","Converted paper product manufacturing  ","BS32220","2014",181
@@ -2589,16 +2589,16 @@
 "Quebec","Pharmaceutical and medicine manufacturing  ","BS32540","2019",64
 "Quebec","Pharmaceutical and medicine manufacturing  ","BS32540","2020",53
 "Quebec","Pharmaceutical and medicine manufacturing  ","BS32540","2021",48
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",77
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",93
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",94
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",120
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",121
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",143
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",182
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",160
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",134
-"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",132
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2012",77
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2013",93
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2014",94
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2015",120
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2016",121
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2017",143
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2018",182
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2019",160
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2020",134
+"Quebec","Miscellaneous chemical product manufacturing  ","BS325C0","2021",132
 "Quebec","Plastic product manufacturing  ","BS32610","2012",170
 "Quebec","Plastic product manufacturing  ","BS32610","2013",279
 "Quebec","Plastic product manufacturing  ","BS32610","2014",154
@@ -2929,26 +2929,26 @@
 "Ontario","Clothing and leather and allied product manufacturing  ","BS31B00","2019",21
 "Ontario","Clothing and leather and allied product manufacturing  ","BS31B00","2020",17
 "Ontario","Clothing and leather and allied product manufacturing  ","BS31B00","2021",17
-"Ontario","Wood product manufacturing  ","BS32100] 1","2012",1617
-"Ontario","Wood product manufacturing  ","BS32100] 1","2013",1675
-"Ontario","Wood product manufacturing  ","BS32100] 1","2014",2871
-"Ontario","Wood product manufacturing  ","BS32100] 1","2015",1835
-"Ontario","Wood product manufacturing  ","BS32100] 1","2016",941
-"Ontario","Wood product manufacturing  ","BS32100] 1","2017",1934
-"Ontario","Wood product manufacturing  ","BS32100] 1","2018",1777
-"Ontario","Wood product manufacturing  ","BS32100] 1","2019",1682
-"Ontario","Wood product manufacturing  ","BS32100] 1","2020",1594
-"Ontario","Wood product manufacturing  ","BS32100] 1","2021",1533
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2012",3790
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2013",6068
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2014",5425
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2015",5658
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2016",5073
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2017",5212
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2018",4873
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2019",4551
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2020",4500
-"Ontario","Pulp, paper and paperboard mills  ","BS32210] 1","2021",4562
+"Ontario","Wood product manufacturing  ","BS32100","2012",1617
+"Ontario","Wood product manufacturing  ","BS32100","2013",1675
+"Ontario","Wood product manufacturing  ","BS32100","2014",2871
+"Ontario","Wood product manufacturing  ","BS32100","2015",1835
+"Ontario","Wood product manufacturing  ","BS32100","2016",941
+"Ontario","Wood product manufacturing  ","BS32100","2017",1934
+"Ontario","Wood product manufacturing  ","BS32100","2018",1777
+"Ontario","Wood product manufacturing  ","BS32100","2019",1682
+"Ontario","Wood product manufacturing  ","BS32100","2020",1594
+"Ontario","Wood product manufacturing  ","BS32100","2021",1533
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2012",3790
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2013",6068
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2014",5425
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2015",5658
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2016",5073
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2017",5212
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2018",4873
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2019",4551
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2020",4500
+"Ontario","Pulp, paper and paperboard mills  ","BS32210","2021",4562
 "Ontario","Converted paper product manufacturing  ","BS32220","2012",193
 "Ontario","Converted paper product manufacturing  ","BS32220","2013",277
 "Ontario","Converted paper product manufacturing  ","BS32220","2014",341
@@ -3009,16 +3009,16 @@
 "Ontario","Pharmaceutical and medicine manufacturing  ","BS32540","2019",177
 "Ontario","Pharmaceutical and medicine manufacturing  ","BS32540","2020",184
 "Ontario","Pharmaceutical and medicine manufacturing  ","BS32540","2021",185
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",661
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",575
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",543
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",661
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",591
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",666
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",705
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",664
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",605
-"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",712
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2012",661
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2013",575
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2014",543
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2015",661
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2016",591
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2017",666
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2018",705
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2019",664
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2020",605
+"Ontario","Miscellaneous chemical product manufacturing  ","BS325C0","2021",712
 "Ontario","Plastic product manufacturing  ","BS32610","2012",309
 "Ontario","Plastic product manufacturing  ","BS32610","2013",342
 "Ontario","Plastic product manufacturing  ","BS32610","2014",378
@@ -3349,26 +3349,26 @@
 "Manitoba","Clothing and leather and allied product manufacturing  ","BS31B00","2019",6
 "Manitoba","Clothing and leather and allied product manufacturing  ","BS31B00","2020",3
 "Manitoba","Clothing and leather and allied product manufacturing  ","BS31B00","2021",3
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2012",184
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2013",174
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2014",293
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2015",205
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2016",261
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2017",150
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2018",181
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2019",177
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2020",188
-"Manitoba","Wood product manufacturing  ","BS32100] 1","2021",228
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2012",489
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2013",523
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2014",626
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2015",486
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2016",510
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2017",483
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2018",506
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2019",560
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2020",487
-"Manitoba","Pulp, paper and paperboard mills  ","BS32210] 1","2021",505
+"Manitoba","Wood product manufacturing  ","BS32100","2012",184
+"Manitoba","Wood product manufacturing  ","BS32100","2013",174
+"Manitoba","Wood product manufacturing  ","BS32100","2014",293
+"Manitoba","Wood product manufacturing  ","BS32100","2015",205
+"Manitoba","Wood product manufacturing  ","BS32100","2016",261
+"Manitoba","Wood product manufacturing  ","BS32100","2017",150
+"Manitoba","Wood product manufacturing  ","BS32100","2018",181
+"Manitoba","Wood product manufacturing  ","BS32100","2019",177
+"Manitoba","Wood product manufacturing  ","BS32100","2020",188
+"Manitoba","Wood product manufacturing  ","BS32100","2021",228
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2012",489
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2013",523
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2014",626
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2015",486
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2016",510
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2017",483
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2018",506
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2019",560
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2020",487
+"Manitoba","Pulp, paper and paperboard mills  ","BS32210","2021",505
 "Manitoba","Converted paper product manufacturing  ","BS32220","2012",9
 "Manitoba","Converted paper product manufacturing  ","BS32220","2013",14
 "Manitoba","Converted paper product manufacturing  ","BS32220","2014",21
@@ -3429,16 +3429,16 @@
 "Manitoba","Pharmaceutical and medicine manufacturing  ","BS32540","2019",15
 "Manitoba","Pharmaceutical and medicine manufacturing  ","BS32540","2020",14
 "Manitoba","Pharmaceutical and medicine manufacturing  ","BS32540","2021",13
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",6
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",10
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",8
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",5
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",7
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",7
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",7
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",8
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",7
-"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",5
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2012",6
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2013",10
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2014",8
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2015",5
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2016",7
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2017",7
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2018",7
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2019",8
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2020",7
+"Manitoba","Miscellaneous chemical product manufacturing  ","BS325C0","2021",5
 "Manitoba","Plastic product manufacturing  ","BS32610","2012",54
 "Manitoba","Plastic product manufacturing  ","BS32610","2013",46
 "Manitoba","Plastic product manufacturing  ","BS32610","2014",25
@@ -3769,26 +3769,26 @@
 "Saskatchewan","Clothing and leather and allied product manufacturing  ","BS31B00","2019",0
 "Saskatchewan","Clothing and leather and allied product manufacturing  ","BS31B00","2020",0
 "Saskatchewan","Clothing and leather and allied product manufacturing  ","BS31B00","2021",0
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2012",196
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2013",951
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2014",492
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2015",396
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2016",392
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2017",619
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2018",335
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2019",311
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2020",367
-"Saskatchewan","Wood product manufacturing  ","BS32100] 1","2021",312
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2012",651
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2013",126
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2014",122
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2015",57
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2016",68
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2017",74
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2018",75
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2019",70
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2020",67
-"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210] 1","2021",76
+"Saskatchewan","Wood product manufacturing  ","BS32100","2012",196
+"Saskatchewan","Wood product manufacturing  ","BS32100","2013",951
+"Saskatchewan","Wood product manufacturing  ","BS32100","2014",492
+"Saskatchewan","Wood product manufacturing  ","BS32100","2015",396
+"Saskatchewan","Wood product manufacturing  ","BS32100","2016",392
+"Saskatchewan","Wood product manufacturing  ","BS32100","2017",619
+"Saskatchewan","Wood product manufacturing  ","BS32100","2018",335
+"Saskatchewan","Wood product manufacturing  ","BS32100","2019",311
+"Saskatchewan","Wood product manufacturing  ","BS32100","2020",367
+"Saskatchewan","Wood product manufacturing  ","BS32100","2021",312
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2012",651
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2013",126
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2014",122
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2015",57
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2016",68
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2017",74
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2018",75
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2019",70
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2020",67
+"Saskatchewan","Pulp, paper and paperboard mills  ","BS32210","2021",76
 "Saskatchewan","Converted paper product manufacturing  ","BS32220","2012",5
 "Saskatchewan","Converted paper product manufacturing  ","BS32220","2013",8
 "Saskatchewan","Converted paper product manufacturing  ","BS32220","2014",5
@@ -3849,16 +3849,16 @@
 "Saskatchewan","Pharmaceutical and medicine manufacturing  ","BS32540","2019",0
 "Saskatchewan","Pharmaceutical and medicine manufacturing  ","BS32540","2020",0
 "Saskatchewan","Pharmaceutical and medicine manufacturing  ","BS32540","2021",0
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",10
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",21
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",10
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",22
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",21
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",24
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",44
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",37
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",34
-"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",31
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2012",10
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2013",21
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2014",10
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2015",22
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2016",21
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2017",24
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2018",44
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2019",37
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2020",34
+"Saskatchewan","Miscellaneous chemical product manufacturing  ","BS325C0","2021",31
 "Saskatchewan","Plastic product manufacturing  ","BS32610","2012",6
 "Saskatchewan","Plastic product manufacturing  ","BS32610","2013",7
 "Saskatchewan","Plastic product manufacturing  ","BS32610","2014",7
@@ -4189,26 +4189,26 @@
 "Alberta","Clothing and leather and allied product manufacturing  ","BS31B00","2019",6
 "Alberta","Clothing and leather and allied product manufacturing  ","BS31B00","2020",5
 "Alberta","Clothing and leather and allied product manufacturing  ","BS31B00","2021",5
-"Alberta","Wood product manufacturing  ","BS32100] 1","2012",1172
-"Alberta","Wood product manufacturing  ","BS32100] 1","2013",1689
-"Alberta","Wood product manufacturing  ","BS32100] 1","2014",1797
-"Alberta","Wood product manufacturing  ","BS32100] 1","2015",1024
-"Alberta","Wood product manufacturing  ","BS32100] 1","2016",1248
-"Alberta","Wood product manufacturing  ","BS32100] 1","2017",2402
-"Alberta","Wood product manufacturing  ","BS32100] 1","2018",2030
-"Alberta","Wood product manufacturing  ","BS32100] 1","2019",2066
-"Alberta","Wood product manufacturing  ","BS32100] 1","2020",2266
-"Alberta","Wood product manufacturing  ","BS32100] 1","2021",2948
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2012",6819
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2013",7834
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2014",7848
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2015",6818
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2016",4483
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2017",4151
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2018",6583
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2019",6491
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2020",6299
-"Alberta","Pulp, paper and paperboard mills  ","BS32210] 1","2021",6148
+"Alberta","Wood product manufacturing  ","BS32100","2012",1172
+"Alberta","Wood product manufacturing  ","BS32100","2013",1689
+"Alberta","Wood product manufacturing  ","BS32100","2014",1797
+"Alberta","Wood product manufacturing  ","BS32100","2015",1024
+"Alberta","Wood product manufacturing  ","BS32100","2016",1248
+"Alberta","Wood product manufacturing  ","BS32100","2017",2402
+"Alberta","Wood product manufacturing  ","BS32100","2018",2030
+"Alberta","Wood product manufacturing  ","BS32100","2019",2066
+"Alberta","Wood product manufacturing  ","BS32100","2020",2266
+"Alberta","Wood product manufacturing  ","BS32100","2021",2948
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2012",6819
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2013",7834
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2014",7848
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2015",6818
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2016",4483
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2017",4151
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2018",6583
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2019",6491
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2020",6299
+"Alberta","Pulp, paper and paperboard mills  ","BS32210","2021",6148
 "Alberta","Converted paper product manufacturing  ","BS32220","2012",9
 "Alberta","Converted paper product manufacturing  ","BS32220","2013",20
 "Alberta","Converted paper product manufacturing  ","BS32220","2014",22
@@ -4269,16 +4269,16 @@
 "Alberta","Pharmaceutical and medicine manufacturing  ","BS32540","2019",7
 "Alberta","Pharmaceutical and medicine manufacturing  ","BS32540","2020",8
 "Alberta","Pharmaceutical and medicine manufacturing  ","BS32540","2021",8
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",1329
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",1474
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",2342
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",2168
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",1987
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",1257
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",711
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",155
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",573
-"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",532
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2012",1329
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2013",1474
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2014",2342
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2015",2168
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2016",1987
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2017",1257
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2018",711
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2019",155
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2020",573
+"Alberta","Miscellaneous chemical product manufacturing  ","BS325C0","2021",532
 "Alberta","Plastic product manufacturing  ","BS32610","2012",46
 "Alberta","Plastic product manufacturing  ","BS32610","2013",82
 "Alberta","Plastic product manufacturing  ","BS32610","2014",83
@@ -4609,26 +4609,26 @@
 "British Columbia","Clothing and leather and allied product manufacturing  ","BS31B00","2019",5
 "British Columbia","Clothing and leather and allied product manufacturing  ","BS31B00","2020",6
 "British Columbia","Clothing and leather and allied product manufacturing  ","BS31B00","2021",6
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2012",3436
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2013",3981
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2014",3511
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2015",3395
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2016",3115
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2017",3278
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2018",3451
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2019",3162
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2020",2743
-"British Columbia","Wood product manufacturing  ","BS32100] 1","2021",2730
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2012",16964
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2013",16137
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2014",18009
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2015",18354
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2016",17120
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2017",16564
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2018",16537
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2019",16723
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2020",14596
-"British Columbia","Pulp, paper and paperboard mills  ","BS32210] 1","2021",15834
+"British Columbia","Wood product manufacturing  ","BS32100","2012",3436
+"British Columbia","Wood product manufacturing  ","BS32100","2013",3981
+"British Columbia","Wood product manufacturing  ","BS32100","2014",3511
+"British Columbia","Wood product manufacturing  ","BS32100","2015",3395
+"British Columbia","Wood product manufacturing  ","BS32100","2016",3115
+"British Columbia","Wood product manufacturing  ","BS32100","2017",3278
+"British Columbia","Wood product manufacturing  ","BS32100","2018",3451
+"British Columbia","Wood product manufacturing  ","BS32100","2019",3162
+"British Columbia","Wood product manufacturing  ","BS32100","2020",2743
+"British Columbia","Wood product manufacturing  ","BS32100","2021",2730
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2012",16964
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2013",16137
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2014",18009
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2015",18354
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2016",17120
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2017",16564
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2018",16537
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2019",16723
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2020",14596
+"British Columbia","Pulp, paper and paperboard mills  ","BS32210","2021",15834
 "British Columbia","Converted paper product manufacturing  ","BS32220","2012",13
 "British Columbia","Converted paper product manufacturing  ","BS32220","2013",47
 "British Columbia","Converted paper product manufacturing  ","BS32220","2014",26
@@ -4689,16 +4689,16 @@
 "British Columbia","Pharmaceutical and medicine manufacturing  ","BS32540","2019",5
 "British Columbia","Pharmaceutical and medicine manufacturing  ","BS32540","2020",5
 "British Columbia","Pharmaceutical and medicine manufacturing  ","BS32540","2021",4
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",24
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",29
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",25
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",28
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",45
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",41
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",36
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",41
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",39
-"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",38
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2012",24
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2013",29
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2014",25
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2015",28
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2016",45
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2017",41
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2018",36
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2019",41
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2020",39
+"British Columbia","Miscellaneous chemical product manufacturing  ","BS325C0","2021",38
 "British Columbia","Plastic product manufacturing  ","BS32610","2012",31
 "British Columbia","Plastic product manufacturing  ","BS32610","2013",56
 "British Columbia","Plastic product manufacturing  ","BS32610","2014",47
@@ -5029,26 +5029,26 @@
 "Yukon","Clothing and leather and allied product manufacturing  ","BS31B00","2019",0
 "Yukon","Clothing and leather and allied product manufacturing  ","BS31B00","2020",0
 "Yukon","Clothing and leather and allied product manufacturing  ","BS31B00","2021",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2012",1
-"Yukon","Wood product manufacturing  ","BS32100] 1","2013",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2014",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2015",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2016",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2017",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2018",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2019",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2020",0
-"Yukon","Wood product manufacturing  ","BS32100] 1","2021",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2012",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2013",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2014",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2015",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2016",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2017",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2018",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2019",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2020",0
-"Yukon","Pulp, paper and paperboard mills  ","BS32210] 1","2021",0
+"Yukon","Wood product manufacturing  ","BS32100","2012",1
+"Yukon","Wood product manufacturing  ","BS32100","2013",0
+"Yukon","Wood product manufacturing  ","BS32100","2014",0
+"Yukon","Wood product manufacturing  ","BS32100","2015",0
+"Yukon","Wood product manufacturing  ","BS32100","2016",0
+"Yukon","Wood product manufacturing  ","BS32100","2017",0
+"Yukon","Wood product manufacturing  ","BS32100","2018",0
+"Yukon","Wood product manufacturing  ","BS32100","2019",0
+"Yukon","Wood product manufacturing  ","BS32100","2020",0
+"Yukon","Wood product manufacturing  ","BS32100","2021",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2012",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2013",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2014",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2015",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2016",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2017",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2018",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2019",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2020",0
+"Yukon","Pulp, paper and paperboard mills  ","BS32210","2021",0
 "Yukon","Converted paper product manufacturing  ","BS32220","2012",0
 "Yukon","Converted paper product manufacturing  ","BS32220","2013",0
 "Yukon","Converted paper product manufacturing  ","BS32220","2014",0
@@ -5109,16 +5109,16 @@
 "Yukon","Pharmaceutical and medicine manufacturing  ","BS32540","2019",0
 "Yukon","Pharmaceutical and medicine manufacturing  ","BS32540","2020",0
 "Yukon","Pharmaceutical and medicine manufacturing  ","BS32540","2021",0
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",0
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",0
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",0
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",1
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",1
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",1
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",1
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",1
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",1
-"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2012",0
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2013",0
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2014",0
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2015",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2016",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2017",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2018",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2019",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2020",1
+"Yukon","Miscellaneous chemical product manufacturing  ","BS325C0","2021",1
 "Yukon","Plastic product manufacturing  ","BS32610","2012",0
 "Yukon","Plastic product manufacturing  ","BS32610","2013",0
 "Yukon","Plastic product manufacturing  ","BS32610","2014",0
@@ -5449,26 +5449,26 @@
 "Northwest Territories","Clothing and leather and allied product manufacturing  ","BS31B00","2019",0
 "Northwest Territories","Clothing and leather and allied product manufacturing  ","BS31B00","2020",0
 "Northwest Territories","Clothing and leather and allied product manufacturing  ","BS31B00","2021",0
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2012",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2013",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2014",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2015",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2016",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2017",2
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2018",0
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2019",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2020",1
-"Northwest Territories","Wood product manufacturing  ","BS32100] 1","2021",1
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2012",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2013",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2014",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2015",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2016",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2017",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2018",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2019",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2020",0
-"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210] 1","2021",0
+"Northwest Territories","Wood product manufacturing  ","BS32100","2012",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2013",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2014",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2015",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2016",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2017",2
+"Northwest Territories","Wood product manufacturing  ","BS32100","2018",0
+"Northwest Territories","Wood product manufacturing  ","BS32100","2019",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2020",1
+"Northwest Territories","Wood product manufacturing  ","BS32100","2021",1
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2012",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2013",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2014",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2015",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2016",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2017",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2018",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2019",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2020",0
+"Northwest Territories","Pulp, paper and paperboard mills  ","BS32210","2021",0
 "Northwest Territories","Converted paper product manufacturing  ","BS32220","2012",0
 "Northwest Territories","Converted paper product manufacturing  ","BS32220","2013",0
 "Northwest Territories","Converted paper product manufacturing  ","BS32220","2014",0
@@ -5529,16 +5529,16 @@
 "Northwest Territories","Pharmaceutical and medicine manufacturing  ","BS32540","2019",0
 "Northwest Territories","Pharmaceutical and medicine manufacturing  ","BS32540","2020",0
 "Northwest Territories","Pharmaceutical and medicine manufacturing  ","BS32540","2021",0
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",4
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",4
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",2
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",5
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",14
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",23
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",18
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",31
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",23
-"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",24
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2012",4
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2013",4
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2014",2
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2015",5
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2016",14
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2017",23
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2018",18
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2019",31
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2020",23
+"Northwest Territories","Miscellaneous chemical product manufacturing  ","BS325C0","2021",24
 "Northwest Territories","Plastic product manufacturing  ","BS32610","2012",0
 "Northwest Territories","Plastic product manufacturing  ","BS32610","2013",0
 "Northwest Territories","Plastic product manufacturing  ","BS32610","2014",0
@@ -5869,26 +5869,26 @@
 "Nunavut","Clothing and leather and allied product manufacturing  ","BS31B00","2019",0
 "Nunavut","Clothing and leather and allied product manufacturing  ","BS31B00","2020",0
 "Nunavut","Clothing and leather and allied product manufacturing  ","BS31B00","2021",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2012",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2013",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2014",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2015",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2016",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2017",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2018",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2019",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2020",0
-"Nunavut","Wood product manufacturing  ","BS32100] 1","2021",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2012",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2013",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2014",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2015",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2016",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2017",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2018",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2019",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2020",0
-"Nunavut","Pulp, paper and paperboard mills  ","BS32210] 1","2021",0
+"Nunavut","Wood product manufacturing  ","BS32100","2012",0
+"Nunavut","Wood product manufacturing  ","BS32100","2013",0
+"Nunavut","Wood product manufacturing  ","BS32100","2014",0
+"Nunavut","Wood product manufacturing  ","BS32100","2015",0
+"Nunavut","Wood product manufacturing  ","BS32100","2016",0
+"Nunavut","Wood product manufacturing  ","BS32100","2017",0
+"Nunavut","Wood product manufacturing  ","BS32100","2018",0
+"Nunavut","Wood product manufacturing  ","BS32100","2019",0
+"Nunavut","Wood product manufacturing  ","BS32100","2020",0
+"Nunavut","Wood product manufacturing  ","BS32100","2021",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2012",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2013",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2014",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2015",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2016",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2017",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2018",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2019",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2020",0
+"Nunavut","Pulp, paper and paperboard mills  ","BS32210","2021",0
 "Nunavut","Converted paper product manufacturing  ","BS32220","2012",0
 "Nunavut","Converted paper product manufacturing  ","BS32220","2013",0
 "Nunavut","Converted paper product manufacturing  ","BS32220","2014",0
@@ -5949,16 +5949,16 @@
 "Nunavut","Pharmaceutical and medicine manufacturing  ","BS32540","2019",0
 "Nunavut","Pharmaceutical and medicine manufacturing  ","BS32540","2020",0
 "Nunavut","Pharmaceutical and medicine manufacturing  ","BS32540","2021",0
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2012",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2013",0
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2014",0
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2015",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2016",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2017",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2018",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2019",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2020",1
-"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0] 1","2021",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2012",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2013",0
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2014",0
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2015",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2016",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2017",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2018",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2019",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2020",1
+"Nunavut","Miscellaneous chemical product manufacturing  ","BS325C0","2021",1
 "Nunavut","Plastic product manufacturing  ","BS32610","2012",0
 "Nunavut","Plastic product manufacturing  ","BS32610","2013",0
 "Nunavut","Plastic product manufacturing  ","BS32610","2014",0
