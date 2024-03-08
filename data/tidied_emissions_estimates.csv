@@ -1,44 +1,44 @@
 province,industry_name,ioic_code,year,count
-Canada,Households: Motor fuels and lubricants,0,2012,77047
-Canada,Households: Motor fuels and lubricants,0,2013,80658
-Canada,Households: Motor fuels and lubricants,0,2014,78592
-Canada,Households: Motor fuels and lubricants,0,2015,78447
-Canada,Households: Motor fuels and lubricants,0,2016,79612
-Canada,Households: Motor fuels and lubricants,0,2017,81909
-Canada,Households: Motor fuels and lubricants,0,2018,83505
-Canada,Households: Motor fuels and lubricants,0,2019,85102
-Canada,Households: Motor fuels and lubricants,0,2020,66326
-Canada,Households: Motor fuels and lubricants,0,2021,68329
-Canada,Households: Electricity and other fuels,0,2012,51204
-Canada,Households: Electricity and other fuels,0,2013,54492
-Canada,Households: Electricity and other fuels,0,2014,54613
-Canada,Households: Electricity and other fuels,0,2015,53896
-Canada,Households: Electricity and other fuels,0,2016,51466
-Canada,Households: Electricity and other fuels,0,2017,52423
-Canada,Households: Electricity and other fuels,0,2018,53928
-Canada,Households: Electricity and other fuels,0,2019,51390
-Canada,Households: Electricity and other fuels,0,2020,47834
-Canada,Households: Electricity and other fuels,0,2021,45891
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2012,1742
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2013,1711
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2014,1926
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2015,1897
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2016,1809
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2017,1900
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2018,1671
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2019,1628
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2020,1422
-Newfoundland and Labrador,Households: Motor fuels and lubricants,0,2021,1439
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2012,622
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2013,542
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2014,596
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2015,512
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2016,640
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2017,829
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2018,876
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2019,832
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2020,773
-Newfoundland and Labrador,Households: Electricity and other fuels,0,2021,665
+Canada,Households: Motor fuels and lubricants,9999999,2012,77047
+Canada,Households: Motor fuels and lubricants,9999999,2013,80658
+Canada,Households: Motor fuels and lubricants,9999999,2014,78592
+Canada,Households: Motor fuels and lubricants,9999999,2015,78447
+Canada,Households: Motor fuels and lubricants,9999999,2016,79612
+Canada,Households: Motor fuels and lubricants,9999999,2017,81909
+Canada,Households: Motor fuels and lubricants,9999999,2018,83505
+Canada,Households: Motor fuels and lubricants,9999999,2019,85102
+Canada,Households: Motor fuels and lubricants,9999999,2020,66326
+Canada,Households: Motor fuels and lubricants,9999999,2021,68329
+Canada,Households: Electricity and other fuels,9999998,2012,51204
+Canada,Households: Electricity and other fuels,9999998,2013,54492
+Canada,Households: Electricity and other fuels,9999998,2014,54613
+Canada,Households: Electricity and other fuels,9999998,2015,53896
+Canada,Households: Electricity and other fuels,9999998,2016,51466
+Canada,Households: Electricity and other fuels,9999998,2017,52423
+Canada,Households: Electricity and other fuels,9999998,2018,53928
+Canada,Households: Electricity and other fuels,9999998,2019,51390
+Canada,Households: Electricity and other fuels,9999998,2020,47834
+Canada,Households: Electricity and other fuels,9999998,2021,45891
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2012,1742
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2013,1711
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2014,1926
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2015,1897
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2016,1809
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2017,1900
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2018,1671
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2019,1628
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2020,1422
+Newfoundland and Labrador,Households: Motor fuels and lubricants,9999999,2021,1439
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2012,622
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2013,542
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2014,596
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2015,512
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2016,640
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2017,829
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2018,876
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2019,832
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2020,773
+Newfoundland and Labrador,Households: Electricity and other fuels,9999998,2021,665
 Prince Edward Island,Households: Motor fuels and lubricants,9999999,2012,524
 Prince Edward Island,Households: Motor fuels and lubricants,9999999,2013,456
 Prince Edward Island,Households: Motor fuels and lubricants,9999999,2014,451
@@ -59,226 +59,226 @@ Prince Edward Island,Households: Electricity and other fuels,9999998,2018,351
 Prince Edward Island,Households: Electricity and other fuels,9999998,2019,364
 Prince Edward Island,Households: Electricity and other fuels,9999998,2020,336
 Prince Edward Island,Households: Electricity and other fuels,9999998,2021,310
-Nova Scotia,Households: Motor fuels and lubricants,0,2012,2619
-Nova Scotia,Households: Motor fuels and lubricants,0,2013,2333
-Nova Scotia,Households: Motor fuels and lubricants,0,2014,2159
-Nova Scotia,Households: Motor fuels and lubricants,0,2015,2545
-Nova Scotia,Households: Motor fuels and lubricants,0,2016,2563
-Nova Scotia,Households: Motor fuels and lubricants,0,2017,2690
-Nova Scotia,Households: Motor fuels and lubricants,0,2018,2765
-Nova Scotia,Households: Motor fuels and lubricants,0,2019,2749
-Nova Scotia,Households: Motor fuels and lubricants,0,2020,2219
-Nova Scotia,Households: Motor fuels and lubricants,0,2021,2320
-Nova Scotia,Households: Electricity and other fuels,0,2012,2506
-Nova Scotia,Households: Electricity and other fuels,0,2013,2448
-Nova Scotia,Households: Electricity and other fuels,0,2014,2286
-Nova Scotia,Households: Electricity and other fuels,0,2015,2429
-Nova Scotia,Households: Electricity and other fuels,0,2016,2085
-Nova Scotia,Households: Electricity and other fuels,0,2017,2083
-Nova Scotia,Households: Electricity and other fuels,0,2018,2153
-Nova Scotia,Households: Electricity and other fuels,0,2019,2028
-Nova Scotia,Households: Electricity and other fuels,0,2020,1895
-Nova Scotia,Households: Electricity and other fuels,0,2021,1753
-New Brunswick,Households: Motor fuels and lubricants,0,2012,2484
-New Brunswick,Households: Motor fuels and lubricants,0,2013,2087
-New Brunswick,Households: Motor fuels and lubricants,0,2014,1926
-New Brunswick,Households: Motor fuels and lubricants,0,2015,2247
-New Brunswick,Households: Motor fuels and lubricants,0,2016,2503
-New Brunswick,Households: Motor fuels and lubricants,0,2017,2297
-New Brunswick,Households: Motor fuels and lubricants,0,2018,2255
-New Brunswick,Households: Motor fuels and lubricants,0,2019,2230
-New Brunswick,Households: Motor fuels and lubricants,0,2020,1833
-New Brunswick,Households: Motor fuels and lubricants,0,2021,1787
-New Brunswick,Households: Electricity and other fuels,0,2012,2077
-New Brunswick,Households: Electricity and other fuels,0,2013,2000
-New Brunswick,Households: Electricity and other fuels,0,2014,2205
-New Brunswick,Households: Electricity and other fuels,0,2015,2501
-New Brunswick,Households: Electricity and other fuels,0,2016,1881
-New Brunswick,Households: Electricity and other fuels,0,2017,1436
-New Brunswick,Households: Electricity and other fuels,0,2018,1282
-New Brunswick,Households: Electricity and other fuels,0,2019,1017
-New Brunswick,Households: Electricity and other fuels,0,2020,922
-New Brunswick,Households: Electricity and other fuels,0,2021,826
-Quebec,Households: Motor fuels and lubricants,0,2012,17018
-Quebec,Households: Motor fuels and lubricants,0,2013,17263
-Quebec,Households: Motor fuels and lubricants,0,2014,16652
-Quebec,Households: Motor fuels and lubricants,0,2015,16608
-Quebec,Households: Motor fuels and lubricants,0,2016,16380
-Quebec,Households: Motor fuels and lubricants,0,2017,17208
-Quebec,Households: Motor fuels and lubricants,0,2018,17218
-Quebec,Households: Motor fuels and lubricants,0,2019,17701
-Quebec,Households: Motor fuels and lubricants,0,2020,13802
-Quebec,Households: Motor fuels and lubricants,0,2021,14925
-Quebec,Households: Electricity and other fuels,0,2012,9170
-Quebec,Households: Electricity and other fuels,0,2013,9740
-Quebec,Households: Electricity and other fuels,0,2014,10019
-Quebec,Households: Electricity and other fuels,0,2015,9955
-Quebec,Households: Electricity and other fuels,0,2016,9627
-Quebec,Households: Electricity and other fuels,0,2017,9004
-Quebec,Households: Electricity and other fuels,0,2018,9004
-Quebec,Households: Electricity and other fuels,0,2019,8706
-Quebec,Households: Electricity and other fuels,0,2020,7717
-Quebec,Households: Electricity and other fuels,0,2021,7409
-Ontario,Households: Motor fuels and lubricants,0,2012,27207
-Ontario,Households: Motor fuels and lubricants,0,2013,29145
-Ontario,Households: Motor fuels and lubricants,0,2014,27958
-Ontario,Households: Motor fuels and lubricants,0,2015,27807
-Ontario,Households: Motor fuels and lubricants,0,2016,28567
-Ontario,Households: Motor fuels and lubricants,0,2017,29271
-Ontario,Households: Motor fuels and lubricants,0,2018,30157
-Ontario,Households: Motor fuels and lubricants,0,2019,31298
-Ontario,Households: Motor fuels and lubricants,0,2020,22808
-Ontario,Households: Motor fuels and lubricants,0,2021,23132
-Ontario,Households: Electricity and other fuels,0,2012,19759
-Ontario,Households: Electricity and other fuels,0,2013,22461
-Ontario,Households: Electricity and other fuels,0,2014,22580
-Ontario,Households: Electricity and other fuels,0,2015,22556
-Ontario,Households: Electricity and other fuels,0,2016,20659
-Ontario,Households: Electricity and other fuels,0,2017,21198
-Ontario,Households: Electricity and other fuels,0,2018,22374
-Ontario,Households: Electricity and other fuels,0,2019,20498
-Ontario,Households: Electricity and other fuels,0,2020,18703
-Ontario,Households: Electricity and other fuels,0,2021,17927
-Manitoba,Households: Motor fuels and lubricants,0,2012,3034
-Manitoba,Households: Motor fuels and lubricants,0,2013,3089
-Manitoba,Households: Motor fuels and lubricants,0,2014,3101
-Manitoba,Households: Motor fuels and lubricants,0,2015,2890
-Manitoba,Households: Motor fuels and lubricants,0,2016,2963
-Manitoba,Households: Motor fuels and lubricants,0,2017,2896
-Manitoba,Households: Motor fuels and lubricants,0,2018,3225
-Manitoba,Households: Motor fuels and lubricants,0,2019,3246
-Manitoba,Households: Motor fuels and lubricants,0,2020,2746
-Manitoba,Households: Motor fuels and lubricants,0,2021,2861
-Manitoba,Households: Electricity and other fuels,0,2012,1191
-Manitoba,Households: Electricity and other fuels,0,2013,1400
-Manitoba,Households: Electricity and other fuels,0,2014,1405
-Manitoba,Households: Electricity and other fuels,0,2015,1189
-Manitoba,Households: Electricity and other fuels,0,2016,1242
-Manitoba,Households: Electricity and other fuels,0,2017,1332
-Manitoba,Households: Electricity and other fuels,0,2018,1474
-Manitoba,Households: Electricity and other fuels,0,2019,1488
-Manitoba,Households: Electricity and other fuels,0,2020,1404
-Manitoba,Households: Electricity and other fuels,0,2021,1315
-Saskatchewan,Households: Motor fuels and lubricants,0,2012,4188
-Saskatchewan,Households: Motor fuels and lubricants,0,2013,4553
-Saskatchewan,Households: Motor fuels and lubricants,0,2014,4170
-Saskatchewan,Households: Motor fuels and lubricants,0,2015,4300
-Saskatchewan,Households: Motor fuels and lubricants,0,2016,4315
-Saskatchewan,Households: Motor fuels and lubricants,0,2017,4402
-Saskatchewan,Households: Motor fuels and lubricants,0,2018,4357
-Saskatchewan,Households: Motor fuels and lubricants,0,2019,4368
-Saskatchewan,Households: Motor fuels and lubricants,0,2020,3706
-Saskatchewan,Households: Motor fuels and lubricants,0,2021,3774
-Saskatchewan,Households: Electricity and other fuels,0,2012,1825
-Saskatchewan,Households: Electricity and other fuels,0,2013,1962
-Saskatchewan,Households: Electricity and other fuels,0,2014,1961
-Saskatchewan,Households: Electricity and other fuels,0,2015,1795
-Saskatchewan,Households: Electricity and other fuels,0,2016,1776
-Saskatchewan,Households: Electricity and other fuels,0,2017,1946
-Saskatchewan,Households: Electricity and other fuels,0,2018,2157
-Saskatchewan,Households: Electricity and other fuels,0,2019,2251
-Saskatchewan,Households: Electricity and other fuels,0,2020,2033
-Saskatchewan,Households: Electricity and other fuels,0,2021,2009
-Alberta,Households: Motor fuels and lubricants,0,2012,9948
-Alberta,Households: Motor fuels and lubricants,0,2013,11184
-Alberta,Households: Motor fuels and lubricants,0,2014,11411
-Alberta,Households: Motor fuels and lubricants,0,2015,10480
-Alberta,Households: Motor fuels and lubricants,0,2016,10337
-Alberta,Households: Motor fuels and lubricants,0,2017,10835
-Alberta,Households: Motor fuels and lubricants,0,2018,11280
-Alberta,Households: Motor fuels and lubricants,0,2019,11484
-Alberta,Households: Motor fuels and lubricants,0,2020,8931
-Alberta,Households: Motor fuels and lubricants,0,2021,8987
-Alberta,Households: Electricity and other fuels,0,2012,8689
-Alberta,Households: Electricity and other fuels,0,2013,8732
-Alberta,Households: Electricity and other fuels,0,2014,8630
-Alberta,Households: Electricity and other fuels,0,2015,8274
-Alberta,Households: Electricity and other fuels,0,2016,8678
-Alberta,Households: Electricity and other fuels,0,2017,9097
-Alberta,Households: Electricity and other fuels,0,2018,9393
-Alberta,Households: Electricity and other fuels,0,2019,9159
-Alberta,Households: Electricity and other fuels,0,2020,8952
-Alberta,Households: Electricity and other fuels,0,2021,8465
-British Columbia,Households: Motor fuels and lubricants,0,2012,8084
-British Columbia,Households: Motor fuels and lubricants,0,2013,8641
-British Columbia,Households: Motor fuels and lubricants,0,2014,8632
-British Columbia,Households: Motor fuels and lubricants,0,2015,8997
-British Columbia,Households: Motor fuels and lubricants,0,2016,9472
-British Columbia,Households: Motor fuels and lubricants,0,2017,9684
-British Columbia,Households: Motor fuels and lubricants,0,2018,9869
-British Columbia,Households: Motor fuels and lubricants,0,2019,9670
-British Columbia,Households: Motor fuels and lubricants,0,2020,8234
-British Columbia,Households: Motor fuels and lubricants,0,2021,8462
-British Columbia,Households: Electricity and other fuels,0,2012,4767
-British Columbia,Households: Electricity and other fuels,0,2013,4670
-British Columbia,Households: Electricity and other fuels,0,2014,4434
-British Columbia,Households: Electricity and other fuels,0,2015,4238
-British Columbia,Households: Electricity and other fuels,0,2016,4452
-British Columbia,Households: Electricity and other fuels,0,2017,5045
-British Columbia,Households: Electricity and other fuels,0,2018,4768
-British Columbia,Households: Electricity and other fuels,0,2019,4952
-British Columbia,Households: Electricity and other fuels,0,2020,5011
-British Columbia,Households: Electricity and other fuels,0,2021,5130
-Yukon,Households: Motor fuels and lubricants,0,2012,112
-Yukon,Households: Motor fuels and lubricants,0,2013,107
-Yukon,Households: Motor fuels and lubricants,0,2014,108
-Yukon,Households: Motor fuels and lubricants,0,2015,116
-Yukon,Households: Motor fuels and lubricants,0,2016,116
-Yukon,Households: Motor fuels and lubricants,0,2017,127
-Yukon,Households: Motor fuels and lubricants,0,2018,141
-Yukon,Households: Motor fuels and lubricants,0,2019,153
-Yukon,Households: Motor fuels and lubricants,0,2020,126
-Yukon,Households: Motor fuels and lubricants,0,2021,113
-Yukon,Households: Electricity and other fuels,0,2012,37
-Yukon,Households: Electricity and other fuels,0,2013,41
-Yukon,Households: Electricity and other fuels,0,2014,19
-Yukon,Households: Electricity and other fuels,0,2015,13
-Yukon,Households: Electricity and other fuels,0,2016,13
-Yukon,Households: Electricity and other fuels,0,2017,12
-Yukon,Households: Electricity and other fuels,0,2018,6
-Yukon,Households: Electricity and other fuels,0,2019,7
-Yukon,Households: Electricity and other fuels,0,2020,14
-Yukon,Households: Electricity and other fuels,0,2021,12
-Northwest Territories,Households: Motor fuels and lubricants,0,2012,71
-Northwest Territories,Households: Motor fuels and lubricants,0,2013,66
-Northwest Territories,Households: Motor fuels and lubricants,0,2014,76
-Northwest Territories,Households: Motor fuels and lubricants,0,2015,81
-Northwest Territories,Households: Motor fuels and lubricants,0,2016,81
-Northwest Territories,Households: Motor fuels and lubricants,0,2017,73
-Northwest Territories,Households: Motor fuels and lubricants,0,2018,74
-Northwest Territories,Households: Motor fuels and lubricants,0,2019,78
-Northwest Territories,Households: Motor fuels and lubricants,0,2020,67
-Northwest Territories,Households: Motor fuels and lubricants,0,2021,67
-Northwest Territories,Households: Electricity and other fuels,0,2012,87
-Northwest Territories,Households: Electricity and other fuels,0,2013,86
-Northwest Territories,Households: Electricity and other fuels,0,2014,102
-Northwest Territories,Households: Electricity and other fuels,0,2015,98
-Northwest Territories,Households: Electricity and other fuels,0,2016,72
-Northwest Territories,Households: Electricity and other fuels,0,2017,61
-Northwest Territories,Households: Electricity and other fuels,0,2018,66
-Northwest Territories,Households: Electricity and other fuels,0,2019,69
-Northwest Territories,Households: Electricity and other fuels,0,2020,60
-Northwest Territories,Households: Electricity and other fuels,0,2021,57
-Nunavut,Households: Motor fuels and lubricants,0,2012,17
-Nunavut,Households: Motor fuels and lubricants,0,2013,21
-Nunavut,Households: Motor fuels and lubricants,0,2014,22
-Nunavut,Households: Motor fuels and lubricants,0,2015,24
-Nunavut,Households: Motor fuels and lubricants,0,2016,28
-Nunavut,Households: Motor fuels and lubricants,0,2017,27
-Nunavut,Households: Motor fuels and lubricants,0,2018,22
-Nunavut,Households: Motor fuels and lubricants,0,2019,22
-Nunavut,Households: Motor fuels and lubricants,0,2020,20
-Nunavut,Households: Motor fuels and lubricants,0,2021,22
-Nunavut,Households: Electricity and other fuels,0,2012,11
-Nunavut,Households: Electricity and other fuels,0,2013,12
-Nunavut,Households: Electricity and other fuels,0,2014,41
-Nunavut,Households: Electricity and other fuels,0,2015,69
-Nunavut,Households: Electricity and other fuels,0,2016,35
-Nunavut,Households: Electricity and other fuels,0,2017,29
-Nunavut,Households: Electricity and other fuels,0,2018,24
-Nunavut,Households: Electricity and other fuels,0,2019,19
-Nunavut,Households: Electricity and other fuels,0,2020,14
-Nunavut,Households: Electricity and other fuels,0,2021,13
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2012,2619
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2013,2333
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2014,2159
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2015,2545
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2016,2563
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2017,2690
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2018,2765
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2019,2749
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2020,2219
+Nova Scotia,Households: Motor fuels and lubricants,9999999,2021,2320
+Nova Scotia,Households: Electricity and other fuels,9999998,2012,2506
+Nova Scotia,Households: Electricity and other fuels,9999998,2013,2448
+Nova Scotia,Households: Electricity and other fuels,9999998,2014,2286
+Nova Scotia,Households: Electricity and other fuels,9999998,2015,2429
+Nova Scotia,Households: Electricity and other fuels,9999998,2016,2085
+Nova Scotia,Households: Electricity and other fuels,9999998,2017,2083
+Nova Scotia,Households: Electricity and other fuels,9999998,2018,2153
+Nova Scotia,Households: Electricity and other fuels,9999998,2019,2028
+Nova Scotia,Households: Electricity and other fuels,9999998,2020,1895
+Nova Scotia,Households: Electricity and other fuels,9999998,2021,1753
+New Brunswick,Households: Motor fuels and lubricants,9999999,2012,2484
+New Brunswick,Households: Motor fuels and lubricants,9999999,2013,2087
+New Brunswick,Households: Motor fuels and lubricants,9999999,2014,1926
+New Brunswick,Households: Motor fuels and lubricants,9999999,2015,2247
+New Brunswick,Households: Motor fuels and lubricants,9999999,2016,2503
+New Brunswick,Households: Motor fuels and lubricants,9999999,2017,2297
+New Brunswick,Households: Motor fuels and lubricants,9999999,2018,2255
+New Brunswick,Households: Motor fuels and lubricants,9999999,2019,2230
+New Brunswick,Households: Motor fuels and lubricants,9999999,2020,1833
+New Brunswick,Households: Motor fuels and lubricants,9999999,2021,1787
+New Brunswick,Households: Electricity and other fuels,9999998,2012,2077
+New Brunswick,Households: Electricity and other fuels,9999998,2013,2000
+New Brunswick,Households: Electricity and other fuels,9999998,2014,2205
+New Brunswick,Households: Electricity and other fuels,9999998,2015,2501
+New Brunswick,Households: Electricity and other fuels,9999998,2016,1881
+New Brunswick,Households: Electricity and other fuels,9999998,2017,1436
+New Brunswick,Households: Electricity and other fuels,9999998,2018,1282
+New Brunswick,Households: Electricity and other fuels,9999998,2019,1017
+New Brunswick,Households: Electricity and other fuels,9999998,2020,922
+New Brunswick,Households: Electricity and other fuels,9999998,2021,826
+Quebec,Households: Motor fuels and lubricants,9999999,2012,17018
+Quebec,Households: Motor fuels and lubricants,9999999,2013,17263
+Quebec,Households: Motor fuels and lubricants,9999999,2014,16652
+Quebec,Households: Motor fuels and lubricants,9999999,2015,16608
+Quebec,Households: Motor fuels and lubricants,9999999,2016,16380
+Quebec,Households: Motor fuels and lubricants,9999999,2017,17208
+Quebec,Households: Motor fuels and lubricants,9999999,2018,17218
+Quebec,Households: Motor fuels and lubricants,9999999,2019,17701
+Quebec,Households: Motor fuels and lubricants,9999999,2020,13802
+Quebec,Households: Motor fuels and lubricants,9999999,2021,14925
+Quebec,Households: Electricity and other fuels,9999998,2012,9170
+Quebec,Households: Electricity and other fuels,9999998,2013,9740
+Quebec,Households: Electricity and other fuels,9999998,2014,10019
+Quebec,Households: Electricity and other fuels,9999998,2015,9955
+Quebec,Households: Electricity and other fuels,9999998,2016,9627
+Quebec,Households: Electricity and other fuels,9999998,2017,9004
+Quebec,Households: Electricity and other fuels,9999998,2018,9004
+Quebec,Households: Electricity and other fuels,9999998,2019,8706
+Quebec,Households: Electricity and other fuels,9999998,2020,7717
+Quebec,Households: Electricity and other fuels,9999998,2021,7409
+Ontario,Households: Motor fuels and lubricants,9999999,2012,27207
+Ontario,Households: Motor fuels and lubricants,9999999,2013,29145
+Ontario,Households: Motor fuels and lubricants,9999999,2014,27958
+Ontario,Households: Motor fuels and lubricants,9999999,2015,27807
+Ontario,Households: Motor fuels and lubricants,9999999,2016,28567
+Ontario,Households: Motor fuels and lubricants,9999999,2017,29271
+Ontario,Households: Motor fuels and lubricants,9999999,2018,30157
+Ontario,Households: Motor fuels and lubricants,9999999,2019,31298
+Ontario,Households: Motor fuels and lubricants,9999999,2020,22808
+Ontario,Households: Motor fuels and lubricants,9999999,2021,23132
+Ontario,Households: Electricity and other fuels,9999998,2012,19759
+Ontario,Households: Electricity and other fuels,9999998,2013,22461
+Ontario,Households: Electricity and other fuels,9999998,2014,22580
+Ontario,Households: Electricity and other fuels,9999998,2015,22556
+Ontario,Households: Electricity and other fuels,9999998,2016,20659
+Ontario,Households: Electricity and other fuels,9999998,2017,21198
+Ontario,Households: Electricity and other fuels,9999998,2018,22374
+Ontario,Households: Electricity and other fuels,9999998,2019,20498
+Ontario,Households: Electricity and other fuels,9999998,2020,18703
+Ontario,Households: Electricity and other fuels,9999998,2021,17927
+Manitoba,Households: Motor fuels and lubricants,9999999,2012,3034
+Manitoba,Households: Motor fuels and lubricants,9999999,2013,3089
+Manitoba,Households: Motor fuels and lubricants,9999999,2014,3101
+Manitoba,Households: Motor fuels and lubricants,9999999,2015,2890
+Manitoba,Households: Motor fuels and lubricants,9999999,2016,2963
+Manitoba,Households: Motor fuels and lubricants,9999999,2017,2896
+Manitoba,Households: Motor fuels and lubricants,9999999,2018,3225
+Manitoba,Households: Motor fuels and lubricants,9999999,2019,3246
+Manitoba,Households: Motor fuels and lubricants,9999999,2020,2746
+Manitoba,Households: Motor fuels and lubricants,9999999,2021,2861
+Manitoba,Households: Electricity and other fuels,9999998,2012,1191
+Manitoba,Households: Electricity and other fuels,9999998,2013,1400
+Manitoba,Households: Electricity and other fuels,9999998,2014,1405
+Manitoba,Households: Electricity and other fuels,9999998,2015,1189
+Manitoba,Households: Electricity and other fuels,9999998,2016,1242
+Manitoba,Households: Electricity and other fuels,9999998,2017,1332
+Manitoba,Households: Electricity and other fuels,9999998,2018,1474
+Manitoba,Households: Electricity and other fuels,9999998,2019,1488
+Manitoba,Households: Electricity and other fuels,9999998,2020,1404
+Manitoba,Households: Electricity and other fuels,9999998,2021,1315
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2012,4188
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2013,4553
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2014,4170
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2015,4300
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2016,4315
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2017,4402
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2018,4357
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2019,4368
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2020,3706
+Saskatchewan,Households: Motor fuels and lubricants,9999999,2021,3774
+Saskatchewan,Households: Electricity and other fuels,9999998,2012,1825
+Saskatchewan,Households: Electricity and other fuels,9999998,2013,1962
+Saskatchewan,Households: Electricity and other fuels,9999998,2014,1961
+Saskatchewan,Households: Electricity and other fuels,9999998,2015,1795
+Saskatchewan,Households: Electricity and other fuels,9999998,2016,1776
+Saskatchewan,Households: Electricity and other fuels,9999998,2017,1946
+Saskatchewan,Households: Electricity and other fuels,9999998,2018,2157
+Saskatchewan,Households: Electricity and other fuels,9999998,2019,2251
+Saskatchewan,Households: Electricity and other fuels,9999998,2020,2033
+Saskatchewan,Households: Electricity and other fuels,9999998,2021,2009
+Alberta,Households: Motor fuels and lubricants,9999999,2012,9948
+Alberta,Households: Motor fuels and lubricants,9999999,2013,11184
+Alberta,Households: Motor fuels and lubricants,9999999,2014,11411
+Alberta,Households: Motor fuels and lubricants,9999999,2015,10480
+Alberta,Households: Motor fuels and lubricants,9999999,2016,10337
+Alberta,Households: Motor fuels and lubricants,9999999,2017,10835
+Alberta,Households: Motor fuels and lubricants,9999999,2018,11280
+Alberta,Households: Motor fuels and lubricants,9999999,2019,11484
+Alberta,Households: Motor fuels and lubricants,9999999,2020,8931
+Alberta,Households: Motor fuels and lubricants,9999999,2021,8987
+Alberta,Households: Electricity and other fuels,9999998,2012,8689
+Alberta,Households: Electricity and other fuels,9999998,2013,8732
+Alberta,Households: Electricity and other fuels,9999998,2014,8630
+Alberta,Households: Electricity and other fuels,9999998,2015,8274
+Alberta,Households: Electricity and other fuels,9999998,2016,8678
+Alberta,Households: Electricity and other fuels,9999998,2017,9097
+Alberta,Households: Electricity and other fuels,9999998,2018,9393
+Alberta,Households: Electricity and other fuels,9999998,2019,9159
+Alberta,Households: Electricity and other fuels,9999998,2020,8952
+Alberta,Households: Electricity and other fuels,9999998,2021,8465
+British Columbia,Households: Motor fuels and lubricants,9999999,2012,8084
+British Columbia,Households: Motor fuels and lubricants,9999999,2013,8641
+British Columbia,Households: Motor fuels and lubricants,9999999,2014,8632
+British Columbia,Households: Motor fuels and lubricants,9999999,2015,8997
+British Columbia,Households: Motor fuels and lubricants,9999999,2016,9472
+British Columbia,Households: Motor fuels and lubricants,9999999,2017,9684
+British Columbia,Households: Motor fuels and lubricants,9999999,2018,9869
+British Columbia,Households: Motor fuels and lubricants,9999999,2019,9670
+British Columbia,Households: Motor fuels and lubricants,9999999,2020,8234
+British Columbia,Households: Motor fuels and lubricants,9999999,2021,8462
+British Columbia,Households: Electricity and other fuels,9999998,2012,4767
+British Columbia,Households: Electricity and other fuels,9999998,2013,4670
+British Columbia,Households: Electricity and other fuels,9999998,2014,4434
+British Columbia,Households: Electricity and other fuels,9999998,2015,4238
+British Columbia,Households: Electricity and other fuels,9999998,2016,4452
+British Columbia,Households: Electricity and other fuels,9999998,2017,5045
+British Columbia,Households: Electricity and other fuels,9999998,2018,4768
+British Columbia,Households: Electricity and other fuels,9999998,2019,4952
+British Columbia,Households: Electricity and other fuels,9999998,2020,5011
+British Columbia,Households: Electricity and other fuels,9999998,2021,5130
+Yukon,Households: Motor fuels and lubricants,9999999,2012,112
+Yukon,Households: Motor fuels and lubricants,9999999,2013,107
+Yukon,Households: Motor fuels and lubricants,9999999,2014,108
+Yukon,Households: Motor fuels and lubricants,9999999,2015,116
+Yukon,Households: Motor fuels and lubricants,9999999,2016,116
+Yukon,Households: Motor fuels and lubricants,9999999,2017,127
+Yukon,Households: Motor fuels and lubricants,9999999,2018,141
+Yukon,Households: Motor fuels and lubricants,9999999,2019,153
+Yukon,Households: Motor fuels and lubricants,9999999,2020,126
+Yukon,Households: Motor fuels and lubricants,9999999,2021,113
+Yukon,Households: Electricity and other fuels,9999998,2012,37
+Yukon,Households: Electricity and other fuels,9999998,2013,41
+Yukon,Households: Electricity and other fuels,9999998,2014,19
+Yukon,Households: Electricity and other fuels,9999998,2015,13
+Yukon,Households: Electricity and other fuels,9999998,2016,13
+Yukon,Households: Electricity and other fuels,9999998,2017,12
+Yukon,Households: Electricity and other fuels,9999998,2018,6
+Yukon,Households: Electricity and other fuels,9999998,2019,7
+Yukon,Households: Electricity and other fuels,9999998,2020,14
+Yukon,Households: Electricity and other fuels,9999998,2021,12
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2012,71
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2013,66
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2014,76
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2015,81
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2016,81
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2017,73
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2018,74
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2019,78
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2020,67
+Northwest Territories,Households: Motor fuels and lubricants,9999999,2021,67
+Northwest Territories,Households: Electricity and other fuels,9999998,2012,87
+Northwest Territories,Households: Electricity and other fuels,9999998,2013,86
+Northwest Territories,Households: Electricity and other fuels,9999998,2014,102
+Northwest Territories,Households: Electricity and other fuels,9999998,2015,98
+Northwest Territories,Households: Electricity and other fuels,9999998,2016,72
+Northwest Territories,Households: Electricity and other fuels,9999998,2017,61
+Northwest Territories,Households: Electricity and other fuels,9999998,2018,66
+Northwest Territories,Households: Electricity and other fuels,9999998,2019,69
+Northwest Territories,Households: Electricity and other fuels,9999998,2020,60
+Northwest Territories,Households: Electricity and other fuels,9999998,2021,57
+Nunavut,Households: Motor fuels and lubricants,9999999,2012,17
+Nunavut,Households: Motor fuels and lubricants,9999999,2013,21
+Nunavut,Households: Motor fuels and lubricants,9999999,2014,22
+Nunavut,Households: Motor fuels and lubricants,9999999,2015,24
+Nunavut,Households: Motor fuels and lubricants,9999999,2016,28
+Nunavut,Households: Motor fuels and lubricants,9999999,2017,27
+Nunavut,Households: Motor fuels and lubricants,9999999,2018,22
+Nunavut,Households: Motor fuels and lubricants,9999999,2019,22
+Nunavut,Households: Motor fuels and lubricants,9999999,2020,20
+Nunavut,Households: Motor fuels and lubricants,9999999,2021,22
+Nunavut,Households: Electricity and other fuels,9999998,2012,11
+Nunavut,Households: Electricity and other fuels,9999998,2013,12
+Nunavut,Households: Electricity and other fuels,9999998,2014,41
+Nunavut,Households: Electricity and other fuels,9999998,2015,69
+Nunavut,Households: Electricity and other fuels,9999998,2016,35
+Nunavut,Households: Electricity and other fuels,9999998,2017,29
+Nunavut,Households: Electricity and other fuels,9999998,2018,24
+Nunavut,Households: Electricity and other fuels,9999998,2019,19
+Nunavut,Households: Electricity and other fuels,9999998,2020,14
+Nunavut,Households: Electricity and other fuels,9999998,2021,13
 Canada,Animal food manufacturing,BS31110,2012,254
 Canada,Animal food manufacturing,BS31110,2013,272
 Canada,Animal food manufacturing,BS31110,2014,457
