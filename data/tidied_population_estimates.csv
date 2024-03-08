@@ -1,141 +1,141 @@
-Geography,year,count
-Canada,2012,34834973.00
-Canada,2013,35209597.00
-Canada,2014,35555305.00
-Canada,2015,35823591.00
-Canada,2016,36257421.00
-Canada,2017,36722075.00
-Canada,2018,37259485.00
-Canada,2019,37828162.00
-Canada,2020,38027406.00
-Canada,2021,38451454.00
-Newfoundland and Labrador,2012,527065.00
-Newfoundland and Labrador,2013,527948.00
-Newfoundland and Labrador,2014,528266.00
-Newfoundland and Labrador,2015,528843.00
-Newfoundland and Labrador,2016,530368.00
-Newfoundland and Labrador,2017,530153.00
-Newfoundland and Labrador,2018,528926.00
-Newfoundland and Labrador,2019,528442.00
-Newfoundland and Labrador,2020,526046.00
-Newfoundland and Labrador,2021,528335.00
-Prince Edward Island,2012,144396.00
-Prince Edward Island,2013,143943.00
-Prince Edward Island,2014,144342.00
-Prince Edward Island,2015,144949.00
-Prince Edward Island,2016,147699.00
-Prince Edward Island,2017,150595.00
-Prince Edward Island,2018,153906.00
-Prince Edward Island,2019,157025.00
-Prince Edward Island,2020,159179.00
-Prince Edward Island,2021,163775.00
-Nova Scotia,2012,942829.00
-Nova Scotia,2013,939442.00
-Nova Scotia,2014,938157.00
-Nova Scotia,2015,938914.00
-Nova Scotia,2016,946623.00
-Nova Scotia,2017,956074.00
-Nova Scotia,2018,967578.00
-Nova Scotia,2019,982592.00
-Nova Scotia,2020,989154.00
-Nova Scotia,2021,1006805.00
-New Brunswick,2012,758408.00
-New Brunswick,2013,758379.00
-New Brunswick,2014,759192.00
-New Brunswick,2015,759971.00
-New Brunswick,2016,764820.00
-New Brunswick,2017,768029.00
-New Brunswick,2018,772793.00
-New Brunswick,2019,780907.00
-New Brunswick,2020,783814.00
-New Brunswick,2021,795755.00
-Quebec,2012,8076838.00
-Quebec,2013,8122462.00
-Quebec,2014,8162631.00
-Quebec,2015,8190074.00
-Quebec,2016,8246383.00
-Quebec,2017,8326075.00
-Quebec,2018,8418646.00
-Quebec,2019,8521542.00
-Quebec,2020,8551865.00
-Quebec,2021,8603553.00
-Ontario,2012,13436625.00
-Ontario,2013,13559499.00
-Ontario,2014,13661282.00
-Ontario,2015,13759762.00
-Ontario,2016,13948180.00
-Ontario,2017,14161084.00
-Ontario,2018,14413055.00
-Ontario,2019,14666727.00
-Ontario,2020,14757582.00
-Ontario,2021,14942272.00
-Manitoba,2012,1253210.00
-Manitoba,2013,1267105.00
-Manitoba,2014,1281690.00
-Manitoba,2015,1298120.00
-Manitoba,2016,1319800.00
-Manitoba,2017,1340426.00
-Manitoba,2018,1357856.00
-Manitoba,2019,1373884.00
-Manitoba,2020,1381809.00
-Manitoba,2021,1396460.00
-Saskatchewan,2012,1088177.00
-Saskatchewan,2013,1102832.00
-Saskatchewan,2014,1115184.00
-Saskatchewan,2015,1125588.00
-Saskatchewan,2016,1139492.00
-Saskatchewan,2017,1151044.00
-Saskatchewan,2018,1159648.00
-Saskatchewan,2019,1167271.00
-Saskatchewan,2020,1165963.00
-Saskatchewan,2021,1168901.00
-Alberta,2012,3897746.00
-Alberta,2013,4008421.00
-Alberta,2014,4103702.00
-Alberta,2015,4163048.00
-Alberta,2016,4207139.00
-Alberta,2017,4253530.00
-Alberta,2018,4311439.00
-Alberta,2019,4376860.00
-Alberta,2020,4412013.00
-Alberta,2021,4450442.00
-British Columbia,2012,4594846.00
-British Columbia,2013,4663919.00
-British Columbia,2014,4743505.00
-British Columbia,2015,4795547.00
-British Columbia,2016,4886638.00
-British Columbia,2017,4962706.00
-British Columbia,2018,5052131.00
-British Columbia,2019,5148047.00
-British Columbia,2020,5173896.00
-British Columbia,2021,5267184.00
-Yukon,2012,36347.00
-Yukon,2013,36384.00
-Yukon,2014,37223.00
-Yukon,2015,37730.00
-Yukon,2016,38724.00
-Yukon,2017,39705.00
-Yukon,2018,40533.00
-Yukon,2019,41460.00
-Yukon,2020,42109.00
-Yukon,2021,43119.00
-Northwest Territories 5,2012,43656.00
-Northwest Territories 5,2013,43727.00
-Northwest Territories 5,2014,44031.00
-Northwest Territories 5,2015,44443.00
-Northwest Territories 5,2016,44471.00
-Northwest Territories 5,2017,44825.00
-Northwest Territories 5,2018,44487.00
-Northwest Territories 5,2019,44512.00
-Northwest Territories 5,2020,44395.00
-Northwest Territories 5,2021,44621.00
-Nunavut 5,2012,34830.00
-Nunavut 5,2013,35536.00
-Nunavut 5,2014,36100.00
-Nunavut 5,2015,36602.00
-Nunavut 5,2016,37084.00
-Nunavut 5,2017,37829.00
-Nunavut 5,2018,38487.00
-Nunavut 5,2019,38893.00
-Nunavut 5,2020,39581.00
-Nunavut 5,2021,40232.00
+"Geography","year","count"
+"Canada","2012",34834973
+"Canada","2013",35209597
+"Canada","2014",35555305
+"Canada","2015",35823591
+"Canada","2016",36257421
+"Canada","2017",36722075
+"Canada","2018",37259485
+"Canada","2019",37828162
+"Canada","2020",38027406
+"Canada","2021",38451454
+"Newfoundland and Labrador","2012",527065
+"Newfoundland and Labrador","2013",527948
+"Newfoundland and Labrador","2014",528266
+"Newfoundland and Labrador","2015",528843
+"Newfoundland and Labrador","2016",530368
+"Newfoundland and Labrador","2017",530153
+"Newfoundland and Labrador","2018",528926
+"Newfoundland and Labrador","2019",528442
+"Newfoundland and Labrador","2020",526046
+"Newfoundland and Labrador","2021",528335
+"Prince Edward Island","2012",144396
+"Prince Edward Island","2013",143943
+"Prince Edward Island","2014",144342
+"Prince Edward Island","2015",144949
+"Prince Edward Island","2016",147699
+"Prince Edward Island","2017",150595
+"Prince Edward Island","2018",153906
+"Prince Edward Island","2019",157025
+"Prince Edward Island","2020",159179
+"Prince Edward Island","2021",163775
+"Nova Scotia","2012",942829
+"Nova Scotia","2013",939442
+"Nova Scotia","2014",938157
+"Nova Scotia","2015",938914
+"Nova Scotia","2016",946623
+"Nova Scotia","2017",956074
+"Nova Scotia","2018",967578
+"Nova Scotia","2019",982592
+"Nova Scotia","2020",989154
+"Nova Scotia","2021",1006805
+"New Brunswick","2012",758408
+"New Brunswick","2013",758379
+"New Brunswick","2014",759192
+"New Brunswick","2015",759971
+"New Brunswick","2016",764820
+"New Brunswick","2017",768029
+"New Brunswick","2018",772793
+"New Brunswick","2019",780907
+"New Brunswick","2020",783814
+"New Brunswick","2021",795755
+"Quebec","2012",8076838
+"Quebec","2013",8122462
+"Quebec","2014",8162631
+"Quebec","2015",8190074
+"Quebec","2016",8246383
+"Quebec","2017",8326075
+"Quebec","2018",8418646
+"Quebec","2019",8521542
+"Quebec","2020",8551865
+"Quebec","2021",8603553
+"Ontario","2012",13436625
+"Ontario","2013",13559499
+"Ontario","2014",13661282
+"Ontario","2015",13759762
+"Ontario","2016",13948180
+"Ontario","2017",14161084
+"Ontario","2018",14413055
+"Ontario","2019",14666727
+"Ontario","2020",14757582
+"Ontario","2021",14942272
+"Manitoba","2012",1253210
+"Manitoba","2013",1267105
+"Manitoba","2014",1281690
+"Manitoba","2015",1298120
+"Manitoba","2016",1319800
+"Manitoba","2017",1340426
+"Manitoba","2018",1357856
+"Manitoba","2019",1373884
+"Manitoba","2020",1381809
+"Manitoba","2021",1396460
+"Saskatchewan","2012",1088177
+"Saskatchewan","2013",1102832
+"Saskatchewan","2014",1115184
+"Saskatchewan","2015",1125588
+"Saskatchewan","2016",1139492
+"Saskatchewan","2017",1151044
+"Saskatchewan","2018",1159648
+"Saskatchewan","2019",1167271
+"Saskatchewan","2020",1165963
+"Saskatchewan","2021",1168901
+"Alberta","2012",3897746
+"Alberta","2013",4008421
+"Alberta","2014",4103702
+"Alberta","2015",4163048
+"Alberta","2016",4207139
+"Alberta","2017",4253530
+"Alberta","2018",4311439
+"Alberta","2019",4376860
+"Alberta","2020",4412013
+"Alberta","2021",4450442
+"British Columbia","2012",4594846
+"British Columbia","2013",4663919
+"British Columbia","2014",4743505
+"British Columbia","2015",4795547
+"British Columbia","2016",4886638
+"British Columbia","2017",4962706
+"British Columbia","2018",5052131
+"British Columbia","2019",5148047
+"British Columbia","2020",5173896
+"British Columbia","2021",5267184
+"Yukon","2012",36347
+"Yukon","2013",36384
+"Yukon","2014",37223
+"Yukon","2015",37730
+"Yukon","2016",38724
+"Yukon","2017",39705
+"Yukon","2018",40533
+"Yukon","2019",41460
+"Yukon","2020",42109
+"Yukon","2021",43119
+"Northwest Territories 5","2012",43656
+"Northwest Territories 5","2013",43727
+"Northwest Territories 5","2014",44031
+"Northwest Territories 5","2015",44443
+"Northwest Territories 5","2016",44471
+"Northwest Territories 5","2017",44825
+"Northwest Territories 5","2018",44487
+"Northwest Territories 5","2019",44512
+"Northwest Territories 5","2020",44395
+"Northwest Territories 5","2021",44621
+"Nunavut 5","2012",34830
+"Nunavut 5","2013",35536
+"Nunavut 5","2014",36100
+"Nunavut 5","2015",36602
+"Nunavut 5","2016",37084
+"Nunavut 5","2017",37829
+"Nunavut 5","2018",38487
+"Nunavut 5","2019",38893
+"Nunavut 5","2020",39581
+"Nunavut 5","2021",40232

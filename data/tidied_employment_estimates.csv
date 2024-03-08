@@ -1,281 +1,331 @@
-"naics_industry","province","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021"
-"Total, all industries 6","Newfoundland and Labrador",239.9,241.9,239.6,239.6,234.5,225.7,226.7,229.9,215.5,222.8
-"Goods-producing sector 7","Newfoundland and Labrador",54,56.4,56.7,56.6,52.5,46.8,47.1,47.9,43,45.7
-"Agriculture 8","Newfoundland and Labrador",1.5,1.4,1.3,1.5,1.3,1.7,1.6,1.5,1.2,1.1
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Newfoundland and Labrador",17.1,17.6,17.9,16.6,15.2,13,13.4,14.3,13,14.8
-"Forestry and logging and support activities for forestry","Newfoundland and Labrador",0.7,NA,0.9,1.2,0.8,1,0.8,0.8,0.8,0.9
-"Fishing, hunting and trapping","Newfoundland and Labrador",3.9,3.9,3.2,3.5,3.5,3.1,3.8,3.6,3.5,3.7
-"Mining, quarrying, and oil and gas extraction 9","Newfoundland and Labrador",12.5,13.5,13.8,11.8,10.9,8.9,8.8,9.8,8.7,10.2
-"Utilities","Newfoundland and Labrador",2.8,2.8,2.8,2.4,2.9,3,3.3,3.3,3.2,2.4
-"Construction","Newfoundland and Labrador",20.8,22.6,23.2,23.8,22.8,20.2,19.7,19.4,16.3,17
-"Manufacturing","Newfoundland and Labrador",11.9,11.9,11.5,12.3,10.4,8.8,9,9.4,9.3,10.4
-"Durables","Newfoundland and Labrador",3.5,4.2,4.9,4.5,3.6,3.3,2.8,2.9,3,3.2
-"Non-durables","Newfoundland and Labrador",8.3,7.7,6.6,7.8,6.7,5.5,6.2,6.6,6.3,7.2
-"Services-producing sector 11","Newfoundland and Labrador",185.8,185.5,182.9,183.1,182,179,179.7,182,172.5,177.1
-"Wholesale and retail trade","Newfoundland and Labrador",37.1,36.6,38.6,41.6,42.3,39.6,37.4,37,35.3,38.1
-"Wholesale trade","Newfoundland and Labrador",4.9,5.3,5.9,5.2,6.3,4.7,5.6,5.4,4.9,5.9
-"Retail trade","Newfoundland and Labrador",32.2,31.2,32.6,36.4,35.9,35,31.8,31.6,30.4,32.2
-"Transportation and warehousing","Newfoundland and Labrador",10.8,10.9,11.4,10.9,10.3,11.7,12.5,11.3,9.7,8
-"Finance, insurance, real estate, rental and leasing","Newfoundland and Labrador",9.3,8.9,9.2,9,8.5,7.6,7.8,7.4,7.6,6.9
-"Finance and insurance","Newfoundland and Labrador",5.9,5.7,6.5,5.6,5.2,5.5,5.4,4.3,5.2,4.9
-"Real estate and rental and leasing","Newfoundland and Labrador",3.4,3.3,2.7,3.5,3.4,2.2,2.5,3.1,2.4,2
-"Professional, scientific and technical services","Newfoundland and Labrador",10.1,9.7,11.4,12,10.4,9.8,10.6,9.9,9,11.3
-"Business, building and other support services 12","Newfoundland and Labrador",6.9,6.6,5.9,6.7,6.3,6.8,6.1,7.5,6.5,6.6
-"Educational services","Newfoundland and Labrador",17.5,17.5,17.3,15.1,15.1,15.4,15.7,16.9,16.9,16.5
-"Health care and social assistance","Newfoundland and Labrador",38.2,38.7,37.4,36.9,39,41,40.9,40,40.4,43.1
-"Information, culture and recreation","Newfoundland and Labrador",7.3,6.7,7.7,7.4,7.5,6.8,6.9,7.9,5.7,6
-"Accommodation and food services","Newfoundland and Labrador",14.9,15.9,14.9,15.1,15.8,14.7,16.4,16.7,14.3,11.9
-"Other services (except public administration)","Newfoundland and Labrador",14.4,14.3,11.8,12.7,12.1,10.8,9.9,10,10.5,8.6
-"Public administration","Newfoundland and Labrador",19.3,19.6,17.3,15.7,14.6,14.6,15.5,17.6,16.7,20
-"Total, all industries 6","Prince Edward Island",72.9,73.8,73.3,72.9,72.5,75,77,79.5,76.8,79.9
-"Goods-producing sector 7","Prince Edward Island",17.9,17.6,17.5,16.9,16.8,17.5,19.3,19.9,19.3,19.4
-"Agriculture 8","Prince Edward Island",4.1,3.7,3.5,2.8,2.9,2.9,3.7,3.9,3.8,3.2
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Prince Edward Island",3.2,2.9,2.4,2.6,2.6,2.5,2.5,2.6,2.4,2.9
-"Forestry and logging and support activities for forestry","Prince Edward Island",0.2,NA,0.2,0.2,NA,0.3,0.2,0.2,NA,NA
-"Fishing, hunting and trapping","Prince Edward Island",2.2,2.4,1.7,1.9,2.1,2,2,2,2,2.4
-"Mining, quarrying, and oil and gas extraction 9","Prince Edward Island",0.8,0.5,0.6,0.5,0.3,0.2,0.4,0.4,0.3,0.4
-"Utilities","Prince Edward Island",0.2,0.3,0.2,0.2,0.3,0.2,0.2,0.2,0.2,0.3
-"Construction","Prince Edward Island",5.1,5.5,5.8,5.3,5.1,5.6,6.1,6.5,6.3,5.8
-"Manufacturing","Prince Edward Island",5.3,5.1,5.6,6,6,6.3,6.8,6.6,6.6,7.1
-"Durables","Prince Edward Island",1.6,1.7,2.2,1.8,2.1,2.3,2.5,2.7,2.4,2.3
-"Non-durables","Prince Edward Island",3.6,3.4,3.3,4.2,3.9,4,4.4,3.9,4.2,4.8
-"Services-producing sector 11","Prince Edward Island",55,56.2,55.7,56,55.6,57.5,57.8,59.7,57.6,60.4
-"Wholesale and retail trade","Prince Edward Island",9.8,10.5,11.3,11.3,10.7,11.2,11.6,11.7,11.2,11.6
-"Wholesale trade","Prince Edward Island",1.3,1.1,1.1,1.5,1.3,1.8,1.7,1.5,1.5,1.5
-"Retail trade","Prince Edward Island",8.5,9.5,10.2,9.8,9.4,9.4,9.9,10.2,9.7,10.1
-"Transportation and warehousing","Prince Edward Island",2.7,2.6,2.9,2.5,2.4,3,2.8,2.9,2.8,2.6
-"Finance, insurance, real estate, rental and leasing","Prince Edward Island",2.7,2.8,2.5,2.7,2.8,2.7,2.8,3.1,3.2,2.9
-"Finance and insurance","Prince Edward Island",1.8,1.8,1.8,2,1.9,2.1,1.9,2.1,2.5,1.9
-"Real estate and rental and leasing","Prince Edward Island",0.9,1.1,0.7,0.7,0.9,0.6,0.9,1,0.7,1
-"Professional, scientific and technical services","Prince Edward Island",3.4,3.3,3.1,3.1,3.5,3.4,3.7,3.7,4.1,4.2
-"Business, building and other support services 12","Prince Edward Island",2.1,2.1,2.2,2.5,2.4,2.2,2,2.3,2.2,2.4
-"Educational services","Prince Edward Island",5.8,5.8,5.5,5.5,5.3,5.6,5.4,5.3,5.7,6.2
-"Health care and social assistance","Prince Edward Island",9.6,10.3,10.3,9.7,10.2,10.5,9.9,10.7,10.6,11.3
-"Information, culture and recreation","Prince Edward Island",2.5,2.7,2.6,2.4,2.6,2.9,2.6,2.3,2.2,2.5
-"Accommodation and food services","Prince Edward Island",5.6,5.3,5.2,5.7,5.5,5.7,6.7,6.2,4.3,4.4
-"Other services (except public administration)","Prince Edward Island",3.1,3.2,3.3,3.2,3.1,2.9,3.1,3.2,3.1,3.2
-"Public administration","Prince Edward Island",7.8,7.5,6.9,7.4,7.1,7.3,7.2,8.2,8.3,9.1
-"Total, all industries 6","Nova Scotia",458.1,455.3,448,444.3,443.2,447.1,451.8,464.6,443.3,468.1
-"Goods-producing sector 7","Nova Scotia",90,88.9,84.4,83.8,81.8,82,82.1,87.5,86.4,90.9
-"Agriculture 8","Nova Scotia",6.8,6.6,5.4,5.2,4.4,4.8,4.8,6.1,6,6.1
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Nova Scotia",12.6,11.9,11,12,12,10.9,10,10.9,10.9,11
-"Forestry and logging and support activities for forestry","Nova Scotia",2.6,2.5,1.9,2.2,2.3,1.5,2.4,2,2,2.2
-"Fishing, hunting and trapping","Nova Scotia",5.4,5.8,5,5.7,5.2,6.2,4.6,5.6,5.8,6.2
-"Mining, quarrying, and oil and gas extraction 9","Nova Scotia",4.6,3.6,4.1,4.1,4.5,3.2,3,3.3,3,2.7
-"Utilities","Nova Scotia",3.9,4,3.5,3.2,3.1,3.8,3.5,3.5,4.1,4.9
-"Construction","Nova Scotia",32.5,35,34.9,35.1,33.2,31.7,31,33.7,32.8,35.8
-"Manufacturing","Nova Scotia",34.3,31.4,29.6,28.4,29,30.8,32.8,33.4,32.6,33
-"Durables","Nova Scotia",15.3,13.3,12.9,14,14.1,14.7,15.3,15.2,14.5,14.4
-"Non-durables","Nova Scotia",19,18.1,16.7,14.3,14.9,16.1,17.5,18.2,18.1,18.6
-"Services-producing sector 11","Nova Scotia",368.1,366.4,363.6,360.5,361.5,365.1,369.7,377.1,356.9,377.2
-"Wholesale and retail trade","Nova Scotia",78.4,79.6,77.9,73.7,74.7,78.5,80.6,82.1,68.7,71.9
-"Wholesale trade","Nova Scotia",13.9,13.1,14.3,12.4,13.6,12.5,13.5,14,11.3,12.6
-"Retail trade","Nova Scotia",64.5,66.5,63.6,61.4,61.1,66,67.1,68.1,57.4,59.3
-"Transportation and warehousing","Nova Scotia",21.1,20,20.3,19.8,19.9,19.4,19.6,19.3,18.7,24.3
-"Finance, insurance, real estate, rental and leasing","Nova Scotia",22.3,21.5,21.4,22.9,24,23.6,22.5,21.7,23.5,25.4
-"Finance and insurance","Nova Scotia",15.8,14.8,14.9,16,15.8,15.9,14.3,15,16.2,18.2
-"Real estate and rental and leasing","Nova Scotia",6.5,6.7,6.5,6.9,8.2,7.6,8.2,6.7,7.3,7.1
-"Professional, scientific and technical services","Nova Scotia",23.9,26.4,25.9,27.3,26.6,26.6,25.3,27.1,29.8,32.9
-"Business, building and other support services 12","Nova Scotia",19.9,21.6,19.8,20.4,17.2,18.2,17.8,17.2,18.2,18.2
-"Educational services","Nova Scotia",35.2,35.4,35.6,36.7,37.3,36.8,37.2,35.6,35.7,36.6
-"Health care and social assistance","Nova Scotia",68,67,68.1,70.9,71.8,69.2,67.6,74.6,72.6,78.2
-"Information, culture and recreation","Nova Scotia",19.1,17.7,18.6,17.2,16.2,16.4,17.9,18.7,15,13.5
-"Accommodation and food services","Nova Scotia",31.4,31.4,31.6,29.2,28.7,29.9,33.9,34.1,28,28.1
-"Other services (except public administration)","Nova Scotia",21.4,19.3,18.3,16.4,18.7,17.9,18,15.7,16.4,17.1
-"Public administration","Nova Scotia",27.3,26.4,25.9,26,26.3,28.9,29.5,31.1,30.5,31
-"Total, all industries 6","New Brunswick",355,357.6,357.6,354.8,357.6,360.1,361.4,363.6,352.4,363.5
-"Goods-producing sector 7","New Brunswick",77.1,78.9,77.8,73.4,74.1,73.1,74.2,76.8,73.3,71.3
-"Agriculture 8","New Brunswick",4.4,4.5,3.8,3.9,4.9,5.1,5.8,6.1,4.8,5.4
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","New Brunswick",12.2,12.3,12.1,11,9.6,8.5,9.3,10.2,10,9.2
-"Forestry and logging and support activities for forestry","New Brunswick",4,4,4.2,3.2,3.4,3.5,3.2,3.5,4.5,3.6
-"Fishing, hunting and trapping","New Brunswick",2.7,2.4,2.2,2.1,1.9,1.6,1.8,2.5,2.5,2.5
-"Mining, quarrying, and oil and gas extraction 9","New Brunswick",5.5,5.9,5.7,5.7,4.3,3.4,4.3,4.3,3.1,3.1
-"Utilities","New Brunswick",3.4,3.8,3.8,3.3,3.4,3.1,2.9,3.2,3.2,3.5
-"Construction","New Brunswick",28.2,29.4,28.9,24.3,24.5,24.9,24.5,26,24.9,23.4
-"Manufacturing","New Brunswick",28.9,28.8,29.1,31,31.7,31.4,31.6,31.3,30.5,29.8
-"Durables","New Brunswick",13.4,12.8,13.4,13.1,15.9,14.6,16.3,14.5,13.9,13.3
-"Non-durables","New Brunswick",15.5,16,15.8,17.9,15.8,16.9,15.4,16.8,16.6,16.5
-"Services-producing sector 11","New Brunswick",277.9,278.7,279.9,281.4,283.5,287,287.2,286.8,279.1,292.2
-"Wholesale and retail trade","New Brunswick",55.8,57.2,59,58.3,60.1,58.7,55.1,53.2,54.8,57.8
-"Wholesale trade","New Brunswick",10.2,11.5,10,10.3,10.7,11,8.3,9.1,9.9,10.2
-"Retail trade","New Brunswick",45.6,45.7,49,47.9,49.4,47.8,46.9,44.1,44.9,47.6
-"Transportation and warehousing","New Brunswick",18.2,18.4,16.2,18.8,18.9,18.4,18.3,18.6,16.8,19.4
-"Finance, insurance, real estate, rental and leasing","New Brunswick",16.6,16,15.3,15.5,17.5,18.1,18,18.3,17.8,19.2
-"Finance and insurance","New Brunswick",11.8,11.1,11.5,12.3,13.3,13.5,13.1,13.1,13.6,14.5
-"Real estate and rental and leasing","New Brunswick",4.8,4.8,3.8,3.2,4.3,4.6,4.9,5.2,4.3,4.8
-"Professional, scientific and technical services","New Brunswick",14.9,14.3,17.1,17,15.4,15.9,16.7,17.8,17.5,18.4
-"Business, building and other support services 12","New Brunswick",17.2,17.7,20,18.2,15.8,16.7,16.6,16,15.1,14.9
-"Educational services","New Brunswick",26.3,25.7,25.1,26.8,26.3,26.6,26.9,27.2,27.6,28.7
-"Health care and social assistance","New Brunswick",52.8,54,53.1,51.9,53.6,57.7,58.6,58.8,57,56.7
-"Information, culture and recreation","New Brunswick",12.8,12.6,11.5,11.6,12.9,10.8,11.6,13.3,10.7,9.8
-"Accommodation and food services","New Brunswick",22.4,24.1,23.5,24.1,22.5,24.5,24.8,23.7,20.4,20.7
-"Other services (except public administration)","New Brunswick",17,16.1,16.3,15.3,16.2,15.5,14.9,14.3,14.2,15.9
-"Public administration","New Brunswick",23.8,22.8,22.8,24.1,24.3,24.2,25.7,25.6,27.2,30.6
-"Total, all industries 6","Quebec",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Goods-producing sector 7","Quebec",876.1,881.4,846.4,828.7,832.6,863.3,870.4,883.5,850.4,894.2
-"Agriculture 8","Quebec",55.9,57.1,55.8,52.8,54.7,56,54.9,55,54.2,57.3
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Quebec",37.7,35.5,33.3,30.8,29,34.3,38.7,42,37.9,37.8
-"Forestry and logging and support activities for forestry","Quebec",13.6,15.7,12,9.5,8.2,11.3,14.1,14.7,13.6,14.2
-"Fishing, hunting and trapping","Quebec",1.8,NA,NA,NA,NA,1.6,NA,NA,NA,NA
-"Mining, quarrying, and oil and gas extraction 9","Quebec",22.2,18.8,20.3,20.8,20.2,21.4,23.6,26.6,23.1,22.6
-"Utilities","Quebec",28.5,27.3,27.4,26.8,26.6,24,25.8,23,21.7,27.2
-"Construction","Quebec",250.2,270.4,253.7,237.4,238.5,253.1,249.1,264.7,263.8,284.7
-"Manufacturing","Quebec",503.7,491.1,476.2,480.9,483.9,495.8,502,498.9,472.7,487.2
-"Durables","Quebec",284.4,275.6,272.4,278.7,280.1,277.9,287.3,293,276.4,285
-"Non-durables","Quebec",219.3,215.5,203.8,202.3,203.8,217.9,214.7,205.8,196.3,202.2
-"Services-producing sector 11","Quebec",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wholesale and retail trade","Quebec",636.9,655.1,648.6,661.2,663.3,668.1,681.8,681.1,653.8,659
-"Wholesale trade","Quebec",153.1,141,134.2,141.9,149.8,162.7,158.7,142.2,141.1,153.6
-"Retail trade","Quebec",483.9,514.1,514.4,519.3,513.5,505.5,523.2,538.9,512.8,505.5
-"Transportation and warehousing","Quebec",175.8,177.9,185,198.7,199.8,205.7,209.4,235.1,225.5,221.5
-"Finance, insurance, real estate, rental and leasing","Quebec",229.7,226,228.3,221.2,219.5,233,237.8,239.5,242.2,281.4
-"Finance and insurance","Quebec",169.7,171.6,166.7,174.8,160.7,178.3,177.1,181.8,190.9,217.8
-"Real estate and rental and leasing","Quebec",59.9,54.4,61.7,46.4,58.8,54.7,60.6,57.7,51.2,63.6
-"Professional, scientific and technical services","Quebec",295.3,305.4,301.5,311.1,299.7,313.6,325.7,347.1,342.8,363.4
-"Business, building and other support services 12","Quebec",152.6,153.1,152.7,163.4,178.8,186.2,192.1,179.7,159.2,159
-"Educational services","Quebec",278.7,275.8,268,275.2,279.2,283.5,281.2,288,306.7,354.7
-"Health care and social assistance","Quebec",528.8,550.8,561.3,563.3,557.8,560.1,582.8,604.4,580,580.5
-"Information, culture and recreation","Quebec",175.9,176.6,185.2,172,178.2,176.8,178.7,180.3,157,156.1
-"Accommodation and food services","Quebec",258.2,252.5,266,277.7,280.8,279.3,275.6,260,186.6,180.6
-"Other services (except public administration)","Quebec",183.9,182.1,175.5,153.1,163.8,174.3,175,179.5,152.6,159.1
-"Public administration","Quebec",221.9,216.6,214.7,224.8,219.9,233.7,242.9,252.6,240.2,263.8
-"Total, all industries 6","Ontario",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Goods-producing sector 7","Ontario",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Agriculture 8","Ontario",87,83.9,80,74.6,75.8,68.5,70.8,74,68,66.4
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Ontario",34.4,35,31.6,40.5,32.6,31.7,32,35,35,34.5
-"Forestry and logging and support activities for forestry","Ontario",7.9,5.6,4.9,7.1,6.1,4.9,5,4.7,7.5,5.6
-"Fishing, hunting and trapping","Ontario",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Mining, quarrying, and oil and gas extraction 9","Ontario",25.7,28.5,26.4,32.3,26.5,26.4,26.8,30,26.7,28.3
-"Utilities","Ontario",51,51.6,50.4,49.8,51.6,48.1,52.2,51.4,48.9,51.4
-"Construction","Ontario",464.1,470.3,468.6,476.8,496,511.7,528.1,544.2,531,538.7
-"Manufacturing","Ontario",788.2,769.6,763.1,765.1,784.1,797.6,793.7,770,732.6,775.2
-"Durables","Ontario",504.3,491.9,484.6,484.5,508.9,524.4,511.4,483.4,458.8,488
-"Non-durables","Ontario",283.9,277.6,278.5,280.6,275.2,273.2,282.2,286.6,273.8,287.2
-"Services-producing sector 11","Ontario",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wholesale and retail trade","Ontario",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wholesale trade","Ontario",222.7,232.7,252.9,286.1,285.9,273.2,265.3,263.6,242.9,261.3
-"Retail trade","Ontario",793.5,802.4,810.9,770.8,769.7,835.7,836.7,856,814.6,852.1
-"Transportation and warehousing","Ontario",312.3,333.1,322.8,317.8,328.4,336.7,370.3,392.1,347.2,365.7
-"Finance, insurance, real estate, rental and leasing","Ontario",498.5,513,505.5,529.7,540.4,554.6,571.5,604,602.3,634.4
-"Finance and insurance","Ontario",360.3,378.5,377.7,376.1,403.9,402.4,421.1,435.7,455.2,471
-"Real estate and rental and leasing","Ontario",138.2,134.5,127.8,153.6,136.5,152.2,150.4,168.4,147.1,163.4
-"Professional, scientific and technical services","Ontario",541.9,544.4,557,575.4,581.9,616.1,638,678.5,687.9,749.5
-"Business, building and other support services 12","Ontario",300.2,325.7,328.6,327,315.4,302.8,315.8,308.5,283.9,276
-"Educational services","Ontario",466.1,484.8,488.2,514.5,500.2,496.8,518.7,534.7,512,548.7
-"Health care and social assistance","Ontario",759.3,776.7,792.9,800.2,824,850.8,848.8,890.8,853,899.1
-"Information, culture and recreation","Ontario",305.9,303.8,305.5,298.5,306.4,307.4,306.1,305.1,271,298.6
-"Accommodation and food services","Ontario",422.7,435,446.7,445,441.1,447.7,464.5,459.9,346.1,372.1
-"Other services (except public administration)","Ontario",290.8,280.1,274.7,270.5,272.8,277.9,282.3,289.8,261.2,258.1
-"Public administration","Ontario",364.4,365,360.5,344.8,350,360.2,351.1,371.7,388.2,411.6
-"Total, all industries 6","Manitoba",621.3,626.8,628.3,637.4,637.6,648.1,654,661.4,632.6,656.2
-"Goods-producing sector 7","Manitoba",145.5,149.4,147.9,147.2,155,155.4,152,154,146.5,149.9
-"Agriculture 8","Manitoba",22.9,25.6,24.4,24.1,26.2,25.6,26.4,26.4,27.2,25.4
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Manitoba",7,7.2,6.8,6.1,6.6,7,6.6,6,4.7,4.3
-"Forestry and logging and support activities for forestry","Manitoba",0.9,0.7,0.8,0.8,0.8,0.5,0.5,0.8,NA,NA
-"Fishing, hunting and trapping","Manitoba",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Mining, quarrying, and oil and gas extraction 9","Manitoba",5.9,6.3,6,5.2,5.5,6.3,5.8,4.8,4,3.7
-"Utilities","Manitoba",7.3,7.8,9.1,9,10.3,9.2,7.3,7,6.5,5.4
-"Construction","Manitoba",45,46.4,43.6,43.5,47.2,49.4,49,50.9,47.6,49.3
-"Manufacturing","Manitoba",63.2,62.4,64.1,64.5,64.7,64.2,62.8,63.8,60.5,65.5
-"Durables","Manitoba",38.1,37.6,38.3,37.4,37.7,37.7,35.9,37.8,33.7,36.2
-"Non-durables","Manitoba",25.1,24.8,25.8,27.1,27,26.5,26.9,26,26.9,29.4
-"Services-producing sector 11","Manitoba",475.8,477.4,480.3,490.2,482.6,492.7,502,507.4,486.1,506.3
-"Wholesale and retail trade","Manitoba",93,93.7,94.1,93.3,89.5,91.2,90,92.4,88.6,96.3
-"Wholesale trade","Manitoba",22,19.1,21.5,22.2,20.7,21,19.3,19.2,19.5,22.4
-"Retail trade","Manitoba",71,74.6,72.6,71,68.8,70.2,70.7,73.2,69.1,73.9
-"Transportation and warehousing","Manitoba",36.4,36.6,37.6,38.5,35.1,36.2,38.6,41.6,38.5,41.9
-"Finance, insurance, real estate, rental and leasing","Manitoba",34.5,33.9,34.4,33.4,34.8,36.7,36.4,35.3,34.2,34.8
-"Finance and insurance","Manitoba",26.5,23.7,25.5,25.2,26,28.4,27,27,25.3,26.9
-"Real estate and rental and leasing","Manitoba",8.1,10.2,8.9,8.2,8.8,8.3,9.5,8.3,8.9,8
-"Professional, scientific and technical services","Manitoba",27.6,26.8,24.9,25.6,28.4,27.9,28.3,29.9,30.4,31.6
-"Business, building and other support services 12","Manitoba",19.4,18.7,17.5,19.6,18.5,19.7,21.5,22.9,21.3,20.1
-"Educational services","Manitoba",46.4,46.9,50.3,51.7,50.9,53.3,53,52.4,53.3,58.4
-"Health care and social assistance","Manitoba",92.3,95.7,99.1,102.3,101.7,101,103.7,104.2,101.4,105.2
-"Information, culture and recreation","Manitoba",23.1,24.3,22,22.1,22.5,22.8,23.5,22.4,19.8,20.7
-"Accommodation and food services","Manitoba",39.1,39.7,39.2,40.9,40.6,43.2,42.2,42.3,35.4,32.8
-"Other services (except public administration)","Manitoba",28.6,27.8,27,29.4,28.5,27.4,28.9,26.9,27.1,26.6
-"Public administration","Manitoba",35.3,33.4,34.2,33.4,32.3,33.5,35.9,37.2,36.1,37.9
-"Total, all industries 6","Saskatchewan",549.6,563.5,566.9,565.2,561.1,562.5,566.5,576.9,547.5,561.7
-"Goods-producing sector 7","Saskatchewan",152.4,159.3,164.4,157.4,149.7,147.9,147,147.5,134.5,132.7
-"Agriculture 8","Saskatchewan",40.9,43.9,44.9,42.6,41.4,38.1,39.4,40.8,37.1,31
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Saskatchewan",29.6,26.5,28.4,26.5,25.1,23.2,23.5,23.9,20.4,21.2
-"Forestry and logging and support activities for forestry","Saskatchewan",1.5,1.1,1,0.7,1,0.5,0.8,0.7,0.5,0.7
-"Fishing, hunting and trapping","Saskatchewan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Mining, quarrying, and oil and gas extraction 9","Saskatchewan",28.1,25.3,27.2,25.7,24.1,22.7,22.6,23.1,19.7,20.3
-"Utilities","Saskatchewan",5.1,5.8,6.5,6.9,6.6,7,8.1,7,6.6,6
-"Construction","Saskatchewan",48.7,52.5,55.2,54.1,51.1,50.8,47.6,45.5,39.6,42.9
-"Manufacturing","Saskatchewan",28.2,30.5,29.4,27.3,25.5,28.8,28.3,30.3,30.8,31.6
-"Durables","Saskatchewan",18,19.1,17.8,17.7,15.7,18.1,17,18.4,18.8,18.7
-"Non-durables","Saskatchewan",10.1,11.4,11.6,9.6,9.8,10.7,11.3,11.9,11.9,12.9
-"Services-producing sector 11","Saskatchewan",397.1,404.2,402.4,407.9,411.4,414.6,419.5,429.4,413,429
-"Wholesale and retail trade","Saskatchewan",85.4,85.2,82.3,83.3,88.4,92.6,92.3,89.8,86.9,94.9
-"Wholesale trade","Saskatchewan",20.4,22.1,20.8,20.7,23.1,24.1,24.5,24.3,23.4,22.8
-"Retail trade","Saskatchewan",65,63,61.4,62.6,65.2,68.5,67.8,65.5,63.4,72.1
-"Transportation and warehousing","Saskatchewan",27.8,27.8,27.6,26.7,26.7,27.7,27.1,24.7,23.6,23.8
-"Finance, insurance, real estate, rental and leasing","Saskatchewan",29,27,29.3,29.7,27.8,27.4,28.4,29.6,29.7,28.4
-"Finance and insurance","Saskatchewan",22.4,19.3,22.5,21.3,21.4,19.7,20.2,21.5,22.2,21.8
-"Real estate and rental and leasing","Saskatchewan",6.6,7.7,6.8,8.4,6.3,7.7,8.3,8.1,7.4,6.7
-"Professional, scientific and technical services","Saskatchewan",24.6,27,27.9,26,27.6,29.7,26.8,27.2,26.1,26.2
-"Business, building and other support services 12","Saskatchewan",13.3,13.1,13.1,13.8,13,12.7,14.5,15.3,15.6,15.2
-"Educational services","Saskatchewan",39.7,42.9,43.9,43.2,40.1,39,40.6,43.9,43.9,45.5
-"Health care and social assistance","Saskatchewan",71,73.5,72.7,74.7,77,77.1,79.7,80.6,81,87.5
-"Information, culture and recreation","Saskatchewan",18,17,16.3,18.4,19.4,19.4,19.9,21.7,18.4,17.6
-"Accommodation and food services","Saskatchewan",32.4,34,34.7,37.2,37.4,35.6,34.9,38.3,26.8,27.4
-"Other services (except public administration)","Saskatchewan",25.8,25.2,23.9,25.9,24.6,23.5,24.4,26.8,27.2,25.7
-"Public administration","Saskatchewan",30.1,31.5,30.7,29,29.5,29.9,30.8,31.6,33.8,36.7
-"Total, all industries 6","Alberta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Goods-producing sector 7","Alberta",617.4,628.9,648,630,561.5,556.9,588.4,586,543.9,552.7
-"Agriculture 8","Alberta",54.4,65.9,62.6,61.4,50.3,52.1,53.1,55.8,49.2,41.3
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","Alberta",173.5,172.5,174.1,155.3,136.3,135.9,147,141.5,130.5,141.5
-"Forestry and logging and support activities for forestry","Alberta",3.9,2.5,2.6,3.4,4,4.1,5,3.4,4.9,2.2
-"Fishing, hunting and trapping","Alberta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Mining, quarrying, and oil and gas extraction 9","Alberta",169.4,169.9,171.3,151.9,132.2,131.8,142,138.1,125.6,139.3
-"Utilities","Alberta",15.2,15.2,17.3,18.9,17.4,17.9,21.2,21.9,20.2,18.6
-"Construction","Alberta",234.9,232.6,248.7,252.7,240.8,231.5,234.3,233,218.1,226.7
-"Manufacturing","Alberta",139.3,142.8,145.4,141.7,116.7,119.5,132.9,133.9,125.9,124.6
-"Durables","Alberta",88.8,82.8,88.9,87.2,69.5,68.9,78.4,77.6,69.3,70.8
-"Non-durables","Alberta",50.6,59.9,56.5,54.5,47.2,50.6,54.5,56.3,56.6,53.8
-"Services-producing sector 11","Alberta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wholesale and retail trade","Alberta",318.6,322.2,321.9,315.9,322,336.3,336.1,350.1,315.6,343.4
-"Wholesale trade","Alberta",80.7,82,87.2,87.4,81.3,92.7,86.6,89.5,85.6,74.7
-"Retail trade","Alberta",237.9,240.2,234.7,228.5,240.7,243.6,249.6,260.6,230,268.7
-"Transportation and warehousing","Alberta",118.2,120.8,123.9,131.9,129.6,136,136.7,138.4,124.8,132.2
-"Finance, insurance, real estate, rental and leasing","Alberta",99.9,103.3,102,108.1,109.1,108.4,113.1,112,110.4,123.6
-"Finance and insurance","Alberta",68.6,66.5,67.5,69,70.6,66,67.5,66.7,72.3,76.6
-"Real estate and rental and leasing","Alberta",31.3,36.8,34.6,39.1,38.4,42.4,45.6,45.3,38.1,47
-"Professional, scientific and technical services","Alberta",163.2,174.3,181.3,171.3,173.4,170.3,171.6,178.1,174.2,190.2
-"Business, building and other support services 12","Alberta",71.2,76.9,79.1,76.6,76.3,76.9,82.9,78.9,68,69.3
-"Educational services","Alberta",124.4,124.5,125.2,134.8,137.9,140.5,145.9,149.5,143.3,167.7
-"Health care and social assistance","Alberta",234.2,236.9,242.2,260.3,263.6,265.5,274,284.7,285.1,306.3
-"Information, culture and recreation","Alberta",72,77.8,72.9,73.5,74.2,72.5,78.8,76.1,70.7,64.6
-"Accommodation and food services","Alberta",145.9,140.2,142.8,152.5,146.1,146.1,135.8,136.5,110.5,112.3
-"Other services (except public administration)","Alberta",105.4,109.2,115.9,115.1,116.8,113.1,110.5,105.4,93.2,94.3
-"Public administration","Alberta",96.1,96,91.7,95.6,94.1,98.6,106.3,112.1,103.8,103.2
-"Total, all industries 6","British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Goods-producing sector 7","British Columbia",459.6,461.4,468.6,482.5,484.6,512,516.3,507.2,484,497.9
-"Agriculture 8","British Columbia",23.5,26.8,25.3,25.7,22.6,24.1,24.1,24.4,28.3,21.2
-"Forestry, fishing, mining, quarrying, oil and gas 9 10","British Columbia",47.2,49.9,52.8,53.4,51.5,52.4,49.4,46.1,42.1,48.4
-"Forestry and logging and support activities for forestry","British Columbia",16.8,19.1,20.3,21.5,18.7,18.7,17.3,16.1,15.6,18.3
-"Fishing, hunting and trapping","British Columbia",2.1,1.5,2,1.9,1.7,2.3,3.3,1.8,2.7,1.9
-"Mining, quarrying, and oil and gas extraction 9","British Columbia",28.3,29.2,30.4,30,31.1,31.4,28.8,28.3,23.9,28.1
-"Utilities","British Columbia",12.5,13.3,14,14.3,12.7,11.5,15,13.8,18.4,17.9
-"Construction","British Columbia",202.7,212.6,209,211.9,220,239.8,246.5,250.1,227.4,227.1
-"Manufacturing","British Columbia",173.7,158.8,167.7,177.2,177.8,184.2,181.4,172.7,167.8,183.4
-"Durables","British Columbia",105.4,95.1,99.6,103.7,106.4,106.9,105.8,107.3,98.8,104.2
-"Non-durables","British Columbia",68.3,63.8,68,73.5,71.3,77.4,75.6,65.4,68.9,79.2
-"Services-producing sector 11","British Columbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"Wholesale and retail trade","British Columbia",345.2,375.2,370.8,363.3,383.9,395.5,400.7,420.8,388.8,402
-"Wholesale trade","British Columbia",81.1,83.2,83.1,86,94.7,87.6,87.6,93.8,91.2,88.2
-"Retail trade","British Columbia",264.1,291.9,287.7,277.2,289.2,307.9,313.1,327,297.6,313.8
-"Transportation and warehousing","British Columbia",128.6,127.5,141.2,144,141.3,141.1,144.1,147.1,135,146.1
-"Finance, insurance, real estate, rental and leasing","British Columbia",143.4,148.7,150.2,141,150.6,167,166.1,168.3,170.1,168.9
-"Finance and insurance","British Columbia",92.5,94.6,97.4,95.1,100.9,108,104.2,104.8,112,114
-"Real estate and rental and leasing","British Columbia",50.9,54.1,52.8,45.9,49.7,59,61.8,63.5,58.1,54.9
-"Professional, scientific and technical services","British Columbia",176.7,183.3,185.3,196.1,202.3,205.8,218.5,238.5,240,261.4
-"Business, building and other support services 12","British Columbia",98.6,94.2,87.2,92.1,99.8,104.1,103.3,115.3,96.9,98.6
-"Educational services","British Columbia",167.4,165.4,167.3,170.3,172.3,172.4,168.7,177.1,173.2,185.7
-"Health care and social assistance","British Columbia",264.1,261.4,268.5,286.2,297.8,310,327.7,328.1,321.5,351.7
-"Information, culture and recreation","British Columbia",111.7,110.8,114.3,122.7,130.1,137.2,129.9,132.2,106.4,127.6
-"Accommodation and food services","British Columbia",187.4,183.6,186.1,176.8,185.1,195.1,200.5,202.1,173.4,177.4
-"Other services (except public administration)","British Columbia",110.3,104,101.4,106.9,108.2,114.6,121.7,119.2,99,108.9
-"Public administration","British Columbia",102.7,106.6,108.5,107.2,111.9,105.4,109,121.7,121,137.6
+"naics_industry","province","year","count"
+"Manufacturing","Canada","2012",1776.6
+"Manufacturing","Canada","2013",1732.6
+"Manufacturing","Canada","2014",1721.7
+"Manufacturing","Canada","2015",1734.4
+"Manufacturing","Canada","2016",1729.8
+"Manufacturing","Canada","2017",1767.5
+"Manufacturing","Canada","2018",1781.3
+"Manufacturing","Canada","2019",1750.2
+"Manufacturing","Canada","2020",1669.4
+"Manufacturing","Canada","2021",1747.8
+"Durables","Canada","2012",1072.8
+"Durables","Canada","2013",1034.2
+"Durables","Canada","2014",1035.1
+"Durables","Canada","2015",1042.5
+"Durables","Canada","2016",1054.2
+"Durables","Canada","2017",1068.7
+"Durables","Canada","2018",1072.5
+"Durables","Canada","2019",1052.6
+"Durables","Canada","2020",989.7
+"Durables","Canada","2021",1036
+"Non-durables","Canada","2012",703.8
+"Non-durables","Canada","2013",698.4
+"Non-durables","Canada","2014",686.6
+"Non-durables","Canada","2015",691.9
+"Non-durables","Canada","2016",675.7
+"Non-durables","Canada","2017",698.8
+"Non-durables","Canada","2018",708.8
+"Non-durables","Canada","2019",697.6
+"Non-durables","Canada","2020",679.7
+"Non-durables","Canada","2021",711.7
+"Manufacturing","Newfoundland and Labrador","2012",11.9
+"Manufacturing","Newfoundland and Labrador","2013",11.9
+"Manufacturing","Newfoundland and Labrador","2014",11.5
+"Manufacturing","Newfoundland and Labrador","2015",12.3
+"Manufacturing","Newfoundland and Labrador","2016",10.4
+"Manufacturing","Newfoundland and Labrador","2017",8.8
+"Manufacturing","Newfoundland and Labrador","2018",9
+"Manufacturing","Newfoundland and Labrador","2019",9.4
+"Manufacturing","Newfoundland and Labrador","2020",9.3
+"Manufacturing","Newfoundland and Labrador","2021",10.4
+"Durables","Newfoundland and Labrador","2012",3.5
+"Durables","Newfoundland and Labrador","2013",4.2
+"Durables","Newfoundland and Labrador","2014",4.9
+"Durables","Newfoundland and Labrador","2015",4.5
+"Durables","Newfoundland and Labrador","2016",3.6
+"Durables","Newfoundland and Labrador","2017",3.3
+"Durables","Newfoundland and Labrador","2018",2.8
+"Durables","Newfoundland and Labrador","2019",2.9
+"Durables","Newfoundland and Labrador","2020",3
+"Durables","Newfoundland and Labrador","2021",3.2
+"Non-durables","Newfoundland and Labrador","2012",8.3
+"Non-durables","Newfoundland and Labrador","2013",7.7
+"Non-durables","Newfoundland and Labrador","2014",6.6
+"Non-durables","Newfoundland and Labrador","2015",7.8
+"Non-durables","Newfoundland and Labrador","2016",6.7
+"Non-durables","Newfoundland and Labrador","2017",5.5
+"Non-durables","Newfoundland and Labrador","2018",6.2
+"Non-durables","Newfoundland and Labrador","2019",6.6
+"Non-durables","Newfoundland and Labrador","2020",6.3
+"Non-durables","Newfoundland and Labrador","2021",7.2
+"Manufacturing","Prince Edward Island","2012",5.3
+"Manufacturing","Prince Edward Island","2013",5.1
+"Manufacturing","Prince Edward Island","2014",5.6
+"Manufacturing","Prince Edward Island","2015",6
+"Manufacturing","Prince Edward Island","2016",6
+"Manufacturing","Prince Edward Island","2017",6.3
+"Manufacturing","Prince Edward Island","2018",6.8
+"Manufacturing","Prince Edward Island","2019",6.6
+"Manufacturing","Prince Edward Island","2020",6.6
+"Manufacturing","Prince Edward Island","2021",7.1
+"Durables","Prince Edward Island","2012",1.6
+"Durables","Prince Edward Island","2013",1.7
+"Durables","Prince Edward Island","2014",2.2
+"Durables","Prince Edward Island","2015",1.8
+"Durables","Prince Edward Island","2016",2.1
+"Durables","Prince Edward Island","2017",2.3
+"Durables","Prince Edward Island","2018",2.5
+"Durables","Prince Edward Island","2019",2.7
+"Durables","Prince Edward Island","2020",2.4
+"Durables","Prince Edward Island","2021",2.3
+"Non-durables","Prince Edward Island","2012",3.6
+"Non-durables","Prince Edward Island","2013",3.4
+"Non-durables","Prince Edward Island","2014",3.3
+"Non-durables","Prince Edward Island","2015",4.2
+"Non-durables","Prince Edward Island","2016",3.9
+"Non-durables","Prince Edward Island","2017",4
+"Non-durables","Prince Edward Island","2018",4.4
+"Non-durables","Prince Edward Island","2019",3.9
+"Non-durables","Prince Edward Island","2020",4.2
+"Non-durables","Prince Edward Island","2021",4.8
+"Manufacturing","Nova Scotia","2012",34.3
+"Manufacturing","Nova Scotia","2013",31.4
+"Manufacturing","Nova Scotia","2014",29.6
+"Manufacturing","Nova Scotia","2015",28.4
+"Manufacturing","Nova Scotia","2016",29
+"Manufacturing","Nova Scotia","2017",30.8
+"Manufacturing","Nova Scotia","2018",32.8
+"Manufacturing","Nova Scotia","2019",33.4
+"Manufacturing","Nova Scotia","2020",32.6
+"Manufacturing","Nova Scotia","2021",33
+"Durables","Nova Scotia","2012",15.3
+"Durables","Nova Scotia","2013",13.3
+"Durables","Nova Scotia","2014",12.9
+"Durables","Nova Scotia","2015",14
+"Durables","Nova Scotia","2016",14.1
+"Durables","Nova Scotia","2017",14.7
+"Durables","Nova Scotia","2018",15.3
+"Durables","Nova Scotia","2019",15.2
+"Durables","Nova Scotia","2020",14.5
+"Durables","Nova Scotia","2021",14.4
+"Non-durables","Nova Scotia","2012",19
+"Non-durables","Nova Scotia","2013",18.1
+"Non-durables","Nova Scotia","2014",16.7
+"Non-durables","Nova Scotia","2015",14.3
+"Non-durables","Nova Scotia","2016",14.9
+"Non-durables","Nova Scotia","2017",16.1
+"Non-durables","Nova Scotia","2018",17.5
+"Non-durables","Nova Scotia","2019",18.2
+"Non-durables","Nova Scotia","2020",18.1
+"Non-durables","Nova Scotia","2021",18.6
+"Manufacturing","New Brunswick","2012",28.9
+"Manufacturing","New Brunswick","2013",28.8
+"Manufacturing","New Brunswick","2014",29.1
+"Manufacturing","New Brunswick","2015",31
+"Manufacturing","New Brunswick","2016",31.7
+"Manufacturing","New Brunswick","2017",31.4
+"Manufacturing","New Brunswick","2018",31.6
+"Manufacturing","New Brunswick","2019",31.3
+"Manufacturing","New Brunswick","2020",30.5
+"Manufacturing","New Brunswick","2021",29.8
+"Durables","New Brunswick","2012",13.4
+"Durables","New Brunswick","2013",12.8
+"Durables","New Brunswick","2014",13.4
+"Durables","New Brunswick","2015",13.1
+"Durables","New Brunswick","2016",15.9
+"Durables","New Brunswick","2017",14.6
+"Durables","New Brunswick","2018",16.3
+"Durables","New Brunswick","2019",14.5
+"Durables","New Brunswick","2020",13.9
+"Durables","New Brunswick","2021",13.3
+"Non-durables","New Brunswick","2012",15.5
+"Non-durables","New Brunswick","2013",16
+"Non-durables","New Brunswick","2014",15.8
+"Non-durables","New Brunswick","2015",17.9
+"Non-durables","New Brunswick","2016",15.8
+"Non-durables","New Brunswick","2017",16.9
+"Non-durables","New Brunswick","2018",15.4
+"Non-durables","New Brunswick","2019",16.8
+"Non-durables","New Brunswick","2020",16.6
+"Non-durables","New Brunswick","2021",16.5
+"Manufacturing","Quebec","2012",503.7
+"Manufacturing","Quebec","2013",491.1
+"Manufacturing","Quebec","2014",476.2
+"Manufacturing","Quebec","2015",480.9
+"Manufacturing","Quebec","2016",483.9
+"Manufacturing","Quebec","2017",495.8
+"Manufacturing","Quebec","2018",502
+"Manufacturing","Quebec","2019",498.9
+"Manufacturing","Quebec","2020",472.7
+"Manufacturing","Quebec","2021",487.2
+"Durables","Quebec","2012",284.4
+"Durables","Quebec","2013",275.6
+"Durables","Quebec","2014",272.4
+"Durables","Quebec","2015",278.7
+"Durables","Quebec","2016",280.1
+"Durables","Quebec","2017",277.9
+"Durables","Quebec","2018",287.3
+"Durables","Quebec","2019",293
+"Durables","Quebec","2020",276.4
+"Durables","Quebec","2021",285
+"Non-durables","Quebec","2012",219.3
+"Non-durables","Quebec","2013",215.5
+"Non-durables","Quebec","2014",203.8
+"Non-durables","Quebec","2015",202.3
+"Non-durables","Quebec","2016",203.8
+"Non-durables","Quebec","2017",217.9
+"Non-durables","Quebec","2018",214.7
+"Non-durables","Quebec","2019",205.8
+"Non-durables","Quebec","2020",196.3
+"Non-durables","Quebec","2021",202.2
+"Manufacturing","Ontario","2012",788.2
+"Manufacturing","Ontario","2013",769.6
+"Manufacturing","Ontario","2014",763.1
+"Manufacturing","Ontario","2015",765.1
+"Manufacturing","Ontario","2016",784.1
+"Manufacturing","Ontario","2017",797.6
+"Manufacturing","Ontario","2018",793.7
+"Manufacturing","Ontario","2019",770
+"Manufacturing","Ontario","2020",732.6
+"Manufacturing","Ontario","2021",775.2
+"Durables","Ontario","2012",504.3
+"Durables","Ontario","2013",491.9
+"Durables","Ontario","2014",484.6
+"Durables","Ontario","2015",484.5
+"Durables","Ontario","2016",508.9
+"Durables","Ontario","2017",524.4
+"Durables","Ontario","2018",511.4
+"Durables","Ontario","2019",483.4
+"Durables","Ontario","2020",458.8
+"Durables","Ontario","2021",488
+"Non-durables","Ontario","2012",283.9
+"Non-durables","Ontario","2013",277.6
+"Non-durables","Ontario","2014",278.5
+"Non-durables","Ontario","2015",280.6
+"Non-durables","Ontario","2016",275.2
+"Non-durables","Ontario","2017",273.2
+"Non-durables","Ontario","2018",282.2
+"Non-durables","Ontario","2019",286.6
+"Non-durables","Ontario","2020",273.8
+"Non-durables","Ontario","2021",287.2
+"Manufacturing","Manitoba","2012",63.2
+"Manufacturing","Manitoba","2013",62.4
+"Manufacturing","Manitoba","2014",64.1
+"Manufacturing","Manitoba","2015",64.5
+"Manufacturing","Manitoba","2016",64.7
+"Manufacturing","Manitoba","2017",64.2
+"Manufacturing","Manitoba","2018",62.8
+"Manufacturing","Manitoba","2019",63.8
+"Manufacturing","Manitoba","2020",60.5
+"Manufacturing","Manitoba","2021",65.5
+"Durables","Manitoba","2012",38.1
+"Durables","Manitoba","2013",37.6
+"Durables","Manitoba","2014",38.3
+"Durables","Manitoba","2015",37.4
+"Durables","Manitoba","2016",37.7
+"Durables","Manitoba","2017",37.7
+"Durables","Manitoba","2018",35.9
+"Durables","Manitoba","2019",37.8
+"Durables","Manitoba","2020",33.7
+"Durables","Manitoba","2021",36.2
+"Non-durables","Manitoba","2012",25.1
+"Non-durables","Manitoba","2013",24.8
+"Non-durables","Manitoba","2014",25.8
+"Non-durables","Manitoba","2015",27.1
+"Non-durables","Manitoba","2016",27
+"Non-durables","Manitoba","2017",26.5
+"Non-durables","Manitoba","2018",26.9
+"Non-durables","Manitoba","2019",26
+"Non-durables","Manitoba","2020",26.9
+"Non-durables","Manitoba","2021",29.4
+"Manufacturing","Saskatchewan","2012",28.2
+"Manufacturing","Saskatchewan","2013",30.5
+"Manufacturing","Saskatchewan","2014",29.4
+"Manufacturing","Saskatchewan","2015",27.3
+"Manufacturing","Saskatchewan","2016",25.5
+"Manufacturing","Saskatchewan","2017",28.8
+"Manufacturing","Saskatchewan","2018",28.3
+"Manufacturing","Saskatchewan","2019",30.3
+"Manufacturing","Saskatchewan","2020",30.8
+"Manufacturing","Saskatchewan","2021",31.6
+"Durables","Saskatchewan","2012",18
+"Durables","Saskatchewan","2013",19.1
+"Durables","Saskatchewan","2014",17.8
+"Durables","Saskatchewan","2015",17.7
+"Durables","Saskatchewan","2016",15.7
+"Durables","Saskatchewan","2017",18.1
+"Durables","Saskatchewan","2018",17
+"Durables","Saskatchewan","2019",18.4
+"Durables","Saskatchewan","2020",18.8
+"Durables","Saskatchewan","2021",18.7
+"Non-durables","Saskatchewan","2012",10.1
+"Non-durables","Saskatchewan","2013",11.4
+"Non-durables","Saskatchewan","2014",11.6
+"Non-durables","Saskatchewan","2015",9.6
+"Non-durables","Saskatchewan","2016",9.8
+"Non-durables","Saskatchewan","2017",10.7
+"Non-durables","Saskatchewan","2018",11.3
+"Non-durables","Saskatchewan","2019",11.9
+"Non-durables","Saskatchewan","2020",11.9
+"Non-durables","Saskatchewan","2021",12.9
+"Manufacturing","Alberta","2012",139.3
+"Manufacturing","Alberta","2013",142.8
+"Manufacturing","Alberta","2014",145.4
+"Manufacturing","Alberta","2015",141.7
+"Manufacturing","Alberta","2016",116.7
+"Manufacturing","Alberta","2017",119.5
+"Manufacturing","Alberta","2018",132.9
+"Manufacturing","Alberta","2019",133.9
+"Manufacturing","Alberta","2020",125.9
+"Manufacturing","Alberta","2021",124.6
+"Durables","Alberta","2012",88.8
+"Durables","Alberta","2013",82.8
+"Durables","Alberta","2014",88.9
+"Durables","Alberta","2015",87.2
+"Durables","Alberta","2016",69.5
+"Durables","Alberta","2017",68.9
+"Durables","Alberta","2018",78.4
+"Durables","Alberta","2019",77.6
+"Durables","Alberta","2020",69.3
+"Durables","Alberta","2021",70.8
+"Non-durables","Alberta","2012",50.6
+"Non-durables","Alberta","2013",59.9
+"Non-durables","Alberta","2014",56.5
+"Non-durables","Alberta","2015",54.5
+"Non-durables","Alberta","2016",47.2
+"Non-durables","Alberta","2017",50.6
+"Non-durables","Alberta","2018",54.5
+"Non-durables","Alberta","2019",56.3
+"Non-durables","Alberta","2020",56.6
+"Non-durables","Alberta","2021",53.8
+"Manufacturing","British Columbia","2012",173.7
+"Manufacturing","British Columbia","2013",158.8
+"Manufacturing","British Columbia","2014",167.7
+"Manufacturing","British Columbia","2015",177.2
+"Manufacturing","British Columbia","2016",177.8
+"Manufacturing","British Columbia","2017",184.2
+"Manufacturing","British Columbia","2018",181.4
+"Manufacturing","British Columbia","2019",172.7
+"Manufacturing","British Columbia","2020",167.8
+"Manufacturing","British Columbia","2021",183.4
+"Durables","British Columbia","2012",105.4
+"Durables","British Columbia","2013",95.1
+"Durables","British Columbia","2014",99.6
+"Durables","British Columbia","2015",103.7
+"Durables","British Columbia","2016",106.4
+"Durables","British Columbia","2017",106.9
+"Durables","British Columbia","2018",105.8
+"Durables","British Columbia","2019",107.3
+"Durables","British Columbia","2020",98.8
+"Durables","British Columbia","2021",104.2
+"Non-durables","British Columbia","2012",68.3
+"Non-durables","British Columbia","2013",63.8
+"Non-durables","British Columbia","2014",68
+"Non-durables","British Columbia","2015",73.5
+"Non-durables","British Columbia","2016",71.3
+"Non-durables","British Columbia","2017",77.4
+"Non-durables","British Columbia","2018",75.6
+"Non-durables","British Columbia","2019",65.4
+"Non-durables","British Columbia","2020",68.9
+"Non-durables","British Columbia","2021",79.2
