@@ -1,141 +1,141 @@
-"Geography","year","count"
-"Canada","2012","34,834,973"
-"Canada","2013","35,209,597"
-"Canada","2014","35,555,305"
-"Canada","2015","35,823,591"
-"Canada","2016","36,257,421"
-"Canada","2017","36,722,075"
-"Canada","2018","37,259,485"
-"Canada","2019","37,828,162"
-"Canada","2020","38,027,406"
-"Canada","2021","38,451,454"
-"Newfoundland and Labrador","2012","527,065"
-"Newfoundland and Labrador","2013","527,948"
-"Newfoundland and Labrador","2014","528,266"
-"Newfoundland and Labrador","2015","528,843"
-"Newfoundland and Labrador","2016","530,368"
-"Newfoundland and Labrador","2017","530,153"
-"Newfoundland and Labrador","2018","528,926"
-"Newfoundland and Labrador","2019","528,442"
-"Newfoundland and Labrador","2020","526,046"
-"Newfoundland and Labrador","2021","528,335"
-"Prince Edward Island","2012","144,396"
-"Prince Edward Island","2013","143,943"
-"Prince Edward Island","2014","144,342"
-"Prince Edward Island","2015","144,949"
-"Prince Edward Island","2016","147,699"
-"Prince Edward Island","2017","150,595"
-"Prince Edward Island","2018","153,906"
-"Prince Edward Island","2019","157,025"
-"Prince Edward Island","2020","159,179"
-"Prince Edward Island","2021","163,775"
-"Nova Scotia","2012","942,829"
-"Nova Scotia","2013","939,442"
-"Nova Scotia","2014","938,157"
-"Nova Scotia","2015","938,914"
-"Nova Scotia","2016","946,623"
-"Nova Scotia","2017","956,074"
-"Nova Scotia","2018","967,578"
-"Nova Scotia","2019","982,592"
-"Nova Scotia","2020","989,154"
-"Nova Scotia","2021","1,006,805"
-"New Brunswick","2012","758,408"
-"New Brunswick","2013","758,379"
-"New Brunswick","2014","759,192"
-"New Brunswick","2015","759,971"
-"New Brunswick","2016","764,820"
-"New Brunswick","2017","768,029"
-"New Brunswick","2018","772,793"
-"New Brunswick","2019","780,907"
-"New Brunswick","2020","783,814"
-"New Brunswick","2021","795,755"
-"Quebec","2012","8,076,838"
-"Quebec","2013","8,122,462"
-"Quebec","2014","8,162,631"
-"Quebec","2015","8,190,074"
-"Quebec","2016","8,246,383"
-"Quebec","2017","8,326,075"
-"Quebec","2018","8,418,646"
-"Quebec","2019","8,521,542"
-"Quebec","2020","8,551,865"
-"Quebec","2021","8,603,553"
-"Ontario","2012","13,436,625"
-"Ontario","2013","13,559,499"
-"Ontario","2014","13,661,282"
-"Ontario","2015","13,759,762"
-"Ontario","2016","13,948,180"
-"Ontario","2017","14,161,084"
-"Ontario","2018","14,413,055"
-"Ontario","2019","14,666,727"
-"Ontario","2020","14,757,582"
-"Ontario","2021","14,942,272"
-"Manitoba","2012","1,253,210"
-"Manitoba","2013","1,267,105"
-"Manitoba","2014","1,281,690"
-"Manitoba","2015","1,298,120"
-"Manitoba","2016","1,319,800"
-"Manitoba","2017","1,340,426"
-"Manitoba","2018","1,357,856"
-"Manitoba","2019","1,373,884"
-"Manitoba","2020","1,381,809"
-"Manitoba","2021","1,396,460"
-"Saskatchewan","2012","1,088,177"
-"Saskatchewan","2013","1,102,832"
-"Saskatchewan","2014","1,115,184"
-"Saskatchewan","2015","1,125,588"
-"Saskatchewan","2016","1,139,492"
-"Saskatchewan","2017","1,151,044"
-"Saskatchewan","2018","1,159,648"
-"Saskatchewan","2019","1,167,271"
-"Saskatchewan","2020","1,165,963"
-"Saskatchewan","2021","1,168,901"
-"Alberta","2012","3,897,746"
-"Alberta","2013","4,008,421"
-"Alberta","2014","4,103,702"
-"Alberta","2015","4,163,048"
-"Alberta","2016","4,207,139"
-"Alberta","2017","4,253,530"
-"Alberta","2018","4,311,439"
-"Alberta","2019","4,376,860"
-"Alberta","2020","4,412,013"
-"Alberta","2021","4,450,442"
-"British Columbia","2012","4,594,846"
-"British Columbia","2013","4,663,919"
-"British Columbia","2014","4,743,505"
-"British Columbia","2015","4,795,547"
-"British Columbia","2016","4,886,638"
-"British Columbia","2017","4,962,706"
-"British Columbia","2018","5,052,131"
-"British Columbia","2019","5,148,047"
-"British Columbia","2020","5,173,896"
-"British Columbia","2021","5,267,184"
-"Yukon","2012","36,347"
-"Yukon","2013","36,384"
-"Yukon","2014","37,223"
-"Yukon","2015","37,730"
-"Yukon","2016","38,724"
-"Yukon","2017","39,705"
-"Yukon","2018","40,533"
-"Yukon","2019","41,460"
-"Yukon","2020","42,109"
-"Yukon","2021","43,119"
-"Northwest Territories 5","2012","43,656"
-"Northwest Territories 5","2013","43,727"
-"Northwest Territories 5","2014","44,031"
-"Northwest Territories 5","2015","44,443"
-"Northwest Territories 5","2016","44,471"
-"Northwest Territories 5","2017","44,825"
-"Northwest Territories 5","2018","44,487"
-"Northwest Territories 5","2019","44,512"
-"Northwest Territories 5","2020","44,395"
-"Northwest Territories 5","2021","44,621"
-"Nunavut 5","2012","34,830"
-"Nunavut 5","2013","35,536"
-"Nunavut 5","2014","36,100"
-"Nunavut 5","2015","36,602"
-"Nunavut 5","2016","37,084"
-"Nunavut 5","2017","37,829"
-"Nunavut 5","2018","38,487"
-"Nunavut 5","2019","38,893"
-"Nunavut 5","2020","39,581"
-"Nunavut 5","2021","40,232"
+Geography,year,count
+Canada,2012,34834973.00
+Canada,2013,35209597.00
+Canada,2014,35555305.00
+Canada,2015,35823591.00
+Canada,2016,36257421.00
+Canada,2017,36722075.00
+Canada,2018,37259485.00
+Canada,2019,37828162.00
+Canada,2020,38027406.00
+Canada,2021,38451454.00
+Newfoundland and Labrador,2012,527065.00
+Newfoundland and Labrador,2013,527948.00
+Newfoundland and Labrador,2014,528266.00
+Newfoundland and Labrador,2015,528843.00
+Newfoundland and Labrador,2016,530368.00
+Newfoundland and Labrador,2017,530153.00
+Newfoundland and Labrador,2018,528926.00
+Newfoundland and Labrador,2019,528442.00
+Newfoundland and Labrador,2020,526046.00
+Newfoundland and Labrador,2021,528335.00
+Prince Edward Island,2012,144396.00
+Prince Edward Island,2013,143943.00
+Prince Edward Island,2014,144342.00
+Prince Edward Island,2015,144949.00
+Prince Edward Island,2016,147699.00
+Prince Edward Island,2017,150595.00
+Prince Edward Island,2018,153906.00
+Prince Edward Island,2019,157025.00
+Prince Edward Island,2020,159179.00
+Prince Edward Island,2021,163775.00
+Nova Scotia,2012,942829.00
+Nova Scotia,2013,939442.00
+Nova Scotia,2014,938157.00
+Nova Scotia,2015,938914.00
+Nova Scotia,2016,946623.00
+Nova Scotia,2017,956074.00
+Nova Scotia,2018,967578.00
+Nova Scotia,2019,982592.00
+Nova Scotia,2020,989154.00
+Nova Scotia,2021,1006805.00
+New Brunswick,2012,758408.00
+New Brunswick,2013,758379.00
+New Brunswick,2014,759192.00
+New Brunswick,2015,759971.00
+New Brunswick,2016,764820.00
+New Brunswick,2017,768029.00
+New Brunswick,2018,772793.00
+New Brunswick,2019,780907.00
+New Brunswick,2020,783814.00
+New Brunswick,2021,795755.00
+Quebec,2012,8076838.00
+Quebec,2013,8122462.00
+Quebec,2014,8162631.00
+Quebec,2015,8190074.00
+Quebec,2016,8246383.00
+Quebec,2017,8326075.00
+Quebec,2018,8418646.00
+Quebec,2019,8521542.00
+Quebec,2020,8551865.00
+Quebec,2021,8603553.00
+Ontario,2012,13436625.00
+Ontario,2013,13559499.00
+Ontario,2014,13661282.00
+Ontario,2015,13759762.00
+Ontario,2016,13948180.00
+Ontario,2017,14161084.00
+Ontario,2018,14413055.00
+Ontario,2019,14666727.00
+Ontario,2020,14757582.00
+Ontario,2021,14942272.00
+Manitoba,2012,1253210.00
+Manitoba,2013,1267105.00
+Manitoba,2014,1281690.00
+Manitoba,2015,1298120.00
+Manitoba,2016,1319800.00
+Manitoba,2017,1340426.00
+Manitoba,2018,1357856.00
+Manitoba,2019,1373884.00
+Manitoba,2020,1381809.00
+Manitoba,2021,1396460.00
+Saskatchewan,2012,1088177.00
+Saskatchewan,2013,1102832.00
+Saskatchewan,2014,1115184.00
+Saskatchewan,2015,1125588.00
+Saskatchewan,2016,1139492.00
+Saskatchewan,2017,1151044.00
+Saskatchewan,2018,1159648.00
+Saskatchewan,2019,1167271.00
+Saskatchewan,2020,1165963.00
+Saskatchewan,2021,1168901.00
+Alberta,2012,3897746.00
+Alberta,2013,4008421.00
+Alberta,2014,4103702.00
+Alberta,2015,4163048.00
+Alberta,2016,4207139.00
+Alberta,2017,4253530.00
+Alberta,2018,4311439.00
+Alberta,2019,4376860.00
+Alberta,2020,4412013.00
+Alberta,2021,4450442.00
+British Columbia,2012,4594846.00
+British Columbia,2013,4663919.00
+British Columbia,2014,4743505.00
+British Columbia,2015,4795547.00
+British Columbia,2016,4886638.00
+British Columbia,2017,4962706.00
+British Columbia,2018,5052131.00
+British Columbia,2019,5148047.00
+British Columbia,2020,5173896.00
+British Columbia,2021,5267184.00
+Yukon,2012,36347.00
+Yukon,2013,36384.00
+Yukon,2014,37223.00
+Yukon,2015,37730.00
+Yukon,2016,38724.00
+Yukon,2017,39705.00
+Yukon,2018,40533.00
+Yukon,2019,41460.00
+Yukon,2020,42109.00
+Yukon,2021,43119.00
+Northwest Territories 5,2012,43656.00
+Northwest Territories 5,2013,43727.00
+Northwest Territories 5,2014,44031.00
+Northwest Territories 5,2015,44443.00
+Northwest Territories 5,2016,44471.00
+Northwest Territories 5,2017,44825.00
+Northwest Territories 5,2018,44487.00
+Northwest Territories 5,2019,44512.00
+Northwest Territories 5,2020,44395.00
+Northwest Territories 5,2021,44621.00
+Nunavut 5,2012,34830.00
+Nunavut 5,2013,35536.00
+Nunavut 5,2014,36100.00
+Nunavut 5,2015,36602.00
+Nunavut 5,2016,37084.00
+Nunavut 5,2017,37829.00
+Nunavut 5,2018,38487.00
+Nunavut 5,2019,38893.00
+Nunavut 5,2020,39581.00
+Nunavut 5,2021,40232.00
