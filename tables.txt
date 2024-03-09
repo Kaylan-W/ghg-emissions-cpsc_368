@@ -1,0 +1,44 @@
+drop table Province cascade constraints;
+drop table Industry cascade constraints;
+drop table IndustryMapping cascade constraints;
+drop table Emissions cascade constraints;
+
+CREATE TABLE Province (
+	Geography VARCHAR2 (25),
+	Year INTEGER,
+	Population NUMERIC,
+	PRIMARY KEY (Geography, Year)
+);
+
+CREATE TABLE Industry (
+	NAICS_Industry VARCHAR2 (15),
+	IndustryID VARCHAR2 (5),
+	Geography VARCHAR2 (25),
+	Year INTEGER,
+	No_Employed NUMBER (5, 1),
+	FOREIGN KEY (IndustryID) REFERENCES IndustryMapping,
+	PRIMARY KEY (NAICS_Industry, Geography, Year)
+);
+
+	
+CREATE TABLE IndustryMapping (
+	IndustryCode VARCHAR2 (5),
+	IndustryName VARCHAR2 (99),
+	NAICS INTEGER,
+	IOIC VARCHAR2 (7),
+	Durable INTEGER,
+	PRIMARY KEY (IndustryCode)
+);
+	
+CREATE TABLE Emissions (
+	Geography VARCHAR2 (25),
+	IndustryName VARCHAR2 (99),
+	IOIC VARCHAR2 (7),
+	Year INTEGER,
+	Emissions INTEGER,
+	IndustryID VARCHAR2 (5),
+	FOREIGN KEY (IndustryID) REFERENCES IndustryMapping,
+	PRIMARY KEY (Geography, Year, IOIC)
+);
+
+
