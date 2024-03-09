@@ -96,3 +96,5 @@ IndustryCode,IndustryName,NAICS,IOIC,Durable
 339,Miscellaneous manufacturingTable note1,339,BS33900,1
 3391,Medical equipment and supplies manufacturing,339,BS33910,1
 3399,Other miscellaneous manufacturingTable note1,339,BS33990,1
+99999,Households: Motor fuels and lubricants,999,9999999,0
+99998,Households: Electricity and other fuels,998,9999998,0
