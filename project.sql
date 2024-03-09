@@ -6773,3 +6773,5 @@ insert into IndustryMapping  values ('3379', 'Other furniture-related product ma
 insert into IndustryMapping  values ('339', 'Miscellaneous manufacturingTable note1', '339', 'BS33900', 1);
 insert into IndustryMapping  values ('3391', 'Medical equipment and supplies manufacturing', '339', 'BS33910', 1);
 insert into IndustryMapping  values ('3399', 'Other miscellaneous manufacturingTable note1', '339', 'BS33990', 1);
+insert into IndustryMapping  values ('99999', 'Households: Motor fuels and lubricants', '999', '9999999', 0);
+insert into IndustryMapping  values ('99998', 'Households: Electricity and other fuels', '998', '9999998', 0);
