@@ -9,17 +9,6 @@ CREATE TABLE Province (
 	Population NUMERIC,
 	PRIMARY KEY (Geography, Year)
 );
-
-CREATE TABLE Industry (
-	NAICS_Industry VARCHAR2 (15),
-	IndustryID VARCHAR2 (5),
-	Geography VARCHAR2 (25),
-	Year INTEGER,
-	No_Employed NUMBER (5, 1),
-	FOREIGN KEY (IndustryID) REFERENCES IndustryMapping,
-	PRIMARY KEY (NAICS_Industry, Geography, Year)
-);
-
 	
 CREATE TABLE IndustryMapping (
 	IndustryCode VARCHAR2 (5),
@@ -28,6 +17,14 @@ CREATE TABLE IndustryMapping (
 	IOIC VARCHAR2 (7),
 	Durable INTEGER,
 	PRIMARY KEY (IndustryCode)
+);
+
+CREATE TABLE Industry (
+	Good_Type VARCHAR2 (15),
+	Geography VARCHAR2 (25),
+	Year INTEGER,
+	No_Employed NUMBER (5, 1),
+	PRIMARY KEY (Good_Type, Geography, Year)
 );
 	
 CREATE TABLE Emissions (

@@ -1,7 +1,7 @@
 import pandas as pd
 
-file_paths = ["data/tidied_population_estimates.csv","data/tidied_employment_estimates.csv","data/tidied_emissions_estimates.csv","data/tidied_industry_mapping.csv"]
-tables = ['province','employees','fuel_emissions','maping']
+file_paths = ["data/tidied_population_estimates.csv","data/tidied_industry_mapping.csv","data/tidied_employment_estimates.csv","data/tidied_emissions_with_key.csv"]
+tables = ['province', 'maping', 'employees', 'fuel_emissions']
 # Function to generate INSERT statements for the Industry table
 
 
@@ -33,7 +33,7 @@ def generate_insert_province_statements(data):
 def generate_insert_fuel_emissions_statements(data):
     insert_statements = []
     for index, row in data.iterrows():
-        insert_statement = f"insert into Emissions values ('{row[0]}', '{row[1]}', '{row[2]}', {row[3]}, {row[4]});"
+        insert_statement = f"insert into Emissions values ('{row[0]}', '{row[1]}', '{row[2]}', {row[3]}, {row[4]}, '{row[5]}');"
         insert_statements.append(insert_statement)
     return insert_statements
 
@@ -55,16 +55,16 @@ if __name__ == "__main__":
             data = pd.read_csv(file_path)
             insert_statements = generate_insert_employees_statements(data)
             inserts.append(insert_statements)
+        elif table_name == 'maping':
+            insert_statements = generate_insert_maping_statements(data)
+            inserts.append(insert_statements)
         elif table_name == 'province':
             insert_statements = generate_insert_province_statements(data)
             inserts.append(insert_statements)
         elif table_name == 'fuel_emissions':
             insert_statements = generate_insert_fuel_emissions_statements(data)
             inserts.append(insert_statements)
-       
-        elif table_name == 'maping':
-            insert_statements = generate_insert_maping_statements(data)
-            inserts.append(insert_statements)
+
        # print(insert_statements)
         # Execute the INSERT statements using your database connection
         # db_connection = your_database_connection_function()
